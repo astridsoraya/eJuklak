@@ -54,6 +54,9 @@ Word sumber.
 dari tag-tag `h1`, `h2`, dan seterusnya. Jika entri daftar isi ditekan,
 layar langsung ter-scroll ke entri yang dituju.
 
+`FRS010` Aplikasi baik web maupun mobile app harus dapat dijalankan secara offline
+(tanpa koneksi internet).
+
 Tips:
 
 * Supaya HTML dapat secara otomatis ditampilkan dengan baik di layar yang
