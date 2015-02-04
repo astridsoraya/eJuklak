@@ -284,3 +284,18 @@ sebagainya.
     * **Kasubag Umum & Perlengkapan**: Walip, A.Md
     * **Staf Akademik**: Rikie Setiawan, S.AB.
     * **Staf Keuangan & Kepegawaian**: Filifo Zebua, Dwina Irlistriarti, Dra.
+
+### 1.5 Daftar Dosen FTIS
+
+Berikut adalah daftar nama dosen FTIS beserta, latar belakang 
+pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, 
+alamat email dan website.
+
+* **Guru Besar**
+    1. **Prof B. Suprapto Brotosiswojo,** Dr. (Purdue University,USA)
+    	 Fisika, Komputasi, Komputasi Kuantam, Pemodelan Matematika Gejala Alam.
+   	 Email: bensupra@unpar.ac.id
+* **Lektor Kepala**
+    2. **Agus Sukamana,** Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI):
+    	 Teori Peluang, Pengendalian Mutu, Statistika Elementer.
+   	 Email: asukmana@unpar.ac.id
