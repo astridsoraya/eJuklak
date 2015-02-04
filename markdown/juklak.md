@@ -272,3 +272,15 @@ sebagainya.
     * **Ketua**: Philips Nicolas Gunawidjaja, BSc, PhD
     * **KaLab. Fisika Dasar**: Risti Suryantari, S.Si,M.Si.
     * **KaLab. Elektronika & Fisika Lanjut**: Janto V. Sulungbudi, Drs.
+* **Program Studi Teknik Informatika**
+    * **Ketua**: Dr. Thomas Anung Basuki
+    * **Sekretaris**: Lionov, SKom, MSc
+    * **KaLab. Komputasi**: Chandra Wijaya, ST, MT
+* **Tata Usaha**
+    * **Kepala**: Pranyoto Teguh Imanto
+    * **Kasubag Akademik**: Petrus Purnomo
+    * **Kasubag Keuangan & Kepegawaian**: Budi Santoso
+    * **Kasubag Kemahasiswaan & Alumni**: Fransiscus Sudarno
+    * **Kasubag Umum & Perlengkapan**: Walip, A.Md
+    * **Staf Akademik**: Rikie Setiawan, S.AB.
+    * **Staf Keuangan & Kepegawaian**: Filifo Zebua, Dwina Irlistriarti, Dra.
