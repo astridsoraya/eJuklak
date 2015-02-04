@@ -191,16 +191,16 @@ Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
 1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi
    FTIS untuk menghasilkan lulusan yang:
-    a. Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta
+	1. Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta
 	   aplikasinya.
-    b. Mampu memecahkan permasalahan di bidang teknologi informasi dan sains
+	2. Mampu memecahkan permasalahan di bidang teknologi informasi dan sains
 	   melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta
 	   menerapkannya untuk peningkatan martabat manusia.
 2. Menghasilkan penelitian di bidang teknologi informasi dan sains yang 
    dapat meningkatkan martabat manusia secara langsung ataupun tidak 
    langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses 
-   pembelajaran dan pengabdian kepada masyarakat. 3. Menjalin kerja sama 
-   dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan 
+   pembelajaran dan pengabdian kepada masyarakat. 
+3. Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan 
    keterkaitan proses pembelajaran, penelitian dan pengabdian kepada 
    masyarakat. 
 
@@ -262,7 +262,40 @@ sebagainya.
     * **Sekretaris**: Philips Nicolas Gunawidjaja, BSc, PhD
 * **Dekanat**
     * **Dekan**: Paulus Tjahjono Tjiang, SSi, PhD.
-    * **WD 1 (Akademik)**: Dr. Thomas Anung Basuki
-    * ...
+    * **WD I (Akademik)**: Dr. Thomas Anung Basuki
+    * **WD II(Keuangan dan Sumberdaya)**: Maria Anestasia, SSi, MSi.
+    * **WD III(Kemahasiswaan dan Alumni)**: Dr.rer.nat. Cecilia E. Nugraheni, ST,MT
+* **Program Studi Matematika**
+    * **Ketua**: Dr. Ferry Jaya Permana
+    * **Sekretaris**: Livia Owen, SSi,MSi.
+* **Program Studi Fisika**
+    * **Ketua**: Philips Nicolas Gunawidjaja, BSc, PhD
+    * **KaLab. Fisika Dasar**: Risti Suryantari, S.Si,M.Si.
+    * **KaLab. Elektronika & Fisika Lanjut**: Janto V. Sulungbudi, Drs.
+* **Program Studi Teknik Informatika**
+    * **Ketua**: Dr. Thomas Anung Basuki
+    * **Sekretaris**: Lionov, SKom, MSc
+    * **KaLab. Komputasi**: Chandra Wijaya, ST, MT
+* **Tata Usaha**
+    * **Kepala**: Pranyoto Teguh Imanto
+    * **Kasubag Akademik**: Petrus Purnomo
+    * **Kasubag Keuangan & Kepegawaian**: Budi Santoso
+    * **Kasubag Kemahasiswaan & Alumni**: Fransiscus Sudarno
+    * **Kasubag Umum & Perlengkapan**: Walip, A.Md
+    * **Staf Akademik**: Rikie Setiawan, S.AB.
+    * **Staf Keuangan & Kepegawaian**: Filifo Zebua, Dwina Irlistriarti, Dra.
 
-...
+### 1.5 Daftar Dosen FTIS
+
+Berikut adalah daftar nama dosen FTIS beserta, latar belakang 
+pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, 
+alamat email dan website.
+
+* **Guru Besar**
+    1. **Prof B. Suprapto Brotosiswojo,** Dr. (Purdue University,USA)
+    	 Fisika, Komputasi, Komputasi Kuantam, Pemodelan Matematika Gejala Alam.
+   	 Email: bensupra@unpar.ac.id
+* **Lektor Kepala**
+    2. **Agus Sukamana,** Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI):
+    	 Teori Peluang, Pengendalian Mutu, Statistika Elementer.
+   	 Email: asukmana@unpar.ac.id
