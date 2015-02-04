@@ -262,7 +262,13 @@ sebagainya.
     * **Sekretaris**: Philips Nicolas Gunawidjaja, BSc, PhD
 * **Dekanat**
     * **Dekan**: Paulus Tjahjono Tjiang, SSi, PhD.
-    * **WD 1 (Akademik)**: Dr. Thomas Anung Basuki
-    * ...
-
-...
+    * **WD I (Akademik)**: Dr. Thomas Anung Basuki
+    * **WD II(Keuangan dan Sumberdaya)**: Maria Anestasia, SSi, MSi.
+    * **WD III(Kemahasiswaan dan Alumni)**: Dr.rer.nat. Cecilia E. Nugraheni, ST,MT
+* **Program Studi Matematika**
+    * **Ketua**: Dr. Ferry Jaya Permana
+    * **Sekretaris**: Livia Owen, SSi,MSi.
+* **Program Studi Fisika**
+    * **Ketua**: Philips Nicolas Gunawidjaja, BSc, PhD
+    * **KaLab. Fisika Dasar**: Risti Suryantari, S.Si,M.Si.
+    * **KaLab. Elektronika & Fisika Lanjut**: Janto V. Sulungbudi, Drs.
