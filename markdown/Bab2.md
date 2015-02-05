@@ -279,6 +279,7 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 | AMS451 | Teori Permainan              |       |  3  |
 | AMS452 | Proyek Pemodelan             |       |  3  |
 | AMS453 | Statistika Multivariat       |       |  3  |
+
 |--------|------------------------------|-------|-----|
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
@@ -295,6 +296,7 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 | AMS471 | Sistem Dinamik               |       |  3  |
 | AMS472 | Matematika Biologi           |       |  3  |
 | AMS371 | Persamaan Diferensial Parsial|       |  3  |
+
 |--------|------------------------------|-------|-----|
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
@@ -312,6 +314,7 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 | AMS424 | Struktur Aljabar Lanjut      |       |  3  |
 | AMS425 | Analisis Lanjut              |       |  3  |
 |--------|------------------------------|-------|-----|
+
 | KODE   | NAMA                                    |  APR  | SKS |
 |--------|-----------------------------------------|-------|-----|
 | AMS480 | Kapita Selekta Pembelajaran Matematika  |       |  3  |
