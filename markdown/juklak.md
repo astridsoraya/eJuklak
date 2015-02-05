@@ -433,5 +433,5 @@ alamat email dan website.
 	Email: husnulhakim@unpar.ac.id
 
    38.	**Vania Natali,** S.Kom (UNPAR), studi S2 - ITB       
-	Email: vania.natali@unpar.ac.id
+	Email: vania.natali@unpar.ac.id  
 
