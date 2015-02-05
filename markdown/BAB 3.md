@@ -33,10 +33,10 @@ e.	Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parah
 | <=2,49      | Maksimum 18 SKS                     |
 	
 
-Dengan penjelasanSatu SKS (Satuan Kredit Semester) bermakna belajar 3 jam seminggu, dengan perincian : 
-•	1 jam kuliah 
-•	1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
-•	1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
+Dengan penjelasanSatu SKS (Satuan Kredit Semester) bermakna belajar 3 jam seminggu, dengan perincian :   
+* 1 jam kuliah 
+* 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
+* 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
 
 Untuk menentukan matakuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
 Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan masalah akademik dan non-akademik yang dirasakan dapat mengganggu studi mahasiswa yang bersangkutan di FTIS . Namun perlu diperhatikan bahwa dosen wali hanya bertindak sebagai penasehat/pemberi saran berdasarkan pengalamannya. Penyelesaian masalah sepenuhnya berada di tangan mahasiswa yang mengalaminya.
