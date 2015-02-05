@@ -1,6 +1,7 @@
 BAB 2 PENYELENGGARAAN MATA KULIAH
-_________________________________
 =================================
+_________________________________
+
 
 Secara umum matakuliah yang diselenggarakan oleh program studi dapat 
 dikelompokkan kedalam dua jenis yaitu **matakuliah wajib** dan **matakuliah 
