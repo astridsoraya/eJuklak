@@ -88,6 +88,20 @@ untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR.
 | AMS202 | Matematika 4                |  3  | Teknik Sipil        |
 
 
+#### 2.3.1 KULIAH LAYANAN PROGRAM STUDI FISIKA
+
+| Kode    | Mata Kuliah                 | SKS | Prodi yang dilayani |
+|-------- |-----------------------------|-----|---------------------|
+| APS 181 | Matematika Informatika      |  4  | Teknik Informatika  |
+| APS 182 | Probabilitas dan Statistika |  3  | Teknik Informatika  |
+| APS 183 | Fisika Matematika 1         |  4  | Fisika              |
+| APS 184 | Fisika Matematika 2         |  4  | Fisika              |
+| APS 185 | Kalkulus I                  |  2  | Teknik Industri     |
+| APS 186 | Kalkulus II                 |  2  | Teknik Industri     |
+| APS 187 | Matriks dan Ruang Vektor    |  3  | Teknik Industri     |
+| APS 188 | Kalkulus Peubah Banyak      |  2  | Teknik Industri     |
+| APS 189 | Kalkulus I                  |  3  | Teknik Kimia        |
+
 
 
  
