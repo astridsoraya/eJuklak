@@ -306,7 +306,7 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 | AMS423 | Teori Graf                   |       |  3  |
 | AMS424 | Struktur Aljabar Lanjut      |       |  3  |
 | AMS425 | Analisis Lanjut              |       |  3  |
-|--------|------------------------------|-------|-----|
+
 
 | KODE   | NAMA                                    |  APR  | SKS |
 |--------|-----------------------------------------|-------|-----|
@@ -321,3 +321,25 @@ persyaratan yang berlaku di Program Studi Matematika dan program studi
 penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang 
 berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan 
 Bidang Kajian minimal 15 sks.
+
+#### 2.5.3 PETA DAN PRASYARAT MATAKULIAH
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
+
+#### 2.5.3 DESKRIPSI SINGKAT MATAKULIAH PRODI MATEMATIKA
+
+| KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                                                                                                          |
+|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AMS121  | KALKULUS 1 (*CALCULUS 1*)                                                                                                                                                                             |
+|    -    | Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.                                                                                                      |
+| AMS123  | PEMECAHAN,MASALAH,MATEMATIKA (*MATHEMATICAL PROBLEM SOLVING*)                                                                                                                                         |
+|    -    | Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.     |
+| AMS151  | STATISTIKA ELEMENTER (*ELEMENTARY STATISTICS*)                                                                                                                                                        |
+|    -    | Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,,SPSS, Minitab. |
+| AMS122  | KALKULUS 2 (*CALCULUS 2*)                                                                                                                                                                             |
+|  AMS121 | Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.                                                                                               |
+| AMS124  | MATEMATIKA DISKRET (*DISCRETE MATHEMATICS*)                                                                                                                                                           |
+| AMS123  | Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.                                                                                            |
+| AMS126  | ALJABAR MATRIKS (*Matrix Algebra*)                                                                                                                                                                    |
+|    -    | Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.                                     |
+| AMS221  | KALKULUS,VEKTOR (*VECTOR CALCULUS*)                                                                                                                                                                   |
+| AMS122  | Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.                                                                                      |
