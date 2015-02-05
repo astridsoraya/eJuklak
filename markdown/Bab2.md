@@ -243,7 +243,6 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 
 #####Kelompok Bidang Kajian: Rekayasa Keuangan
 ######Matematika Asuransi
-|--------|------------------------------|-------|-----|
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
 | AMS330 | Pengantar Matematika Asuransi|       |  3  |
@@ -251,7 +250,6 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 | AMS431 | Metoda Statistika Asuransi   |       |  3  |
 | AMS342 | Teori Risiko                 |       |  3  |
 ######Matematika Keuangan
-|--------|------------------------------|-------|-----|
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
 | AMS341 | Komputasi Keuangan           |       |  3  |
@@ -263,14 +261,12 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 
 #####Kelompok Bidang Kajian: Rekayasa Keuangan
 ######Optimasi dan Teori Kontrol
-|--------|------------------------------|-------|-----|
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
 | AMS361 | Pemrograman Linear           |       |  3  |
 | AMS461 | Kontrol Optimum              |       |  3  |
 | AMS462 | Kontrol Linear               |       |  3  |
 ######Statistika & Penelitian Operasional
-|--------|------------------------------|-------|-----|
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
 | AMS352 | Pemrograman Stokastik        |       |  3  |
@@ -280,7 +276,6 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 | AMS452 | Proyek Pemodelan             |       |  3  |
 | AMS453 | Statistika Multivariat       |       |  3  |
 
-|--------|------------------------------|-------|-----|
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
 | AMS454 | Statistika Non Parameter     |       |  3  |
@@ -290,14 +285,12 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 | AMS350 | Kapita Selekta Statistika    |       |  3  |
 | AMS450 | Kapita Selekta Penelitian Operasional|       |  3  |
 ######Matematika Terapan
-|--------|------------------------------|-------|-----|
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
 | AMS471 | Sistem Dinamik               |       |  3  |
 | AMS472 | Matematika Biologi           |       |  3  |
 | AMS371 | Persamaan Diferensial Parsial|       |  3  |
 
-|--------|------------------------------|-------|-----|
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
 | AMS372 | Metoda Matematika Lanjut     |       |  3  |
