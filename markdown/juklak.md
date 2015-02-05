@@ -432,6 +432,6 @@ alamat email dan website.
 	Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data   
 	Email: husnulhakim@unpar.ac.id
 
-   38.	Vania Natali, S.Kom (UNPAR), studi S2 - ITB       
+   38.	**Vania Natali,** S.Kom (UNPAR), studi S2 - ITB       
 	Email: vania.natali@unpar.ac.id
 
