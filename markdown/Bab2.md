@@ -343,3 +343,5 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |    -    | Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.                                     |
 | AMS221  | KALKULUS,VEKTOR (*VECTOR CALCULUS*)                                                                                                                                                                   |
 | AMS122  | Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.                                                                                      |
+
+![](images/unpar.png)
