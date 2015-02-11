@@ -11,3 +11,8 @@ Kamis,05 Februari 2015 <Minggu I pertemuan 2>
           (start)konversi juklak bab II dan bab III ke bentuk MD,
           (insert proggrammer proggress here)
           
+Jumat,06 Februari 2015 <Minggu I pertemuan tambahan 1>   
+---------------------------------------------
+  Agenda:Diskusi desain program,percobaan program "hello world" ke device  
+  Progress:Desain dasar dan warna program sementara sudah ditentukan,program masih belum bisa masuk deivice
+
