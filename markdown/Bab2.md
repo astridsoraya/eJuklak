@@ -281,14 +281,14 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 | AMS452 | Proyek Pemodelan             |       |  3  |
 | AMS453 | Statistika Multivariat       |       |  3  |
    
-   | KODE   | NAMA                         |  APR  | SKS |
-   |--------|------------------------------|-------|-----|
-   | AMS454 | Statistika Non Parameter     |       |  3  |
-   | AMS455 | Perancangan Percobaan        |       |  3  |
-   | AMS456 | Teori Antrian                |       |  3  |
-   | AMS457 | Keandalan                    |       |  3  |
-   | AMS350 | Kapita Selekta Statistika    |       |  3  |
-   | AMS450 | Kapita Selekta Penelitian Operasional|       |  3  |
+| KODE   | NAMA                         |  APR  | SKS |
+|--------|------------------------------|-------|-----|
+| AMS454 | Statistika Non Parameter     |       |  3  |
+| AMS455 | Perancangan Percobaan        |       |  3  |
+| AMS456 | Teori Antrian                |       |  3  |
+| AMS457 | Keandalan                    |       |  3  |
+| AMS350 | Kapita Selekta Statistika    |       |  3  |
+| AMS450 | Kapita Selekta Penelitian Operasional|       |  3  |
 ######Matematika Terapan
 
 | KODE   | NAMA                         |  APR  | SKS |
