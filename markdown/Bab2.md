@@ -68,7 +68,7 @@ Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS 
 untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR.
 
-   ##### 2.3 KULIAH LAYANAN PROGRAM STUDI MATEMATIKA
+##### 2.3 KULIAH LAYANAN PROGRAM STUDI MATEMATIKA
 | Kode   | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |--------|-----------------------------|-----|---------------------|
 | AMS100 | Matematika Informatika      |  4  | Teknik Informatika  |
@@ -87,7 +87,7 @@ untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR.
 | AMS202 | Matematika 4                |  3  | Teknik Sipil        |
 
 
-   ##### 2.3 KULIAH LAYANAN PROGRAM STUDI FISIKA
+##### 2.3 KULIAH LAYANAN PROGRAM STUDI FISIKA
 
 | Kode    | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |-------- |-----------------------------|-----|---------------------|
@@ -102,7 +102,7 @@ untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR.
 | APS 189 | Kalkulus I                  |  3  | Teknik Kimia        |
 | FFT 113 | Kosmologi                   |  2  | Filsafat            |
 
-   ##### 2.3 KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA
+##### 2.3 KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA
 
 | Kode    | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |-------- |-----------------------------|-----|---------------------|
@@ -114,7 +114,7 @@ oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi,
 dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester 
 penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
  
-   ##### 2.4 Susunan Matakuliah Umum
+##### 2.4 Susunan Matakuliah Umum
 
 |  Kode  |         Mata Kuliah        | SKS |   
 |:------:|:--------------------------:|----:|   
@@ -131,7 +131,7 @@ penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
 | MKU011 | Estetika         |  2  |
 | MKU012 | Logika           |  2  |
 
-   ##### 2.4 Uraian Singkat Matakuliah Umum
+##### 2.4 Uraian Singkat Matakuliah Umum
 
 | Nama MK PRASYARAT | NAMA MATAKULIAH DESKRIPSI MATAKULIAH                                                                  |
 |-------------------|-------------------------------------------------------------------------------------------------------|
@@ -157,7 +157,7 @@ penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
 
 #### 2.5 Kurikulum Program Studi Matematika
 
-   ##### 2.5 Susunan Mata Kuliah
+##### 2.5 Susunan Mata Kuliah
 
 |        |              Semester 1      |       |     |
 |--------|------------------------------|-------|-----|
@@ -329,10 +329,10 @@ penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang
 berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan 
 Bidang Kajian minimal 15 sks.
 
-   ##### 2.5 PETA DAN PRASYARAT MATAKULIAH
+##### 2.5 PETA DAN PRASYARAT MATAKULIAH
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
-   ##### 2.5 DESKRIPSI SINGKAT MATAKULIAH PRODI MATEMATIKA
+##### 2.5 DESKRIPSI SINGKAT MATAKULIAH PRODI MATEMATIKA
 
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                                                                                                          |
 |---------|-----------------------------------------------------------------------------------------------------------------|
