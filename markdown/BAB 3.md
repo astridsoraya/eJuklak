@@ -48,5 +48,12 @@ Dosen wali akan memeriksa FRS yang telah diisi oleh mahasiswa walinya. Jika dose
 
   
   
-Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi matakuliah (yang sudah disetujui dosen wali). Mahasiswa wajib memeriksa email konfirmasi ini. Jika ada kesalahan atau perbedaan yang terjadi, mahasiswa harus segera melaporkannya ke dosen wali. 
+Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi matakuliah (yang sudah disetujui dosen wali). Mahasiswa wajib memeriksa email konfirmasi ini. Jika ada kesalahan atau perbedaan yang terjadi, mahasiswa harus segera melaporkannya ke dosen wali.  
+
+> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> 
+> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+> id sem consectetuer libero luctus adipiscing.
 
