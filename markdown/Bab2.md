@@ -116,20 +116,21 @@ dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester
 penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
  
 ##### 2.4.1 Susunan Matakuliah Umum
-   |  Kode  |         Mata Kuliah        | SKS |   
-   |:------:|:--------------------------:|----:|   
-   | MKU001 | Pendidikan Pancasila       |  2  |  
-   | MKU002 | Pendidikan Kewarganegaraan |  2  |  
-   | MKU003 | Agama Katolik              |  2  |   
-   | MKU004 | Fenomenologi Agama         |  2  |   
-   | MKU008 | Etika                      |  2  |
 
-   |  Kode  |    Mata Kuliah   | SKS |
-   |:------:|:----------------:|----:|
-   | MKU009 | Bahasa Indonesia |  2  |
-   | MKU010 | Bahasa Inggris   |  2  |
-   | MKU011 | Estetika         |  2  |
-   | MKU012 | Logika           |  2  |
+      |  Kode  |         Mata Kuliah        | SKS |   
+      |:------:|:--------------------------:|----:|   
+      | MKU001 | Pendidikan Pancasila       |  2  |  
+      | MKU002 | Pendidikan Kewarganegaraan |  2  |  
+      | MKU003 | Agama Katolik              |  2  |   
+      | MKU004 | Fenomenologi Agama         |  2  |   
+      | MKU008 | Etika                      |  2  |
+      
+      |  Kode  |    Mata Kuliah   | SKS |
+      |:------:|:----------------:|----:|
+      | MKU009 | Bahasa Indonesia |  2  |
+      | MKU010 | Bahasa Inggris   |  2  |
+      | MKU011 | Estetika         |  2  |
+      | MKU012 | Logika           |  2  |
 
 ##### 2.4.1 Uraian Singkat Matakuliah Umum
 
