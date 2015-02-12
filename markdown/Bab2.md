@@ -157,83 +157,84 @@ penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
 
 #### 2.5 Kurikulum Program Studi Matematika
 ##### 2.5.1 Susunan Mata Kuliah
-   |        |              Semester 1      |       |     |
-   |--------|------------------------------|-------|-----|
-   | KODE   | NAMA                         |  APR  | SKS |
-   | AMS121 | Kalkulus 1                   |   R   |  4  |
-   | AMS123 | Pemecahan Masalah Matematika |       |  3  |
-   | AMS151 | Statistika Elementer         |       |  4  |
-   | APS181 | Fisika Dasar                 | R, P  |  4  |
-   | MKU012 | Logika                       |   R   |  2  |
-   | MKU010 | Bahasa Inggris               |       |  2  |
-   |        |                              | TOTAL |  18 |
 
-   |        |              Semester 2      |       |     |
-   |--------|------------------------------|-------|-----|
-   | KODE   | NAMA                         |  APR  | SKS |
-   | AMS122 | Kalkulus 2                   |       |  4  |
-   | AMS124 | Matematika Diskret           |       |  4  |
-   | AMS126 | Aljabar Matriks              |       |  4  |
-   | AIF112 | Pemrograman Komputer         |       |  3  |
-   | MKU011 | Estetika                     |       |  2  |
-   | MKU003 | Agama Katolik +              |       |  2  |
-   | MKU004 | Fenomenologi Agama +         |       |     |
-   |        |                              | TOTAL |  19 |
-
-   |        |              Semester 3      |       |     |
-   |--------|------------------------------|-------|-----|
-   | KODE   | NAMA                         |  APR  | SKS |
-   | AMS221 | Kalkulus Vektor              |   R   |  4  |
-   | AMS231 | Teori Suku Bunga             |       |  3  |
-   | AMS251 | Teori Peluang                |       |  4  |
-   | APS253 | Komputasi Statistika         |       |  2  |
-   | AMS271 | Metoda Matematika            |       |  3  |
-   | MKU008 | Etika                        |   R   |  2  |
-   |        |                              | TOTAL |  18 |
-
-   |        |              Semester 4      |       |     |
-   |--------|------------------------------|-------|-----|
-   | KODE   | NAMA                         |  APR  | SKS |
-   | AMS222 | Aljabar Linear               |   R   |  4  |
-   | AMS252 | Statistika Matematika        |       |  4  |
-   | AMS261 | Optimasi                     |       |  4  |
-   | AMS272 | Persamaan Diferensial Biasa  |       |  4  |
-   | AMS273 | Komputasi Matematika         |       |  2  |
-   |        |                              | TOTAL |  18 |
-
-   |        |              Semester 5      |       |     |
-   |--------|------------------------------|-------|-----|
-   | KODE   | NAMA                         |  APR  | SKS |
-   | AMS321 | Fungsi Kompleks              |       |  4  |
-   | AMS351 | Proses Stokastik             |       |  4  |
-   | AMS373 | Metoda Numerik               |       |  3  |
-   | MKU002 | Pendidikan Kewarganegaraan   |       |  2  |
-   | ABCXYZ | Pilihan                      |       |  6  |
-   |        |                              | TOTAL |  18 |
- 
-   |        |              Semester 6      |       |     |
-   |--------|------------------------------|-------|-----|
-   | KODE   | NAMA                         |  APR  | SKS |
-   | AMS322 | Analisis Real                |   R   |  4  |
-   | MKU009 | Bahasa Indonesia             |       |  4  |
-   | ABCXYZ | Pilihan                      |       |  12 |
-   |        |                              | TOTAL |  18 |
-
-   |        |              Semester 7      |       |     |
-   |--------|------------------------------|-------|-----|
-   | KODE   | NAMA                         |  APR  | SKS |
-   | AMS940 | Seminar                      |       |  3  |
-   | AMS491 | Pemodelan Matematika         |       |  4  |
-   | MKU001 | Pancasila                    |       |  2  |
-   | ABCXYZ | Pilihan                      |       |  9  |
-   |        |                              | TOTAL |  18 |
-
-   |        |              Semester 8      |       |     |
-   |--------|------------------------------|-------|-----|
-   | KODE   | NAMA                         |  APR  | SKS |
-   | AMS499 | Skripsi                      |       |  6  |
-   | ABCXYZ | Pilihan                      |       |  9  |
-   |        |                              | TOTAL |  18 |
+      |        |              Semester 1      |       |     |
+      |--------|------------------------------|-------|-----|
+      | KODE   | NAMA                         |  APR  | SKS |
+      | AMS121 | Kalkulus 1                   |   R   |  4  |
+      | AMS123 | Pemecahan Masalah Matematika |       |  3  |
+      | AMS151 | Statistika Elementer         |       |  4  |
+      | APS181 | Fisika Dasar                 | R, P  |  4  |
+      | MKU012 | Logika                       |   R   |  2  |
+      | MKU010 | Bahasa Inggris               |       |  2  |
+      |        |                              | TOTAL |  18 |
+      
+      |        |              Semester 2      |       |     |
+      |--------|------------------------------|-------|-----|
+      | KODE   | NAMA                         |  APR  | SKS |
+      | AMS122 | Kalkulus 2                   |       |  4  |
+      | AMS124 | Matematika Diskret           |       |  4  |
+      | AMS126 | Aljabar Matriks              |       |  4  |
+      | AIF112 | Pemrograman Komputer         |       |  3  |
+      | MKU011 | Estetika                     |       |  2  |
+      | MKU003 | Agama Katolik +              |       |  2  |
+      | MKU004 | Fenomenologi Agama +         |       |     |
+      |        |                              | TOTAL |  19 |
+      
+      |        |              Semester 3      |       |     |
+      |--------|------------------------------|-------|-----|
+      | KODE   | NAMA                         |  APR  | SKS |
+      | AMS221 | Kalkulus Vektor              |   R   |  4  |
+      | AMS231 | Teori Suku Bunga             |       |  3  |
+      | AMS251 | Teori Peluang                |       |  4  |
+      | APS253 | Komputasi Statistika         |       |  2  |
+      | AMS271 | Metoda Matematika            |       |  3  |
+      | MKU008 | Etika                        |   R   |  2  |
+      |        |                              | TOTAL |  18 |
+      
+      |        |              Semester 4      |       |     |
+      |--------|------------------------------|-------|-----|
+      | KODE   | NAMA                         |  APR  | SKS |
+      | AMS222 | Aljabar Linear               |   R   |  4  |
+      | AMS252 | Statistika Matematika        |       |  4  |
+      | AMS261 | Optimasi                     |       |  4  |
+      | AMS272 | Persamaan Diferensial Biasa  |       |  4  |
+      | AMS273 | Komputasi Matematika         |       |  2  |
+      |        |                              | TOTAL |  18 |
+      
+      |        |              Semester 5      |       |     |
+      |--------|------------------------------|-------|-----|
+      | KODE   | NAMA                         |  APR  | SKS |
+      | AMS321 | Fungsi Kompleks              |       |  4  |
+      | AMS351 | Proses Stokastik             |       |  4  |
+      | AMS373 | Metoda Numerik               |       |  3  |
+      | MKU002 | Pendidikan Kewarganegaraan   |       |  2  |
+      | ABCXYZ | Pilihan                      |       |  6  |
+      |        |                              | TOTAL |  18 |
+      
+      |        |              Semester 6      |       |     |
+      |--------|------------------------------|-------|-----|
+      | KODE   | NAMA                         |  APR  | SKS |
+      | AMS322 | Analisis Real                |   R   |  4  |
+      | MKU009 | Bahasa Indonesia             |       |  4  |
+      | ABCXYZ | Pilihan                      |       |  12 |
+      |        |                              | TOTAL |  18 |
+      
+      |        |              Semester 7      |       |     |
+      |--------|------------------------------|-------|-----|
+      | KODE   | NAMA                         |  APR  | SKS |
+      | AMS940 | Seminar                      |       |  3  |
+      | AMS491 | Pemodelan Matematika         |       |  4  |
+      | MKU001 | Pancasila                    |       |  2  |
+      | ABCXYZ | Pilihan                      |       |  9  |
+      |        |                              | TOTAL |  18 |
+      
+      |        |              Semester 8      |       |     |
+      |--------|------------------------------|-------|-----|
+      | KODE   | NAMA                         |  APR  | SKS |
+      | AMS499 | Skripsi                      |       |  6  |
+      | ABCXYZ | Pilihan                      |       |  9  |
+      |        |                              | TOTAL |  18 |
 
 ##### 2.5.2 Mata Kuliah Pilihan Program Studi Matematika
 Mata kuliah pilihandibagi kedalam tiga kelompok, yaitu kelompok bidang kajian 
@@ -243,77 +244,82 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 
 #####Kelompok Bidang Kajian: Rekayasa Keuangan
 ######Matematika Asuransi
-   | KODE   | NAMA                         |  APR  | SKS |
-   |--------|------------------------------|-------|-----|
-   | AMS330 | Pengantar Matematika Asuransi|       |  3  |
-   | AMS331 | Matematika Asuransi          |       |  3  |
-   | AMS431 | Metoda Statistika Asuransi   |       |  3  |
-   | AMS342 | Teori Risiko                 |       |  3  |
+
+      | KODE   | NAMA                         |  APR  | SKS |
+      |--------|------------------------------|-------|-----|
+      | AMS330 | Pengantar Matematika Asuransi|       |  3  |
+      | AMS331 | Matematika Asuransi          |       |  3  |
+      | AMS431 | Metoda Statistika Asuransi   |       |  3  |
+      | AMS342 | Teori Risiko                 |       |  3  |
 ######Matematika Keuangan
-   | KODE   | NAMA                         |  APR  | SKS |
-   |--------|------------------------------|-------|-----|
-   | AMS341 | Komputasi Keuangan           |       |  3  |
-   | AMS342 | Matematika Keuangan          |       |  3  |
-   | AMS433 | Analisis Deret Waktu         |       |  3  |
-   | AMS441 | Teori Manajemen Investasi    |       |  3  |
-   | AMS442 | Ekonometrika Keuangan        |       |  3  |
-   | AMS440 | Kapita Selekta Matematika Keuangan   |      |  3  |
+
+      | KODE   | NAMA                         |  APR  | SKS |
+      |--------|------------------------------|-------|-----|
+      | AMS341 | Komputasi Keuangan           |       |  3  |
+      | AMS342 | Matematika Keuangan          |       |  3  |
+      | AMS433 | Analisis Deret Waktu         |       |  3  |
+      | AMS441 | Teori Manajemen Investasi    |       |  3  |
+      | AMS442 | Ekonometrika Keuangan        |       |  3  |
+      | AMS440 | Kapita Selekta Matematika Keuangan   |      |  3  |
 
 #####Kelompok Bidang Kajian: Rekayasa Keuangan
 ######Optimasi dan Teori Kontrol
-   | KODE   | NAMA                         |  APR  | SKS |
-   |--------|------------------------------|-------|-----|
-   | AMS361 | Pemrograman Linear           |       |  3  |
-   | AMS461 | Kontrol Optimum              |       |  3  |
-   | AMS462 | Kontrol Linear               |       |  3  |
+
+      | KODE   | NAMA                         |  APR  | SKS |
+      |--------|------------------------------|-------|-----|
+      | AMS361 | Pemrograman Linear           |       |  3  |
+      | AMS461 | Kontrol Optimum              |       |  3  |
+      | AMS462 | Kontrol Linear               |       |  3  |
 ######Statistika & Penelitian Operasional
-   | KODE   | NAMA                         |  APR  | SKS |
-   |--------|------------------------------|-------|-----|
-   | AMS352 | Pemrograman Stokastik        |       |  3  |
-   | AMS353 | Pengendalian Mutu            |       |  3  |
-   | AMS354 | Model Statistika             |       |  3  |
-   | AMS451 | Teori Permainan              |       |  3  |
-   | AMS452 | Proyek Pemodelan             |       |  3  |
-   | AMS453 | Statistika Multivariat       |       |  3  |
 
-   | KODE   | NAMA                         |  APR  | SKS |
-   |--------|------------------------------|-------|-----|
-   | AMS454 | Statistika Non Parameter     |       |  3  |
-   | AMS455 | Perancangan Percobaan        |       |  3  |
-   | AMS456 | Teori Antrian                |       |  3  |
-   | AMS457 | Keandalan                    |       |  3  |
-   | AMS350 | Kapita Selekta Statistika    |       |  3  |
-   | AMS450 | Kapita Selekta Penelitian Operasional|       |  3  |
+      | KODE   | NAMA                         |  APR  | SKS |
+      |--------|------------------------------|-------|-----|
+      | AMS352 | Pemrograman Stokastik        |       |  3  |
+      | AMS353 | Pengendalian Mutu            |       |  3  |
+      | AMS354 | Model Statistika             |       |  3  |
+      | AMS451 | Teori Permainan              |       |  3  |
+      | AMS452 | Proyek Pemodelan             |       |  3  |
+      | AMS453 | Statistika Multivariat       |       |  3  |
+      
+      | KODE   | NAMA                         |  APR  | SKS |
+      |--------|------------------------------|-------|-----|
+      | AMS454 | Statistika Non Parameter     |       |  3  |
+      | AMS455 | Perancangan Percobaan        |       |  3  |
+      | AMS456 | Teori Antrian                |       |  3  |
+      | AMS457 | Keandalan                    |       |  3  |
+      | AMS350 | Kapita Selekta Statistika    |       |  3  |
+      | AMS450 | Kapita Selekta Penelitian Operasional|       |  3  |
 ######Matematika Terapan
-   | KODE   | NAMA                         |  APR  | SKS |
-   |--------|------------------------------|-------|-----|
-   | AMS471 | Sistem Dinamik               |       |  3  |
-   | AMS472 | Matematika Biologi           |       |  3  |
-   | AMS371 | Persamaan Diferensial Parsial|       |  3  |
 
-   | KODE   | NAMA                         |  APR  | SKS |
-   |--------|------------------------------|-------|-----|
-   | AMS372 | Metoda Matematika Lanjut     |       |  3  |
-   | AMS374 | Analisi Numerik              |       |  3  |
-   | AMS470 | Kapita Selekta Matematika Terapan|       |  3  |
+      | KODE   | NAMA                         |  APR  | SKS |
+      |--------|------------------------------|-------|-----|
+      | AMS471 | Sistem Dinamik               |       |  3  |
+      | AMS472 | Matematika Biologi           |       |  3  |
+      | AMS371 | Persamaan Diferensial Parsial|       |  3  |
+      
+      | KODE   | NAMA                         |  APR  | SKS |
+      |--------|------------------------------|-------|-----|
+      | AMS372 | Metoda Matematika Lanjut     |       |  3  |
+      | AMS374 | Analisi Numerik              |       |  3  |
+      | AMS470 | Kapita Selekta Matematika Terapan|       |  3  |
 ######Lain-lain
-   | KODE   | NAMA                         |  APR  | SKS |
-   |--------|------------------------------|-------|-----|
-   | AMS323 | Geometri                     |       |  3  |
-   | AMS324 | Teori Bilangan               |       |  3  |
-   | AMS344 | Komputasi Saintifik          |       |  3  |
-   | AMS421 | Struktur Aljabar             |       |  3  |
-   | AMS423 | Teori Graf                   |       |  3  |
-   | AMS424 | Struktur Aljabar Lanjut      |       |  3  |
-   | AMS425 | Analisis Lanjut              |       |  3  |
 
-
-   | KODE   | NAMA                                    |  APR  | SKS |
-   |--------|-----------------------------------------|-------|-----|
-   | AMS480 | Kapita Selekta Pembelajaran Matematika  |       |  3  |
-   | AMS381 | Inovasi Pembelajaran Matematika         |       |  3  |
-   | AMS382 | Pembelajaran Matematika Sekolah         |       |  3  |
-   | AMS481 | Kerja Praktek                           |       |  3  |
+      | KODE   | NAMA                         |  APR  | SKS |
+      |--------|------------------------------|-------|-----|
+      | AMS323 | Geometri                     |       |  3  |
+      | AMS324 | Teori Bilangan               |       |  3  |
+      | AMS344 | Komputasi Saintifik          |       |  3  |
+      | AMS421 | Struktur Aljabar             |       |  3  |
+      | AMS423 | Teori Graf                   |       |  3  |
+      | AMS424 | Struktur Aljabar Lanjut      |       |  3  |
+      | AMS425 | Analisis Lanjut              |       |  3  |
+      
+      | KODE   | NAMA                                    |  APR  | SKS |
+      |--------|-----------------------------------------|-------|-----|
+      | AMS480 | Kapita Selekta Pembelajaran Matematika  |       |  3  |
+      | AMS381 | Inovasi Pembelajaran Matematika         |       |  3  |
+      | AMS382 | Pembelajaran Matematika Sekolah         |       |  3  |
+      | AMS481 | Kerja Praktek                           |       |  3  |
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di 
 program studi lain di lingkungan UNPAR, dengan tetap memperhatikan 
