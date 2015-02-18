@@ -415,7 +415,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 | TOTAL      |                          |     | 19  |
 
 |               |         SEMESTER 3                |     |     |
-|---------------|-----------------------------------|-----|     |
+|---------------|-----------------------------------|-----|-----|
 | KODE          | NAMA                              | APR | SKS |
 | APS207        | Fisika Matematika 3               | R   | 4   |
 | APS213        | Gelombang                         | R   | 3   |
@@ -588,8 +588,8 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 | APS479 | Kapita Selekta Astrofisika | 3   |
 
 Komposisi Kuliah wajib dan pilihan adalah 
-•	Kuliah Wajib = 120 sks 
-•	Kuliah Pilihan = 24 sks 
+Kuliah Wajib = 120 sks 
+Kuliah Pilihan = 24 sks 
 
 Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik  Industri/Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum /Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya)
 
