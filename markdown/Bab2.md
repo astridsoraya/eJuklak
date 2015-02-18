@@ -387,3 +387,8 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 | lulus minimal 110 sks                  | Studi pustaka, penulisan dan presentasi karya ilmiah.                            |
 | AMS499                                 | SKRIPSI (*FINAL PROJECT*)                                                        |
 | AMS490 minimal C                       |Studi pustaka, penulisan dan penyajian lisan skripsi.                             |
+
+#### 2.6 Kurikulum Program Studi Fisika
+##### 2.6 Susunan Matakuliah
+
+
