@@ -351,4 +351,4 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 | AMS221  | KALKULUS,VEKTOR (*VECTOR CALCULUS*)                                                                             |
 | AMS122  | Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
 
-![](images/gambar1.jpg)
+![](images/gambar 1.jpg)
