@@ -533,7 +533,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 | APS435 | Pengantar Kontrol Otomatis       | 3   |
 | APS436 | KapSel. Fisika Instrumentasi     | 3   |
 
-##### Kelompok Biofisika
+###### Kelompok Biofisika
 | KODE   | NAMA                             | SKS |
 |--------|----------------------------------|-----|
 | APS350 | Fisika Instrumentasi Medis       | 3   |
@@ -545,7 +545,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 | APS458 | Kapita Selekta Biofisika          | 3   |
 | APS459 | Kapita Selekta Fisika Kedokteran  | 3   |
 
-##### Kelompok Fisika Material dan Optika
+###### Kelompok Fisika Material dan Optika
 
 
 
