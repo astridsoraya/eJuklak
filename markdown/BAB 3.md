@@ -87,8 +87,34 @@ Yang dimaksud dengan ujian adalah kegiatan evaluasi keberhasilan belajar hingga 
 4.	Ujian Seminar dan Skripsi   
 ```
 Pelaksanaan UTS dan UAS sesuai dengan jadwal kegiatan akademik UNPAR. Jadwal kedua ujian tersebut diumumkan pada masa pendaftaran rencana studi. Ujian praktikum, Seminar dan Skripsi dapat dilaksanakan di luar masa ujian asalkan masih dalam semester tersebut. 
+   
+###3.3.1 Syarat Mengikuti Ujian  
+Syarat untuk mengikuti UTS dan UAS:   
+1.	**Terdaftar** sebagai peserta pada semester terkait, telah cukup mengikuti kegiatan tatap muka matakuliah terkait pada semester tersebut, serta tidak menjalani sanksi pembatalan hak tempuh mengikuti suatu program pada semester tersebut berdasarkan SK Rektor UNPAR.    
+2.	**Telah melunasi** seluruh biaya kuliah semester terkait. Perkecualian **khusus pada masa UTS** diberikan bagi mahasiswa yang mendapat dispensasi penundaan pembayaran kuliah oleh WD-2.    
+3.	**Membawa KTM yang sah** untuk semester terkait, atau surat keterangan pengganti KTM dari Biro Administrasi Akademik dan Kemahasiswaan (BAA) bagi yang kehilangan KTM.   
+   
+###3.3.2 Tata Tertib Ujian
+| **A.Kehadiran**  |
+|------------------|
+1.	Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit sebelum** ujian dimulai. 
+2.	Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.
+3.	Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol).**  
+   
+| **B.Perlengkapan**  |
+|------------------|
+1.	Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian. 
+2.	Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.
+3.	Peserta ujian **dilarang** membawa catatan/buku/rumus/tabel dan kalkulator dalam bentuk dan untuk tujuan apapun ke tempat duduk, kecuali pada mata ujian yang diijinkan oleh dosen yang bersangkutan.
+4.	**Alat atau media komunikasi** dalam bentuk apapun (*handphone*, PDA, dan sebagainya) **harus dimatikan/dinonaktifkan** (**_bukan_** di-silent/menggunakan nada getar) dan dilarang untuk digunakan selama ujian berlangsung dengan alasan dan tujuan apapun.
+5.	Peserta ujian **dilarang** membawa makanan/minuman ke tempat duduk. 
+6.	Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.
+7.	Peserta ujian dilarang merokok di ruang ujian.
+   
 
 
+   
+   
 
 
 
