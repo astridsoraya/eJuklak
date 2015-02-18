@@ -157,7 +157,7 @@ penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
 
 #### 2.5 Kurikulum Program Studi Matematika
 
-##### 2.5 Susunan Mata Kuliah
+   ##### 2.5 Susunan Mata Kuliah
 
 |        |              Semester 1      |       |     |
 |--------|------------------------------|-------|-----|
@@ -351,4 +351,4 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 | AMS221  | KALKULUS,VEKTOR (*VECTOR CALCULUS*)                                                                             |
 | AMS122  | Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
 
-![](images/unpar.png)
+![](images/gambar1.jpg)
