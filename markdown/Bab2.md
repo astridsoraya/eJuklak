@@ -397,9 +397,53 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 | APA101     | Pengenalan Program Studi |     | 3   |
 | APS103     | Keterampilan Fisika      |     | 2   |
 | APS105     | Fisika Dasar 1           | R,P | 3   |
-| APS107     | Fisika Matematika 1      | R   |     |
+| APS107     | Fisika Matematika 1      | R   | 4   |
 | AIF111     | Pemrograman Komputer     | P   | 3   |
 | ICE109     | Kimia Dasar              |     | 2   |
 | MKU011     | Estetika                 |     | 2   |
 | TOTAL      |                          |     | 19  |
+
+|            |         SEMESTER 2       |     |     |
+|------------|--------------------------|-----|-----|
+| KODE       | NAMA                     | APR | SKS |
+| APS106     | Fisika Dasar 2           | R,P | 3   |
+| APS108     | Fisika Matematika 2      | R   | 4   |
+| APS112     | Mekanika                 | R   | 3   |
+| APS124     | Fisika Modern            |     | 3   |
+| APS132     | Fisika Komputasi         | P   | 3   |
+| MKU012     | Logika                   |     | 2   |
+| TOTAL      |                          |     | 19  |
+
+|               |         SEMESTER 3                |     |     |
+|---------------|-----------------------------------|-----|     |
+| KODE          | NAMA                              | APR | SKS |
+| APS207        | Fisika Matematika 3               | R   | 4   |
+| APS213        | Gelombang                         | R   | 3   |
+| APS215        | Fisika Thermal                    | R   | 3   |
+| APS225        | Lab. Fisika Modern                | P   | 3   |
+| APS233        | Elektronika 1                     | P   | 3   |
+| MKU003/ MKU004| Agama Katolik/ Fenomenologi Agama |     | 2   |
+| TOTAL         |                                   |     | 18  |
+
+|            |         SEMESTER 4                  |     |     |
+|------------|-------------------------------------|-----|-----|
+| KODE       | NAMA                                | APR | SKS |
+| APS207     | Projek Bersama                      |     | 2   |
+| APS213     | Fisika Matematika 4                 | R   | 4   |
+| APS112     | Fisika Thermal                      | R   | 3   |
+| APS124     | Lab. Fisika Modern                  | R   | 4   |
+| APS132     | Elektronika 1                       | P   | 3   |
+| MKU012     | Agama Katolik/ Fenomenologi Agama   |     | 2   |
+| TOTAL      |                                     |     | 18  |
+
+|            |         SEMESTER 5                  |     |     |
+|------------|-------------------------------------|-----|-----|
+| KODE       | NAMA                                | APR | SKS |
+| APS323     | Elektrodinamika                     | R   | 3   |
+| APS327     | Fisika Kuantum                      | R   | 4   |
+| APS335     | Lab. Fisika Instrumentasi           | P   | 3   |
+| APS132     | Pengantar Fisika Nuklir             |     | 3   |
+| MKU008     | Etika                               |     | 2   |
+|            | Mata Kuliah Pilihan                 |     | 3   |
+| TOTAL      |                                     |     | 18  |
 
