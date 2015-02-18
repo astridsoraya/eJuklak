@@ -447,3 +447,36 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |            | Mata Kuliah Pilihan                 |     | 3   |
 | TOTAL      |                                     |     | 18  |
 
+|            |         SEMESTER 6                  |     |     |
+|------------|-------------------------------------|-----|-----|
+| KODE       | NAMA                                | APR | SKS |
+| APS304     | Teknik Presentasi                   |     | 2   |
+| APS328     | Mekanika Kuantum                    |     | 3   |
+| APS342     | Pengantar Fisika Material           |     | 3   |
+| APS348     | Optika                              |     | 3   |
+| APS392     | Seminar                             |     | 2   |
+| MKU009     | Bahasa Indonesia                    |     | 2   |
+|            | Mata Kuliah Pilihan                 |     | 3   |
+| TOTAL      |                                     |     | 19  |
+
+|            |         SEMESTER 7                  |     |     |
+|------------|-------------------------------------|-----|-----|
+| KODE       | NAMA                                | APR | SKS |
+| APS497     | Tugas Akhir 1                       |     | 4   |
+| MKU001     | Pancasila                           |     | 2   |
+| MKU002     | Kewarganegaraan                     |     | 2   |
+|            | Mata Kuliah Pilihan                 |     | 9   |
+| TOTAL      |                                     |     | 17  |
+
+|            |         SEMESTER 8                  |     |     |
+|------------|-------------------------------------|-----|-----|
+| KODE       | NAMA                                | APR | SKS |
+| APS402     | Etika Profesi                       |     | 2   |
+| APS498     | Tugas Akhir 2                       |     | 4   |
+| SAB315     | Kewirausahaan                       |     | 3   |
+|            | Mata Kuliah Pilihan                 |     | 9   |
+| TOTAL      |                                     |     | 18  |
+
+Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
+
+
