@@ -479,4 +479,15 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
 Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
-
+| No | Kelompok Mata Kuliah                                                 |
+|----|----------------------------------------------------------------------|
+| 1  | Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut) |
+| 2  | Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)            |
+| 3  | Fisika Komputasi, Elektronika, dan Instrumentasi                     |
+| 4  | Fisika Material dan Optika                                           |
+| 5  | Biofisika                                                            |
+| 6  | Fisika Bumi                                                          |
+| 7  | Astrofisika                                                          |
+| 8  | Matakuliah Layanan                                                   |
+| 9  | Seminar dan skripsi                                                  |
+| 0  | Kuliah Dasar, Keterampilan Umum, Lain-lain                           |
