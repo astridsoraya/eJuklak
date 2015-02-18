@@ -66,6 +66,28 @@ Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh maha
   
 Perincian kegiatan perkuliahan adalah sebagai berikut :  
 
+1.	**Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan :   
+   •	membaca bahan yang diperkirakan akan dibahas dosen,   
+   •	menanyakan **segala** hal yang belum jelas kepada dosen,   
+   •	meminta saran dosen tentang cara belajar dan berlatih yang baik.   
+**Kehadiran** pada perkuliahan disyaratkan **minimal 80%**, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
+2.	**Kegiatan akademik terstruktur (± 1 jam/SKS)**, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.    
+•	*Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.   
+•	*Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.    
+•	*Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.    
+3.	**Kegiatan akademik mandiri(± 1 jam / sks)**, merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.   
+   
+3.3 Tata Cara Ujian
+--------------------
+Yang dimaksud dengan ujian adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas :  
+```
+1.	Ujian Tengah Semester (UTS)   
+2.	Ujian Akhir Semester (UAS)   
+3.	Ujian Praktikum (jika ada)   
+4.	Ujian Seminar dan Skripsi   
+```
+Pelaksanaan UTS dan UAS sesuai dengan jadwal kegiatan akademik UNPAR. Jadwal kedua ujian tersebut diumumkan pada masa pendaftaran rencana studi. Ujian praktikum, Seminar dan Skripsi dapat dilaksanakan di luar masa ujian asalkan masih dalam semester tersebut. 
+
 
 
 
