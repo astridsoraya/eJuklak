@@ -491,3 +491,12 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 | 8  | Matakuliah Layanan                                                   |
 | 9  | Seminar dan skripsi                                                  |
 | 0  | Kuliah Dasar, Keterampilan Umum, Lain-lain                           |
+
+##### 2.6.2 Matakuliah Pilihan Program Studi Fisika
+
+######Lain-lain
+| KODE   | NAMA                    | SKS |
+|--------|-------------------------|-----|
+| APS301 | Filsafat Sains          | 2   |
+| APS302 | Dunia Digital dan Sains |     |
+
