@@ -494,9 +494,58 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 ##### 2.6.2 Matakuliah Pilihan Program Studi Fisika
 
-######Lain-lain
+###### Lain-lain
 | KODE   | NAMA                    | SKS |
 |--------|-------------------------|-----|
 | APS301 | Filsafat Sains          | 2   |
 | APS302 | Dunia Digital dan Sains |     |
+
+| KODE   | NAMA                    | SKS |
+|--------|-------------------------|-----|
+| APS303 | Didaktika Umum          | 3   |
+
+###### Kelompok Fisika Teoretik
+| KODE   | NAMA                     | SKS |
+|--------|--------------------------|-----|
+| APS311 | Dinamika Fluida          | 3   |
+| APS411 | Mekanika Hamiltonian     | 3   |
+| APS317 | Fisika Matematika Lanjut | 3   |
+| APS318 | Pemodelan Matematika     | 3   |
+| APS418 | KapSel. Fisika Matematika| 3   |
+
+| KODE   | NAMA                          | SKS |
+|--------|-------------------------------|-----|
+| APS424 | Teori Relativitas             | 3   |
+| APS426 | Komputasi Kuantum             | 3   |
+| APS427 | Mekanika Kuantum Relativistik | 3   |
+| APS428 | Teori Medan Kuantum           | 3   |
+| APS429 | KapSel. Fisika Teori          | 3   |
+
+###### Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
+| KODE   | NAMA                             | SKS |
+|--------|----------------------------------|-----|
+| APS331 | Pemodelan Matematika Gejala Alam | 3   |
+| APS332 | KapSel. Fisika komputasi         | 3   |
+| APS336 | Instrumentasi Berbasis Komputer  | 3   |
+
+| KODE   | NAMA                             | SKS |
+|--------|----------------------------------|-----|
+| APS435 | Pengantar Kontrol Otomatis       | 3   |
+| APS436 | KapSel. Fisika Instrumentasi     | 3   |
+
+##### Kelompok Biofisika
+| KODE   | NAMA                             | SKS |
+|--------|----------------------------------|-----|
+| APS350 | Fisika Instrumentasi Medis       | 3   |
+| APS351 | Biofisika                        | 3   |
+| APS352 | Fisika Kedokteran                | 3   |
+
+| KODE   | NAMA                              | SKS |
+|--------|-----------------------------------|-----|
+| APS458 | Kapita Selekta Biofisika          | 3   |
+| APS459 | Kapita Selekta Fisika Kedokteran  | 3   |
+
+##### Kelompok Fisika Material dan Optika
+
+
 
