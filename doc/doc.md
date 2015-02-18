@@ -31,7 +31,7 @@ Kamis,12 Februari 2015 <Minggu II pertemuan 2>
 Rabu,18 Februari 2015 <Minggu III pertemuan 1>   
 ---------------------------------------------
   Agenda:Development 
-  Progress:MD bab II dan bab III 90% selesai,dokumentasi(doc.md)updated,color dan basic design app sudah ada,sudah bisa        nyambung ke android samsung,ready for presentation 0.1 alpha 
+  Progress:MD bab II dan bab III 90% selesai,dokumentasi(doc.md)updated,color dan basic design app sudah ada,sudah bisa        nyambung ke android samsung,ready for presentation **0.1 alpha.**
 
 Kamis,19 Februari 2015 <Minggu III pertemuan 2>   
 ---------------------------------------------
