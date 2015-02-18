@@ -546,6 +546,70 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 | APS459 | Kapita Selekta Fisika Kedokteran  | 3   |
 
 ###### Kelompok Fisika Material dan Optika
+| KODE   | NAMA                   | SKS |
+|--------|------------------------|-----|
+| APS343 | Struktur Materi        | 3   |
+| APS441 | Reologi                | 3   |
+| APS442 | Fisika Polimer         | 3   |
+| APS443 | Pengantar Kristal Cair | 3   |
+| APS444 | Fisika Kristal Cair    | 3   |
 
+| KODE   | NAMA                           | SKS |
+|--------|--------------------------------|-----|
+| APS445 | Pengantar Nanoteknologi        | 3   |
+| APS446 | Nanoteknologi dan Lingkungan   | 3   |
+| APS447 | Fisika Laser                   | 3   |
+| APS448 | Hamburan dan Spektroskopi      | 3   |
+| APS449 | Kapita Selekta Fisika Material | 3   |
 
+###### Kelompok Fisika Bumi
+| KODE    | NAMA              | SKS |
+|---------|-------------------|-----|
+| APS 361 | Geofisika         | 3   |
+| APS 362 | Oseanografi Fisis | 3   |
+|         | Pemanasan Global  | 3   |
+
+| KODE   | NAMA                       | SKS |
+|--------|----------------------------|-----|
+| APS364 | Cuaca dan Lingkungan       | 3   |
+| APS469 | Kapita Selekta Fisika Bumi | 3   |
+| APS447 | Fisika Laser               |     |
+
+###### Kelompok Astrofisika
+| KODE   | NAMA       | SKS |
+|--------|------------|-----|
+| APS371 | Tata Surya | 3   |
+| APS372 | Bintang    | 3   |
+| APS373 |            | 3   |
+
+| KODE   | NAMA                       | SKS |
+|--------|----------------------------|-----|
+| APS474 | Kosmologi Relativistik     | 3   |
+| APS479 | Kapita Selekta Astrofisika | 3   |
+
+Komposisi Kuliah wajib dan pilihan adalah 
+•	Kuliah Wajib = 120 sks 
+•	Kuliah Pilihan = 24 sks 
+
+Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik  Industri/Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum /Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya)
+
+Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran soft-skills berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
+
+####2.6.3 Peta dan Prasyarat Matakuliah
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
+
+####2.6.3 Deskripsi Singkat Matakuliah Program Studi Fisika
+
+| KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                    |
+|---------|-----------------------------------------------------------------------------------------------------------------|
+| AIF111  | Pemrograman Komputer/ *Computer Programming*                                                                    |
+|    -    | Mata kuliah ini bertujuan untuk mengenalkan dan membekali mahasiswa kepada konsep-konsep dasar pemrograman.     |
+| APS101  | PENGELANAN PROGRAM STUDI FISIKA / *INTRODUCTION TO PHYSICS STUDIES*                                             |
+|    -    | Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi:              kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga membahas             tujuan dan struktur program studi, melatih penggunaan metode ilmiah, serta peluasan wawasan tentang fisika dan               ilmu-ilmu umum, dengan melibatkan keaktifan mahasiswa.                                                          |
+| APS103  | KETERAMPILAN FISIKA / *KEY SKILLS FOR PHYSICS*                                                                  |
+|    -    | Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi:              kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga melatih             mahasiswa untuk mengetahui bagaimana mengukur ketidak pastian dalam suatu percobaan, membuat laporan ilmiah yang             profesional dan mempresentasikannya.                                                                            |
+| ICE109  | Kimia Dasar / *Chemistry*                                                                                       |
+|    -    | Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami              proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.                                                  |
+
+![](images/gambar 2.jpg)
 
