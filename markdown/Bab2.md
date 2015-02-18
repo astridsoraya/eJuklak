@@ -391,4 +391,15 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 #### 2.6 Kurikulum Program Studi Fisika
 ##### 2.6 Susunan Matakuliah
 
+|            |         SEMESTER 1       |     |     |
+|------------|--------------------------|-----|-----|
+| KODE       | NAMA                     | APR | SKS |
+| APA101     | Pengenalan Program Studi |     | 3   |
+| APS103     | Keterampilan Fisika      |     | 2   |
+| APS105     | Fisika Dasar 1           | R,P | 3   |
+| APS107     | Fisika Matematika 1      | R   |     |
+| AIF111     | Pemrograman Komputer     | P   | 3   |
+| ICE109     | Kimia Dasar              |     | 2   |
+| MKU011     | Estetika                 |     | 2   |
+| TOTAL      |                          |     | 19  |
 
