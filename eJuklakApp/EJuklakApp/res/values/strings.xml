@@ -2,7 +2,11 @@
 <resources>
 
     <string name="app_name">EJuklak</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="hello_world">Selamat datang ke aplikasi EJuklak IT Unpar!</string>
+    <string name="deskripsiMenu">Klik tombol Menu untuk melihat-lihat eJuklak IT Unpar!</string><string name="action_settings">Settings</string>
+    <string name="buttonMenu">Menu</string>
+    <string name="buttonHelp">Help</string>
+    <string name="buttonAbout">About</string>
+    
 
 </resources>

@@ -9,8 +9,65 @@
     tools:context="ftis.unpar.ejuklakapp.MainActivity" >
 
     <TextView
+        android:id="@+id/opening"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+        android:text="@string/hello_world"
+        android:textColor="#FF0000"
+        android:textStyle="bold"
+        android:typeface="sans" />
+    
+    <Button
+        android:id="@+id/buttonMenu"
+        android:onClick="onClickMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="14dp"
+        android:text="@string/buttonMenu" />
+
+    <Button
+        android:id="@+id/buttonHelp"
+        android:onClick="onClickHelp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/buttonMenu"
+        android:layout_alignBottom="@+id/buttonMenu"
+        android:layout_marginLeft="14dp"
+        android:layout_toRightOf="@+id/buttonMenu"
+        android:text="@string/buttonHelp" />
+    
+    <Button
+        android:id="@+id/buttonAbout"
+        android:onClick="onClickAbout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/buttonHelp"
+        android:layout_alignBottom="@+id/buttonHelp"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@+id/buttonHelp"
+        android:text="@string/buttonAbout" />
+
+    <ImageView
+        android:id="@+id/logoUnpar"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_alignLeft="@+id/buttonHelp"
+        android:layout_below="@+id/opening"
+        android:layout_marginTop="43dp"
+        android:src="@drawable/logo_unpar" />
+
+    <TextView
+        android:id="@+id/deskripsiUtama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/buttonMenu"
+        android:layout_below="@+id/logoUnpar"
+        android:layout_marginTop="42dp"
+        android:text="@string/deskripsiMenu"
+        android:textStyle="italic"
+        android:typeface="serif"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
 
 </RelativeLayout>

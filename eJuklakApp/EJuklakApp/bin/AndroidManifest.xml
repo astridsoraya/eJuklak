@@ -5,8 +5,13 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="9"
+        android:minSdkVersion="11"
         android:targetSdkVersion="19" />
+    
+    <supports-screens android:largeScreens="true" 
+        android:xlargeScreens="true" 
+        android:smallScreens="false" 
+        android:normalScreens="true"/>
 
     <application
         android:allowBackup="true"
