@@ -1,5 +1,5 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    
+<resources>
+
     <!--
         Base application theme, dependent on API level. This theme is replaced
         by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
@@ -17,12 +17,9 @@
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
 	
-    <!-- the theme applied to the application or activity -->
-    <style name="CustomActionBarTheme"
+        <style name="CustomActionBarTheme"
            parent="@style/Theme.AppCompat.Light.DarkActionBar">
-        <item name="android:actionBarStyle" tools:targetApi="11">@style/MyActionBar</item>
-		<item name="android:actionMenuTextColor" tools:targetApi="11">@color/white</item>
-		
+        		
         <!-- Support library compatibility -->
         <item name="actionBarStyle">@style/MyActionBar</item>
         <item name="actionMenuTextColor">@color/white</item>
@@ -33,9 +30,10 @@
     <style name="MyActionBar"
            parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
         <item name="android:background">@drawable/actionbar_background</item>
-        <item name="android:titleTextStyle" tools:targetApi="11">@style/MyActionBarTitleText</item>
+        
         <!-- Support library compatibility -->
         <item name="background">@drawable/actionbar_background</item>
+        <item name="titleTextStyle">@style/MyActionBarTitleText</item>
     </style>
     
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EJuklak</string>
+    <string name="nav_name">Daftar Isi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="navigation_array">
+        <item>Home</item>
+        <item>Bab 1</item>
+        <item>Bab 2</item>
+        <item>Bab 3</item>
+        <item>Bab 4</item>
+        <item>Bab 5</item>
+    </string-array>
+    <color name="white">#FFFFFF</color>
+    <color name="ferrari_red">#F70D1A</color>
+    <color name="black">#000000</color>
+    <color name="navy_blue">#000080</color>
+    <color name="grey_cloud">#B6B6B4</color>
+</resources>

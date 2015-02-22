@@ -2,11 +2,25 @@
 <resources>
 
     <string name="app_name">EJuklak</string>
-    <string name="hello_world">Selamat datang ke aplikasi EJuklak IT Unpar!</string>
-    <string name="deskripsiMenu">Klik tombol Menu untuk melihat-lihat eJuklak IT Unpar!</string><string name="action_settings">Settings</string>
-    <string name="buttonMenu">Menu</string>
-    <string name="buttonHelp">Help</string>
-    <string name="buttonAbout">About</string>
-    
-
+    <string name="nav_name">Daftar Isi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="navigation_array">
+        <item>Home</item>
+        <item>Bab 1</item>
+        <item>Bab 2</item>
+        <item>Bab 3</item>
+        <item>Bab 4</item>
+        <item>Bab 5</item>
+    </string-array>
+    <color name="white">#FFFFFF</color>
+    <color name="ferrari_red">#F70D1A</color>
+    <color name="black">#000000</color>
+    <color name="navy_blue">#000080</color>
+    <color name="platinum">#E5E4E2</color>
+    <string name="banner">Selamat datang di EJuklak IT Unpar!</string>
 </resources>
