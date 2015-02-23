@@ -70,22 +70,22 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 			mTitle = getTitle();
 			break;
 		case 2:
-			mTitle = sections[1];
+			mTitle = "EJuklak: " + sections[1];
 			break;
 		case 3:
-			mTitle = sections[2];
+			mTitle = "EJuklak: " + sections[2];
 			break;
 		
 		case 4:
-			mTitle = sections[3];
+			mTitle = "EJuklak: " + sections[3];
 			break;
 		
 		case 5:
-			mTitle = sections[4];
+			mTitle = "EJuklak: " + sections[4];
 			break;
 			
 		case 6:
-			mTitle = sections[5];
+			mTitle = "EJuklak: " + sections[5];
 			break;
 			
 		}
