@@ -91,7 +91,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		case 6:
 			mTitle = "EJuklak: " + sections[5];
 			break;
-			
+
 		}
 	
 	
@@ -114,6 +114,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 			restoreActionBar();
 			return true;
 		}
+		
 		return super.onCreateOptionsMenu(menu);
 	}
 	
@@ -124,13 +125,13 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		// as you specify a parent activity in AndroidManifest.xml.
 		int id = item.getItemId();
 		if (id == R.id.action_about) {
-			webView.loadUrl("file:///android_asset/about.html");
-			mTitle = "EJuklak: About";
+			refreshTitle();
+			openAbout();
 			return true;
 		}
 		if (id == R.id.action_help) {
-			webView.loadUrl("file:///android_asset/help.html");
-			mTitle = "EJuklak: Help";
+			refreshTitle();
+			openHelp();
 			return true;
 		}
 		return super.onOptionsItemSelected(item);
@@ -142,6 +143,20 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	
 	public void openBab1(){
 		webView.loadUrl("file:///android_asset/Bab1.html");
+	}
+	
+	public void openAbout(){
+		webView.loadUrl("file:///android_asset/about.html");
+	}
+	
+	public void openHelp(){
+		webView.loadUrl("file:///android_asset/help.html");
+	}
+	
+	public void refreshTitle(){
+		setTitle(R.string.app_name);
+		mTitle = getTitle();
+		restoreActionBar();
 	}
 	
 	/**
