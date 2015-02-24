@@ -35,6 +35,8 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	*/
 	private CharSequence mTitle;
 	
+	private WebView webView;
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -48,8 +50,8 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		mNavigationDrawerFragment.setUp(R.id.navigation_drawer,
 				(DrawerLayout) findViewById(R.id.drawer_layout));
 		
-		WebView webView = (WebView) findViewById(R.id.webview);
-		webView.loadUrl("file:///android_asset/Bab1.html");
+		webView = (WebView) findViewById(R.id.webview);
+		webView.loadUrl("file:///android_asset/home.html");
 	}
 	
 	@Override
@@ -68,9 +70,11 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		case 1:
 			setTitle(R.string.app_name);
 			mTitle = getTitle();
+			openHome();
 			break;
 		case 2:
 			mTitle = "EJuklak: " + sections[1];
+			openBab1();
 			break;
 		case 3:
 			mTitle = "EJuklak: " + sections[2];
@@ -120,52 +124,64 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		// as you specify a parent activity in AndroidManifest.xml.
 		int id = item.getItemId();
 		if (id == R.id.action_about) {
+			webView.loadUrl("file:///android_asset/about.html");
+			mTitle = "EJuklak: About";
 			return true;
 		}
 		if (id == R.id.action_help) {
+			webView.loadUrl("file:///android_asset/help.html");
+			mTitle = "EJuklak: Help";
 			return true;
 		}
 		return super.onOptionsItemSelected(item);
+	}
+	
+	public void openHome(){
+		webView.loadUrl("file:///android_asset/home.html");
+	}
+	
+	public void openBab1(){
+		webView.loadUrl("file:///android_asset/Bab1.html");
 	}
 	
 	/**
 	* A placeholder fragment containing a simple view.
 	*/
 	public static class PlaceholderFragment extends Fragment {
-	/**
-	 * The fragment argument representing the section number for this
-	 * fragment.
-	 */
-		private static final String ARG_SECTION_NUMBER = "section_number";
-	
-	/**
-	 * Returns a new instance of this fragment for the given section number.
-	 */
-	public static PlaceholderFragment newInstance(int sectionNumber) {
-		PlaceholderFragment fragment = new PlaceholderFragment();
-		Bundle args = new Bundle();
-		args.putInt(ARG_SECTION_NUMBER, sectionNumber);
-		fragment.setArguments(args);
-		return fragment;
-	}
-	
-	public PlaceholderFragment() {
-	}
-	
-	@Override
-	public View onCreateView(LayoutInflater inflater, ViewGroup container,
-			Bundle savedInstanceState) {
-		View rootView = inflater.inflate(R.layout.fragment_main, container,
-				false);
-		return rootView;
-	}
-	
-	@Override
-	public void onAttach(Activity activity) {
-		super.onAttach(activity);
-		((MainActivity) activity).onSectionAttached(getArguments().getInt(
-				ARG_SECTION_NUMBER));
-	}
+		/**
+		 * The fragment argument representing the section number for this
+		 * fragment.
+		 */
+			private static final String ARG_SECTION_NUMBER = "section_number";
+		
+		/**
+		 * Returns a new instance of this fragment for the given section number.
+		 */
+		public static PlaceholderFragment newInstance(int sectionNumber) {
+			PlaceholderFragment fragment = new PlaceholderFragment();
+			Bundle args = new Bundle();
+			args.putInt(ARG_SECTION_NUMBER, sectionNumber);
+			fragment.setArguments(args);
+			return fragment;
+		}
+		
+		public PlaceholderFragment() {
+		}
+		
+		@Override
+		public View onCreateView(LayoutInflater inflater, ViewGroup container,
+				Bundle savedInstanceState) {
+			View rootView = inflater.inflate(R.layout.fragment_main, container,
+					false);
+			return rootView;
+		}
+		
+		@Override
+		public void onAttach(Activity activity) {
+			super.onAttach(activity);
+			((MainActivity) activity).onSectionAttached(getArguments().getInt(
+					ARG_SECTION_NUMBER));
+		}
 	}
 
 }
