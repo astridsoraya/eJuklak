@@ -317,7 +317,7 @@ alamat email dan website.
 	Proses Stokastik, Statistika Matematika, Kontrol Optimum.   
 	Email: jdharma@unpar.ac.id. 
 
-   8.	**Nico Saputro,** ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois – USA).   
+   8.	**Nico Saputro,** ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois Â– USA).   
 	Email: nico@unpar.ac.id
 
    9.	**Paulus Cahyono Tjiang,** Drs. (ITB), PhD (Australian National University): Listrik Magnet, Elektrodinamika, 			Mekanika Kuantum Relativistik, Teori Medan Kuantum.    
@@ -326,7 +326,7 @@ alamat email dan website.
    10.	**Sylvia Hastuti Sutanto,** SSi (ITB), PhD (Australian National University): Fisika Matematika 3 & 4, Mekanika 			Hamiltonian, Dinamika Fluida.    
 	Email: sylvia@unpar.ac.id
 
-   11.	**Marcus Wono Setya Budhi,** PhD (Univ. of Illinois – USA):
+   11.	**Marcus Wono Setya Budhi,** PhD (Univ. of Illinois Â– USA):
 	Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.   
 	Email: wono@math.itb.ac.id
 
@@ -335,7 +335,7 @@ alamat email dan website.
 	Email: moertini@unpar.ac.id   
 
 *  **Lektor**
-   13.	**Cecilia Esti Nugraheni,** ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians 			Universitaet – Germany):
+   13.	**Cecilia Esti Nugraheni,** ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians 			Universitaet Â– Germany):
 	Matematika Diskret, Jaringan Syaraf Tiruan.    
 	Email: cheni@unpar.ac.id
 
@@ -351,7 +351,7 @@ alamat email dan website.
 	Email: oerip_ss@yahoo.com
 
    17.	**Philips Nicolas Gunawidjaja,** BSc. (University of Warwick,UK), PhD. (University of Warwick, UK): Keterampilan 		Fisika, Elektronika 1 & 2, Struktur Materi.   
-	Email: philips@UNPAR.ac.id. 
+	Email: philips@unpar.ac.id. 
 
    18.	**Rosa de Lima E.P.,** SSi (ITB), MT (ITB), Studi S-3 di UPI:
 	Sistem Informarsi, Sistem Pendukung Keputusan.   
@@ -369,14 +369,14 @@ alamat email dan website.
 	Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis.   
 	Email: gkarya@unpar.ac.id. 
 
-   21.	**Ivonne Martin, SSi** (UNPAR), MSc. (TU Delft – Belanda): 
+   21.	**Ivonne Martin, SSi** (UNPAR), MSc. (TU Delft Â– Belanda): 
 	Studi S-3 Matematika di Leiden University, Belanda.   
 	Email: ivonne@unpar.ac.id
 
    22.	**Janto Vincent Sulungbudi,** SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, 			Pengantar Kontrol Otomatis.    
-	Email: janto@UNPAR.ac.id, janto.sulungbudi@gmail.com. 
+	Email: janto@unpar.ac.id, janto.sulungbudi@gmail.com. 
 
-   23.	**Lionov,** SKom (UNPAR), MSc. (Utrecht Univ. – Belanda): 
+   23.	**Lionov,** SKom (UNPAR), MSc. (Utrecht Univ. Â– Belanda): 
 	Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi.   
 	Email: lionov@unpar.ac.id. 
 
@@ -392,7 +392,7 @@ alamat email dan website.
  	Kalkulus 1, Kalkulus II, Fisika Matematik 1.   
 	Email: taufik.limansyah@unpar.ac.id
 
-   27.	**Thomas Anung Basuki,** ST (ITB), MKom (UI), Dr. (University of Pisa – Italia): 
+   27.	**Thomas Anung Basuki,** ST (ITB), MKom (UI), Dr. (University of Pisa Â– Italia): 
 	Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah.    
 	Email: anung@unpar.ac.id
 
@@ -407,18 +407,18 @@ alamat email dan website.
 	Email: chandraw@unpar.ac.id
 
    30.	**Elok Fidiani,** SSi (UGM), MSc (TU Dresden): Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, 			Nanoteknologi dan Lingkungan.       
- 	Email: elokfidiani@unpar.ac.id., elokfidiani@gmail.com. 
+ 	Email: elokfidiani@unpar.ac.id, elokfidiani@gmail.com. 
 
    31.	**Flaviana Catherine,** SSi (UNPAR), MSi (ITB): Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika            	Instrumentasi Medis.    
-	Email: flaviana@UNPAR.ac.id.
+	Email: flaviana@unpar.ac.id
 
    32.	**Haryanto Mangaratua Siahaan,** SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan.   
 	Email: haryanto.siahaan@gmail.com
 
    33.	**Kian Ming,** SSi (UNPAR), S-2 (ITB): Fisika Dasar, Teori Relativitas, Kosmologi Relativistik     
-   	Email: kian.ming@UNPAR.ac.id.
+   	Email: kian.ming@unpar.ac.id
 
-   34.	**Mariskha Tri Adithia,** SSi (ITB), MSc (Universiteit Eindhoven  – Belanda), PDEng (Universiteit Eindhoven  – 			Belanda): Struktur Diskret, Kriptografi, Logika Informatika.   
+   34.	**Mariskha Tri Adithia,** SSi (ITB), MSc (Universiteit Eindhoven  Â– Belanda), PDEng (Universiteit Eindhoven  Â– 			Belanda): Struktur Diskret, Kriptografi, Logika Informatika.   
 	Email: mariskha@unpar.ac.id
 
    35.	**Pascal Alfadian,** SKom (UNPAR), MCom (NUS - Singapore): 
@@ -426,7 +426,7 @@ alamat email dan website.
 	Email: pascal@unpar.ac.id
 
    36.	**Risti Suryantari,** SSi (UGM), MSc (UGM): Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair.    
-   	Email: ristisuryantari@UNPAR.ac.id.
+   	Email: ristisuryantari@unpar.ac.id
 
    37.	**Husnul Hakim,** SKom (ITS), MT (ITB): 
 	Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data   
