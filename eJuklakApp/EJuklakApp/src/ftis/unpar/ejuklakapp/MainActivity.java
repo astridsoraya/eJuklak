@@ -74,22 +74,26 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 			break;
 		case 2:
 			mTitle = "EJuklak: " + sections[1];
-			openBab1();
+			openBab("1");
 			break;
 		case 3:
 			mTitle = "EJuklak: " + sections[2];
+			openBab("2");
 			break;
 		
 		case 4:
 			mTitle = "EJuklak: " + sections[3];
+			openBab("3");
 			break;
 		
 		case 5:
 			mTitle = "EJuklak: " + sections[4];
+			openBab("4");
 			break;
 			
 		case 6:
 			mTitle = "EJuklak: " + sections[5];
+			openBab("5");
 			break;
 
 		}
@@ -141,8 +145,9 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		webView.loadUrl("file:///android_asset/home.html");
 	}
 	
-	public void openBab1(){
-		webView.loadUrl("file:///android_asset/Bab1.html");
+	public void openBab(String bab){
+		String file = "file:///android_asset/Bab" + bab + ".html";
+		webView.loadUrl(file);
 	}
 	
 	public void openAbout(){
