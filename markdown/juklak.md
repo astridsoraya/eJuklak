@@ -293,7 +293,7 @@ alamat email dan website.
 
 * **Guru Besar**
     1. **Prof B. Suprapto Brotosiswojo,** Dr. (Purdue University,USA)
-    	 Fisika, Komputasi, Komputasi Kuantam, Pemodelan Matematika Gejala Alam.   
+    	 Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.   
    	 Email: bensupra@unpar.ac.id
 *  **Lektor Kepala**
     1. **Agus Sukamana,** Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI):
