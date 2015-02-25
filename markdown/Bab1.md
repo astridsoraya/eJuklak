@@ -1,5 +1,4 @@
-Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
-======================================================
+#Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
 
 ![](images/unpar.png)
 
@@ -28,8 +27,7 @@ Tim Penyusun
 
 Copyright (c) 2014 FTIS UNPAR
 
-Kata Pengantar Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
--------------------------------------------------------------------------------------------
+##Kata Pengantar Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
 
 Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika
 dan Ilmu Pengetahuan Alam) - Universitas Katolik Parahyangan pada tahun 1993,
