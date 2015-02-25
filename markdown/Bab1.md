@@ -121,7 +121,7 @@ berikut:
   B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011
   tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
 
-Ketiga program studi yang sekarang berada dalam naungan FTISini dilaksanakan
+Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan
 berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester)
 dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
 
@@ -348,7 +348,7 @@ alamat email dan website.
 	Matematika Diskret, Aljabar Linear, Komputasi Statistika.   
 	Email: chin@unpar.ac.id. 
 
-   16.	**Oerip S. Santoso,** dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI): 
+   16.	**Oerip S. Santoso,** dr (UI), MSc. (Univ. Wisconsin Madison, USA), Dr.(Univ. Paris VI): 
 	Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak.    
 	Email: oerip_ss@yahoo.com
 
@@ -371,14 +371,14 @@ alamat email dan website.
 	Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis.   
 	Email: gkarya@unpar.ac.id. 
 
-   21.	**Ivonne Martin, SSi** (UNPAR), MSc. (TU Delft  Belanda): 
+   21.	**Ivonne Martin, SSi** (UNPAR), MSc. (TU Delft, Belanda): 
 	Studi S-3 Matematika di Leiden University, Belanda.   
 	Email: ivonne@unpar.ac.id
 
    22.	**Janto Vincent Sulungbudi,** SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.    
 	Email: janto@unpar.ac.id, janto.sulungbudi@gmail.com. 
 
-   23.	**Lionov,** SKom (UNPAR), MSc. (Utrecht Univ.  Belanda): 
+   23.	**Lionov,** SKom (UNPAR), MSc. (Utrecht Univ., Belanda): 
 	Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi.   
 	Email: lionov@unpar.ac.id. 
 
@@ -394,7 +394,7 @@ alamat email dan website.
  	Kalkulus 1, Kalkulus II, Fisika Matematik 1.   
 	Email: taufik.limansyah@unpar.ac.id
 
-   27.	**Thomas Anung Basuki,** ST (ITB), MKom (UI), Dr. (University of Pisa  Italia): 
+   27.	**Thomas Anung Basuki,** ST (ITB), MKom (UI), Dr. (University of Pisa, Italia): 
 	Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah.    
 	Email: anung@unpar.ac.id
 
@@ -420,7 +420,7 @@ alamat email dan website.
    33.	**Kian Ming,** SSi (UNPAR), S-2 (ITB): Fisika Dasar, Teori Relativitas, Kosmologi Relativistik     
    	Email: kian.ming@unpar.ac.id
 
-   34.	**Mariskha Tri Adithia,** SSi (ITB), MSc (Universiteit Eindhoven   Belanda), PDEng (Universiteit Eindhoven   			Belanda): Struktur Diskret, Kriptografi, Logika Informatika.   
+   34.	**Mariskha Tri Adithia,** SSi (ITB), MSc (Universiteit Eindhoven Belanda), PDEng (Universiteit Eindhoven, Belanda): Struktur Diskret, Kriptografi, Logika Informatika.   
 	Email: mariskha@unpar.ac.id
 
    35.	**Pascal Alfadian,** SKom (UNPAR), MCom (NUS - Singapore): 
