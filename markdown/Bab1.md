@@ -129,9 +129,9 @@ dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
 
 Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah 
 
-> Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk
+> "Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk
 > mengembangkan potensi lokal pada tataran internasional demi peningkatan martabat
-> manusia dan keutuhan alam ciptaan.
+> manusia dan keutuhan alam ciptaan."
 
 Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan
 
