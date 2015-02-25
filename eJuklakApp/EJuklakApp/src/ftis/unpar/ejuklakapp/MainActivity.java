@@ -164,6 +164,25 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		restoreActionBar();
 	}
 	
+	@Override
+	public void onBackPressed()
+	{
+		if(mNavigationDrawerFragment.getMDrawerLayout().isDrawerOpen(Gravity.LEFT)){
+			mNavigationDrawerFragment.getMDrawerLayout().closeDrawer(Gravity.LEFT);
+		}else{
+			super.onBackPressed();
+		}
+		//mNavigationDrawerFragment.mDrawerLayout.isDrawerOpen(Gravity.LEFT);
+		/*//super.onBackPressed();
+		if(mNavigationDrawerFragment.isDrawerOpen(Gravity.LEFT))
+		{
+			mNavigationDrawerFragment.mDrawerLayout.setFocusableInTouchMode(false);
+		}
+		mNavigationDrawerFragment.mDrawerLayout.setFocusableInTouchMode(false);*/
+//		restoreActionBar();
+		
+	}
+	
 	/**
 	* A placeholder fragment containing a simple view.
 	*/

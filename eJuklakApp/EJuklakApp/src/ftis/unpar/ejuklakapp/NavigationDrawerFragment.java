@@ -286,7 +286,11 @@ public class NavigationDrawerFragment extends Fragment {
 	private ActionBar getActionBar() {
 		return ((ActionBarActivity) getActivity()).getSupportActionBar();
 	}
-
+	
+	public DrawerLayout getMDrawerLayout(){
+		return mDrawerLayout;
+	}
+	
 	/**
 	 * Callbacks interface that all activities using this fragment must
 	 * implement.
