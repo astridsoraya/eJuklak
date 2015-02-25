@@ -51,7 +51,7 @@ Fakultas diharapkan mempelajari dan memahami dengan seksama setiap ketentuan
 yang tertuang dalam buku petunjuk pelaksanaan kegiatan akademik tersebut.
 Penerbitan buku petunjuk versi terbaru akan dilakukan secara rutin pada setiap
 awal tahun akademik, sehingga civitas academica di lingkungan Fakultas
-memperoleh informasi terkini tentang tatacara pelaksanaan kegiatan akademik yang
+memperoleh informasi terkini tentang tata cara pelaksanaan kegiatan akademik yang
 berlaku di lingkungan Fakultas. Dengan demikian, diharapkan civitas academica
 Fakultas selalu mengacu pada informasi-informasi yang tercantum dalam buku
 petunjuk terkini dalam melaksanakan kegiatan akademik. Apabila dalam pelaksanaan
@@ -98,11 +98,11 @@ terjadi karena adanya perubahan nama program studi Ilmu Komputer. Berdasarkan
 surat Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan Nasional Nomor
 4382/D/T/2008 tertanggal 10 Desember 2008 perihal Ralat Perpanjangan Ijin
 Penyelenggaraan Program Studi pada Universitas Katolik Parahyangan, dari
-tertulis : jurusan/program studi Ilmu Komputer diharuskan untuk berubah menjadi
+tertulis: jurusan/program studi Ilmu Komputer diharuskan untuk berubah menjadi
 jurusan/program studi Teknik Informatika. Adanya perubahan nama ini membuat nama
 FMIPA sebagai naungan bagi Program Studi Teknik Informatika menjadi tidak
 selaras lagi. Perubahan nama FMIPA menjadi FTIS ini berdasarkan Keputusan
-Pengurus Yayasan Universitas Katolik Parahyangan Nomor : II/2009-04/05-SK
+Pengurus Yayasan Universitas Katolik Parahyangan Nomor: II/2009-04/05-SK
 tanggal 1 April 2009.
 
 Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari
@@ -110,10 +110,10 @@ Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan rincian sebagai
 berikut:
 
 * Program Studi Matematika memperoleh status akreditasi dengan peringkat A
-  (Amat baik) berdasarkan Keputusan BAN-PT Nomor029/BAN-PT/Ak-XIII/S1/XI/2010
+  (Amat baik) berdasarkan Keputusan BAN-PT Nomor 029/BAN-PT/Ak-XIII/S1/XI/2010
   tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015. 
 * Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik)
-  berdasarkan Keputusan BAN-PTNomor036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7
+  berdasarkan Keputusan BAN-PT Nomor 036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7
   Januari 2011 dengan masa berlaku hingga 7 Januari 2016. 
 * Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat
   B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011
@@ -159,21 +159,20 @@ tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari
 keyakinan kepada Tuhan Yang Maha Esa, sesuai dengan sesanti UNPAR 
 Bakuning Hyang Mrih Guna Santyaya Bhakti. 
 
-Menjelang tahun 2020, FTIS 
-UNPAR akan lebih memberikan perhatian kepada potensi lokal, yaitu 
-kekuatan, keunggulan, keunikan asli (indigenous) yang terkandung di bumi 
-Indonesia, khususnya di wilayah Jawa Barat. Ini berarti bahwa proses 
-pendidikan, penelitian, dan pengabdian kepada masyarakat harus memberi 
-perhatian pada masalah-masalah yang secara nyata dihadapi oleh 
-masyarakat dan bangsa Indonesia, khususnya di wilayah Jawa Barat. Dengan 
-mengacu kepada bidang-bidang keilmuan di dalam FTIS, potensi lokal 
+Menjelang tahun 2020, FTIS UNPAR akan lebih memberikan perhatian kepada 
+potensi lokal, yaitu kekuatan, keunggulan, keunikan asli (*indigenous*) 
+yang terkandung di bumi Indonesia, khususnya di wilayah Jawa Barat. 
+Ini berarti bahwa proses pendidikan, penelitian, dan pengabdian kepada 
+masyarakat harus memberi perhatian pada masalah-masalah yang secara nyata 
+dihadapi oleh masyarakat dan bangsa Indonesia, khususnya di wilayah Jawa Barat. 
+Dengan mengacu kepada bidang-bidang keilmuan di dalam FTIS, potensi lokal 
 tersebut harus dikembangkan secara kreatif dan kritis, sehingga mampu 
 untuk disejajarkan dan dikompetisikan pada tataran internasional.
 
 Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada 
 peningkatan martabat manusia. Kegiatan pendidikan yang ditujukan untuk 
-menyiapkan generasi muda sebagai calon pemimpin masa depan dimaskudkan 
-agara mereka berkembang menjadi manusia yang utuh yang memiliki 
+menyiapkan generasi muda sebagai calon pemimpin masa depan dimaksudkan 
+agar mereka berkembang menjadi manusia yang utuh yang memiliki 
 keseimbangan antara rasio, rasa, raga, dan rukun. Untuk itu, proses 
 pendidikan yang berlangsung di UNPAR dan di dalam FTIS harus mampu 
 memberikan pengalaman belajar kepada para mahasiswa, bukan hanya dalam 
@@ -223,13 +222,16 @@ Teknik Informatika, dan penerapannya dan mampu bersaing di tataran
 nasional maupun internasional. 
 
 
-Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
+Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen 
+dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang 
+akademik dan non akademik serta mengembangkan sarana dan prasarana 
+yang memadai yang memenuhi standar nasional maupun internasional.
 
 #### 1.2.4 SASARAN FTIS
 
-Sasaran FTIS adalah sebagai berikut :
+Sasaran FTIS adalah sebagai berikut:
 
-1. Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
+1. Tercapainya sistem pengelolaan yang profesional dan berkualitas.
 2. Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
 3. Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
 4. Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
@@ -259,24 +261,24 @@ sebagainya.
 ### 1.4 Pengelola Fakultas
 
 * **Senat FTIS**
-    * **Ketua**: Agus Sukmana, SSi, MSc
-    * **Sekretaris**: Philips Nicolas Gunawidjaja, BSc, PhD
+    * **Ketua**: Agus Sukmana, S.Si., M.Sc.
+    * **Sekretaris**: Philips Nicolas Gunawidjaja, B.Sc., Ph.D.
 * **Dekanat**
-    * **Dekan**: Paulus Tjahjono Tjiang, SSi, PhD.
+    * **Dekan**: Paulus Tjahjono Tjiang, S.Si, Ph.D.
     * **WD I (Akademik)**: Dr. Thomas Anung Basuki
-    * **WD II(Keuangan dan Sumberdaya)**: Maria Anestasia, SSi, MSi.
-    * **WD III(Kemahasiswaan dan Alumni)**: Dr.rer.nat. Cecilia E. Nugraheni, ST,MT
+    * **WD II(Keuangan dan Sumberdaya)**: Maria Anestasia, S.Si., M.Si.
+    * **WD III(Kemahasiswaan dan Alumni)**: Dr.rer.nat. Cecilia E. Nugraheni, S.T., M.T.
 * **Program Studi Matematika**
     * **Ketua**: Dr. Ferry Jaya Permana
-    * **Sekretaris**: Livia Owen, SSi,MSi.
+    * **Sekretaris**: Livia Owen, S.Si., M.Si.
 * **Program Studi Fisika**
-    * **Ketua**: Philips Nicolas Gunawidjaja, BSc, PhD
-    * **KaLab. Fisika Dasar**: Risti Suryantari, S.Si,M.Si.
+    * **Ketua**: Philips Nicolas Gunawidjaja, B.Sc., Ph.D.
+    * **KaLab. Fisika Dasar**: Risti Suryantari, S.Si, M.Si.
     * **KaLab. Elektronika & Fisika Lanjut**: Janto V. Sulungbudi, Drs.
 * **Program Studi Teknik Informatika**
     * **Ketua**: Dr. Thomas Anung Basuki
-    * **Sekretaris**: Lionov, SKom, MSc
-    * **KaLab. Komputasi**: Chandra Wijaya, ST, MT
+    * **Sekretaris**: Lionov, S.Kom, M.Sc.
+    * **KaLab. Komputasi**: Chandra Wijaya, S.T., M.T.
 * **Tata Usaha**
     * **Kepala**: Pranyoto Teguh Imanto
     * **Kasubag Akademik**: Petrus Purnomo
@@ -293,115 +295,115 @@ pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014,
 alamat email dan website.
 
 * **Guru Besar**
-    1. **Prof B. Suprapto Brotosiswojo,** Dr. (Purdue University,USA)
+    1. **Prof B. Suprapto Brotosiswojo,** Dr. (Purdue University, USA)
     	 Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.   
    	 Email: bensupra@unpar.ac.id
 
 *  **Lektor Kepala**
-    1. **Agus Sukamana,** Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI):
+    1. **Agus Sukamana,** Drs. (ITB), M.Sc. (Twente Univ. - Belanda), studi S-3 (UPI):
     	 Teori Peluang, Pengendalian Mutu, Statistika Elementer.   
    	 Email: asukmana@unpar.ac.id
     2. **Aloysius Rusli,** Dr. (Leeds University, UK): Fisika Polimer, Pengenalan Program Studi Fisika, Etika Profesi, Reologi.   
          Email: arusli@unpar.ac.id
-    4.	**Benny Yong,** SSi. (UNPAR), MSi. (ITB):
+    4.	**Benny Yong,** S.Si. (UNPAR), M.Si. (ITB):
 	Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika.    
 	Email: benny_y@unpar.ac.id. 
-    5.	**Ferry Jaya Permana,** SSi (ITB), MSi (ITB), PhD (TU Delft -  Belanda)
+    5.	**Ferry Jaya Permana,** S.Si. (ITB), M.Si. (ITB), Ph.D. (TU Delft - Belanda)
 	Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan.   
 	Email: ferryjp@unpar.ac.id. 
-   6.	**Iwan Sugiarto,** SSi (UNPAR), MSi (ITB):
+   6.	**Iwan Sugiarto,** S.Si. (UNPAR), M.Si. (ITB):
 	Metoda Matematika, Fungsi Kompleks, Optimasi.     
 	Email: iwans@unpar.ac.id. 
-    7.	**Julius Dharma Lesmono,** SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente University - Belanda), Dr. (University of Queenslands - Australia):
+    7.	**Julius Dharma Lesmono,** S.Si. (ITB), S.E. (UNPAR), M.T. (ITB), M.Sc. (Twente University - Belanda), Dr. (University of Queenslands - Australia):
 	Proses Stokastik, Statistika Matematika, Kontrol Optimum.   
 	Email: jdharma@unpar.ac.id. 
-   8.	**Nico Saputro,** ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois  USA).   
+   8.	**Nico Saputro,** S.T. (ITB), M.T. (ITB), Studi S-3 (Univ. of Illinois, USA).   
 	Email: nico@unpar.ac.id
-   9.	**Paulus Cahyono Tjiang,** Drs. (ITB), PhD (Australian National University): Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum.    
+   9.	**Paulus Cahyono Tjiang,** Drs. (ITB), Ph.D. (Australian National University): Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum.    
 	Email: pctjiang@unpar.ac.id. 
-   10.	**Sylvia Hastuti Sutanto,** SSi (ITB), PhD (Australian National University): Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida.    
+   10.	**Sylvia Hastuti Sutanto,** S.Si. (ITB), Ph.D. (Australian National University): Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida.    
 	Email: sylvia@unpar.ac.id
-   11.	**Marcus Wono Setya Budhi,** PhD (Univ. of Illinois  USA):
+   11.	**Marcus Wono Setya Budhi,** Ph.D. (Univ. of Illinois, USA):
 	Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.   
 	Email: wono@math.itb.ac.id
-   12.	**Veronica Sri Moertini,** ST (ITB), MT (ITB), Dr. (ITB):
+   12.	**Veronica Sri Moertini,** S.T. (ITB), M.T. (ITB), Dr. (ITB):
 	Basis Data, Penambangan Data, Projek Sistem Informasi.   
 	Email: moertini@unpar.ac.id   
 
 *  **Lektor**
-   13.	**Cecilia Esti Nugraheni,** ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet Germany):
+   13.	**Cecilia Esti Nugraheni,** S.T. (ITB), M.T. (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet Germany):
 	Matematika Diskret, Jaringan Syaraf Tiruan.    
 	Email: cheni@unpar.ac.id
-   14.	**Erwinna Chendra,** SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB.   
+   14.	**Erwinna Chendra,** S.Si. (UNPAR), M.Si. (ITB), Studi S-3 Matematika di ITB.   
 	Email: erwinna@unpar.ac.id. Website: http://www.unpar.ac.id/erwinna
-   15.	**Liem Chin,** SSi.(UNPAR), MSi.(ITB): 
+   15.	**Liem Chin,** S.Si. (UNPAR), M.Si. (ITB): 
 	Matematika Diskret, Aljabar Linear, Komputasi Statistika.   
 	Email: chin@unpar.ac.id. 
-   16.	**Oerip S. Santoso,** dr (UI), MSc. (Univ. Wisconsin Madison, USA), Dr.(Univ. Paris VI): 
+   16.	**Oerip S. Santoso,** dr. (UI), M.Sc. (Univ. Wisconsin Madison, USA), Dr. (Univ. Paris VI): 
 	Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak.    
 	Email: oerip_ss@yahoo.com
-   17.	**Philips Nicolas Gunawidjaja,** BSc. (University of Warwick,UK), PhD. (University of Warwick, UK): Keterampilan Fisika, Elektronika 1 & 2, Struktur Materi.   
+   17.	**Philips Nicolas Gunawidjaja,** B.Sc. (University of Warwick,UK), Ph.D. (University of Warwick, UK): Keterampilan Fisika, Elektronika 1 & 2, Struktur Materi.   
 	Email: philips@unpar.ac.id. 
-   18.	**Rosa de Lima E.P.,** SSi (ITB), MT (ITB), Studi S-3 di UPI:
-	Sistem Informarsi, Sistem Pendukung Keputusan.   
+   18.	**Rosa de Lima E.P.,** S.Si. (ITB), M.T. (ITB), Studi S-3 di UPI:
+	Sistem Informasi, Sistem Pendukung Keputusan.   
 	Email: rosad5@unpar.ac.id
-   19.	**Farah Kristiani,** SSi (UNPAR), MSi (ITB), 
+   19.	**Farah Kristiani,** S.Si. (UNPAR), M.Si. (ITB), 
     	Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.   
 	Email: farah@unpar.ac.id. 
 
 * **Asisten Ahli**
-   19.	**Elisati Hulu,** ST (ITB), MT (ITB), Studi S-3 di ITB.    
+   19.	**Elisati Hulu,** S.T. (ITB), M.T. (ITB), Studi S-3 di ITB.    
 	Email: elisatih@unpar.ac.id
-   20.	**Gede Karya,** ST (ITB), MT (ITB): 
+   20.	**Gede Karya,** S.T. (ITB), M.T. (ITB): 
 	Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis.   
 	Email: gkarya@unpar.ac.id. 
-   21.	**Ivonne Martin, SSi** (UNPAR), MSc. (TU Delft, Belanda): 
+   21.	**Ivonne Martin,**  S.Si. (UNPAR), M.Sc. (TU Delft, Belanda): 
 	Studi S-3 Matematika di Leiden University, Belanda.   
 	Email: ivonne@unpar.ac.id
-   22.	**Janto Vincent Sulungbudi,** SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.    
+   22.	**Janto Vincent Sulungbudi,** S.Si. (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.    
 	Email: janto@unpar.ac.id, janto.sulungbudi@gmail.com. 
-   23.	**Lionov,** SKom (UNPAR), MSc. (Utrecht Univ., Belanda): 
+   23.	**Lionov,** S.Kom. (UNPAR), M.Sc. (Utrecht Univ., Belanda): 
 	Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi.   
 	Email: lionov@unpar.ac.id. 
-   24.	**Livia Owen,** SSi (UNPAR), MSi (ITB): 
+   24.	**Livia Owen,** S.Si. (UNPAR), M.Si. (ITB): 
 	Kalkulus Vektor, Komputasi Matematika, Fisika Matematik II.    
 	Email: livia.owen@unpar.ac.id
-   25.	**Luciana Abednego,** SKom (UNPAR), MT (ITB): 
+   25.	**Luciana Abednego,** S.Kom. (UNPAR), M.T. (ITB): 
 	Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer.    
 	Email: luciana@unpar.ac.id
-   26.	**Taufik Limansyah,** SSi (UNPAR), Studi S-2 Teknik Industri di UNPAR : 
+   26.	**Taufik Limansyah,** S.Si. (UNPAR), Studi S-2 Teknik Industri di UNPAR : 
  	Kalkulus 1, Kalkulus II, Fisika Matematik 1.   
 	Email: taufik.limansyah@unpar.ac.id
-   27.	**Thomas Anung Basuki,** ST (ITB), MKom (UI), Dr. (University of Pisa, Italia): 
+   27.	**Thomas Anung Basuki,** S.T. (ITB), M.Kom. (UI), Dr. (University of Pisa, Italia): 
 	Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah.    
 	Email: anung@unpar.ac.id
-   28.	**Maria Anestasia,** SSi (ITB), MSi (ITB):
+   28.	**Maria Anestasia,** S.Si. (ITB), M.Si. (ITB):
 	Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor.     
 	Email: maria.anestasia@unpar.ac.id
 
 
 * **Golongan III**
-   29.	**Chandra Wijaya,** SKom (UNPAR), MT (ITB): 
+   29.	**Chandra Wijaya,** S.Kom. (UNPAR), M.T. (ITB): 
 	Jaringan Komputer, Sistem Digital   
 	Email: chandraw@unpar.ac.id
-   30.	**Elok Fidiani,** SSi (UGM), MSc (TU Dresden): Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, Nanoteknologi dan Lingkungan.       
+   30.	**Elok Fidiani,** S.Si. (UGM), M.Sc. (TU Dresden): Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, Nanoteknologi dan Lingkungan.       
  	Email: elokfidiani@unpar.ac.id, elokfidiani@gmail.com. 
-   31.	**Flaviana Catherine,** SSi (UNPAR), MSi (ITB): Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis.    
+   31.	**Flaviana Catherine,** S.Si. (UNPAR), M.Si. (ITB): Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis.    
 	Email: flaviana@unpar.ac.id
-   32.	**Haryanto Mangaratua Siahaan,** SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan.   
+   32.	**Haryanto Mangaratua Siahaan,** S.Si. (ITB), M.Si. (ITB), Studi S-3 di University of Saskatchewan.   
 	Email: haryanto.siahaan@gmail.com
-   33.	**Kian Ming,** SSi (UNPAR), S-2 (ITB): Fisika Dasar, Teori Relativitas, Kosmologi Relativistik     
+   33.	**Kian Ming,** S.Si. (UNPAR), S-2 (ITB): Fisika Dasar, Teori Relativitas, Kosmologi Relativistik     
    	Email: kian.ming@unpar.ac.id
-   34.	**Mariskha Tri Adithia,** SSi (ITB), MSc (Universiteit Eindhoven Belanda), PDEng (Universiteit Eindhoven, Belanda): Struktur Diskret, Kriptografi, Logika Informatika.   
+   34.	**Mariskha Tri Adithia,** S.Si. (ITB), M.Sc. (Universiteit Eindhoven Belanda), PDEng (Universiteit Eindhoven, Belanda): Struktur Diskret, Kriptografi, Logika Informatika.   
 	Email: mariskha@unpar.ac.id
-   35.	**Pascal Alfadian,** SKom (UNPAR), MCom (NUS - Singapore): 
+   35.	**Pascal Alfadian,** S.Kom. (UNPAR), M.Com. (NUS - Singapore): 
 	Analisis dan Desain Berorientasi Objek, Pemrograman Beorientasi Objek    
 	Email: pascal@unpar.ac.id
-   36.	**Risti Suryantari,** SSi (UGM), MSc (UGM): Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair.    
+   36.	**Risti Suryantari,** S.Si. (UGM), M.Sc. (UGM): Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair.   
    	Email: ristisuryantari@unpar.ac.id
-   37.	**Husnul Hakim,** SKom (ITS), MT (ITB): 
+   37.	**Husnul Hakim,** S.Kom. (ITS), M.T. (ITB): 
 	Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data   
 	Email: husnulhakim@unpar.ac.id
-   38.	**Vania Natali,** S.Kom (UNPAR), studi S2 - ITB       
+   38.	**Vania Natali,** S.Kom. (UNPAR), studi S2 - ITB       
 	Email: vania.natali@unpar.ac.id  
 
