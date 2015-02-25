@@ -267,7 +267,7 @@ sebagainya.
     * **Dekan**: Paulus Tjahjono Tjiang, S.Si, Ph.D.
     * **WD I (Akademik)**: Dr. Thomas Anung Basuki
     * **WD II(Keuangan dan Sumberdaya)**: Maria Anestasia, S.Si., M.Si.
-    * **WD III(Kemahasiswaan dan Alumni)**: Dr.rer.nat. Cecilia E. Nugraheni, S.T., M.T.
+    * **WD III(Kemahasiswaan dan Alumni)**: Dr. rer. nat. Cecilia E. Nugraheni, S.T., M.T.
 * **Program Studi Matematika**
     * **Ketua**: Dr. Ferry Jaya Permana
     * **Sekretaris**: Livia Owen, S.Si., M.Si.
@@ -331,7 +331,7 @@ alamat email dan website.
 	Email: moertini@unpar.ac.id   
 
 *  **Lektor**
-   13.	**Cecilia Esti Nugraheni,** S.T. (ITB), M.T. (ITB), Dr.rer.Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet Germany):
+   13.	**Cecilia Esti Nugraheni,** S.T. (ITB), M.T. (ITB), Dr. rer. nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet Germany):
 	Matematika Diskret, Jaringan Syaraf Tiruan.    
 	Email: cheni@unpar.ac.id
    14.	**Erwinna Chendra,** S.Si. (UNPAR), M.Si. (ITB), Studi S-3 Matematika di ITB.   
