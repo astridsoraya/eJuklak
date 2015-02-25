@@ -295,11 +295,13 @@ alamat email dan website.
     1. **Prof B. Suprapto Brotosiswojo,** Dr. (Purdue University,USA)
     	 Fisika, Komputasi, Komputasi Kuantam, Pemodelan Matematika Gejala Alam.   
    	 Email: bensupra@unpar.ac.id
+
 *  **Lektor Kepala**
     1. **Agus Sukamana,** Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI):
     	 Teori Peluang, Pengendalian Mutu, Statistika Elementer.   
    	 Email: asukmana@unpar.ac.id
-    2. **Aloysius Rusli,** Dr. (Leeds University, UK): Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, 		         Reologi.   
+
+    2. **Aloysius Rusli,** Dr. (Leeds University, UK): Fisika Polimer, Pengenalan Program Studi Fisika, Etika Profesi, Reologi.   
          Email: arusli@unpar.ac.id
     4.	**Benny Yong,** SSi. (UNPAR), MSi. (ITB):
 	Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika.    
@@ -313,17 +315,17 @@ alamat email dan website.
 	Metoda Matematika, Fungsi Kompleks, Optimasi.     
 	Email: iwans@unpar.ac.id. 
 
-    7.	**Julius Dharma Lesmono,** SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente University - Belanda), Dr. (University of 		Queenslands - Australia):
+    7.	**Julius Dharma Lesmono,** SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente University - Belanda), Dr. (University of Queenslands - Australia):
 	Proses Stokastik, Statistika Matematika, Kontrol Optimum.   
 	Email: jdharma@unpar.ac.id. 
 
    8.	**Nico Saputro,** ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois  USA).   
 	Email: nico@unpar.ac.id
 
-   9.	**Paulus Cahyono Tjiang,** Drs. (ITB), PhD (Australian National University): Listrik Magnet, Elektrodinamika, 			Mekanika Kuantum Relativistik, Teori Medan Kuantum.    
+   9.	**Paulus Cahyono Tjiang,** Drs. (ITB), PhD (Australian National University): Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum.    
 	Email: pctjiang@unpar.ac.id. 
 
-   10.	**Sylvia Hastuti Sutanto,** SSi (ITB), PhD (Australian National University): Fisika Matematika 3 & 4, Mekanika 			Hamiltonian, Dinamika Fluida.    
+   10.	**Sylvia Hastuti Sutanto,** SSi (ITB), PhD (Australian National University): Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida.    
 	Email: sylvia@unpar.ac.id
 
    11.	**Marcus Wono Setya Budhi,** PhD (Univ. of Illinois  USA):
@@ -335,7 +337,7 @@ alamat email dan website.
 	Email: moertini@unpar.ac.id   
 
 *  **Lektor**
-   13.	**Cecilia Esti Nugraheni,** ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians 			Universitaet  Germany):
+   13.	**Cecilia Esti Nugraheni,** ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet Germany):
 	Matematika Diskret, Jaringan Syaraf Tiruan.    
 	Email: cheni@unpar.ac.id
 
@@ -350,7 +352,7 @@ alamat email dan website.
 	Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak.    
 	Email: oerip_ss@yahoo.com
 
-   17.	**Philips Nicolas Gunawidjaja,** BSc. (University of Warwick,UK), PhD. (University of Warwick, UK): Keterampilan 		Fisika, Elektronika 1 & 2, Struktur Materi.   
+   17.	**Philips Nicolas Gunawidjaja,** BSc. (University of Warwick,UK), PhD. (University of Warwick, UK): Keterampilan Fisika, Elektronika 1 & 2, Struktur Materi.   
 	Email: philips@unpar.ac.id. 
 
    18.	**Rosa de Lima E.P.,** SSi (ITB), MT (ITB), Studi S-3 di UPI:
@@ -373,7 +375,7 @@ alamat email dan website.
 	Studi S-3 Matematika di Leiden University, Belanda.   
 	Email: ivonne@unpar.ac.id
 
-   22.	**Janto Vincent Sulungbudi,** SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, 			Pengantar Kontrol Otomatis.    
+   22.	**Janto Vincent Sulungbudi,** SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.    
 	Email: janto@unpar.ac.id, janto.sulungbudi@gmail.com. 
 
    23.	**Lionov,** SKom (UNPAR), MSc. (Utrecht Univ.  Belanda): 
@@ -406,10 +408,10 @@ alamat email dan website.
 	Jaringan Komputer, Sistem Digital   
 	Email: chandraw@unpar.ac.id
 
-   30.	**Elok Fidiani,** SSi (UGM), MSc (TU Dresden): Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, 			Nanoteknologi dan Lingkungan.       
+   30.	**Elok Fidiani,** SSi (UGM), MSc (TU Dresden): Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, Nanoteknologi dan Lingkungan.       
  	Email: elokfidiani@unpar.ac.id, elokfidiani@gmail.com. 
 
-   31.	**Flaviana Catherine,** SSi (UNPAR), MSi (ITB): Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika            	Instrumentasi Medis.    
+   31.	**Flaviana Catherine,** SSi (UNPAR), MSi (ITB): Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis.    
 	Email: flaviana@unpar.ac.id
 
    32.	**Haryanto Mangaratua Siahaan,** SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan.   
