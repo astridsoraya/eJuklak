@@ -125,7 +125,7 @@ Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan
 berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester)
 dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
 
-#### 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
+### 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
 
 Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah 
 
