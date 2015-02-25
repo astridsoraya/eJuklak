@@ -372,7 +372,7 @@ alamat email dan website.
 	Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer.    
 	Email: luciana@unpar.ac.id
    26.	**Taufik Limansyah,** S.Si. (UNPAR), Studi S-2 Teknik Industri di UNPAR : 
- 	Kalkulus 1, Kalkulus II, Fisika Matematik 1.   
+ 	Kalkulus 1, Kalkulus II, Fisika Matematik 1.
 	Email: taufik.limansyah@unpar.ac.id
    27.	**Thomas Anung Basuki,** S.T. (ITB), M.Kom. (UI), Dr. (University of Pisa, Italia): 
 	Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah.    
