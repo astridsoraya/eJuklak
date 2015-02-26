@@ -352,6 +352,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 | AMS122  | Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
 
 ![](images/gambar 1.jpg)
+Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 
 | KODE MK                                | NAMA & DESKRIPSI MATA KULIAH                                                     |
 |----------------------------------------|----------------------------------------------------------------------------------|
@@ -612,6 +613,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 |    -    | Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami              proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.                                                  |
 
 ![](images/gambar 2.jpg)
+Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                    |
 |---------|-----------------------------------------------------------------------------------------------------------------|
