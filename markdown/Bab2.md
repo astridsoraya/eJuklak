@@ -818,5 +818,70 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF333 | Topik Khusus Sistem Informasi 1 |     | 2   |
 | AIF335 | Pembelajaran Mesin              |     | 3   |
 | AIF336 | Algoritma Kriptografi           |     | 3   |
-| AIF337 | Matematika Teknik               |     |     |
- 
+| AIF337 | Matematika Teknik               |     | 3   |
+| AIF338 | Bioinformatika                  |     | 3   |
+| AIF347 | e-Commerce                      |     | 2   |
+| AIF348 | Verifikasi Formal               |     | 3   |
+| AIF350 | Algoritma Genetika              |     | 2   |
+| AIF352 | Jaringan Syaraf Tiruan          |     | 2   |
+| AIF354 | Teori Bahasa & Kompilasi        |     | 2   |
+| AIF356 | Analisis Proses Bisnis          |     | 2   |
+| AIF358 | Jaringan Komputer Lanjut        |     | 3   |
+| AIF360 | Pemrograman Berbasis Web Lanjut |     | 3   |
+| AIF362 | Sistem & Aplikasi Telematika    |     | 3   |                                     
+| AIF431 | Topik Khusus Informatika 3      |     | 3   |  
+| AIF432 | Topik Khusus Informatika 4      |     | 2   |
+| AIF433 | Topik Khusus Sistem Informasi 3 |     | 3   |
+| AIF434 | Topik Khusus Sistem Informasi 4 |     | 2   |
+| AIF435 | Grafika Komputer Lanjut         |     | 3   |
+| AIF436 | Bio-Inspired Computing          |     | 3   |
+| AIF437 | Kecerdasan Buatan Untuk Permainan Komputer|     | 3   |
+| AIF438 | Penambangan Data         |     | 3   |
+| AIF439 | Kerja Praktek 2          |     | 3   |
+| AIF440 | Kerja Praktek 3          |     | 4   |
+| AIF441 | Administrasi Jaringan Komputer 3 |     | 3   |
+| AIF442 | Administrasi Jaringan Komputer 4 |     | 3   |
+| AIF465 | Teknologi Middleware             |     |     |
+| AIF466 | Sistem Terdistribusi             |     |     |
+| AIF468 | Teknologi Multimedia             |     |     |
+
+| KODE   | NAMA                            | APR | SKS |
+|--------|---------------------------------|-----|-----|
+| AIF339 | Pemodelan Formal                |     | 3   |
+| AIF340 | Komputasi Geometri              |     | 3   |
+| AIF341 | Adm. Jaringan Komputer 1        |     | 3   |
+| AIF342 | Adm. Jaringan Komputer 2        |     | 3   |
+| AIF343 | Pemrograman Kompetitif          |     | 3   |
+| AIF344 | Pemodelan & Simulasi            |     | 3   |
+| AIF345 | Pengujian Perangkat Lunak       |     | 2   |
+| AIF346 | Perancangan Permainan Komputer  |     | 3   |
+| AIF443 | Matematika Kombinatorial        |     | 3   |
+| AIF444 | Pemrograman Permainan Komputer  |     | 3   |
+| AIF445 | Metode Numerik                  |     | 3   |
+| AIF446 | Kompresi Data                   |     | 3   |
+| AIF447 | Metode Optimisasi               |     | 3   |
+| AIF448 | Pemrosesan Data Geografis       |     | 3   |
+| AIF449 | Teknologi Mesin Pencari         |     | 3   |
+| AIF450 | Pengolahan Citra                |     | 3   |
+| AIF451 | Audit Sistem Informasi          |     | 3   |                                     
+| AIF452 | Pemrograman Lojik               |     | 2   |  
+| AIF453 | Kecerdasan Bisnis               |     | 3   |
+| AIF454 | Sistem Multi Agen               |     | 2   |
+| AIF455 | Sistem Pendukung Keputusan      |     |     |
+| AIF456 | Strategi Sistem Informasi & Arsitektur Perusahaan Berskala Besar |     |     |
+| AIF457 | Kewirausahaan Berbasis Teknologi|     |     |
+| AIF458 | Kontrol & Audit Teknologi Informasi|     |     |
+| AIF459 | Administrasi Basis Data  |     |     |
+| AIF460 | Manajemen Pengetahuan    |     |     |
+| AIF461 | Pencarian & Temu Kembali Informasi|     |     |
+| AIF462 | Manajemen Proses Bisnis          |     |     |
+| AIF463 | Jaringan Nirkabel                |     |     |
+| AIF464 | Sistem Perusahaan Berskala Besar |     |     |
+| AIF469 | Layanan Berbasis Web             |     |     |
+| AIF470 | Pemrograman Jaringan             |     |     |
+
+#### 2.7.3 Peta dan Prasyarat Matakuliah
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
+
+#### 2.7.4 Deskripsi Matakuliah
+
