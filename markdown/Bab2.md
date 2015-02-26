@@ -940,5 +940,17 @@ Deskripsi Matakuliah
 | AIF401  | SKRIPSI 1 / *UNDERGRADUATE THESIS 1*                                                                            |
 |         | Skripsi 1 merupakan bagian pertama skripsi dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil                 kerja secara tertulis dan lisan. Topik ditentukan bersama dosen  pembimbing.                                    |
 
+| KODE MK       | NAMA & DESKRIPSI MATA KULIAH                                                                              |
+|---------------|-----------------------------------------------------------------------------------------------------------|
+| AIF402        | SKRIPSI 2 / *UNDERGRADUATE THESIS 2*                                                                      |
+|               | Skripsi 2 merupakan bagian kedua skripsi, Pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik                   dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.                                |
+| AIF403        | KOMPUTER & MASYARAKAT / *COMPUTER & SOCIETY*                                                              |
+| Lulus  72 SKS | Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai                       pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan                        isu-isu teknologi & non-teknologi yang penting  dalam bidang TIK. Prasyarat : sudah lulus 72 SKS.         |
+| AIF405        | PROYEK SISTEM INFORMASI 2 / *INFORMATION SYSTEM PROJECT 2*                                                |
+|               | Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual,                    pengujian modul, integrasi dan penerimaan user (UAT).                                                     |
+| AMS100        | MATEMATIKA INFORMATIKA / *MATHEMATICS FOR INFORMATICS*                                                    |
+|               | Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah  informatika yang                      terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,  Turunan, Integral, Sistem Persamaan                   Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.                                                   |
+| AMS200        | PROBABILITAS & STATISTIKA / *PROBABILITY & STATISTICS*                                                    |
+|               | Mempelajari konsep-konsep dasar dalam teori peluang dan statistika                                        |
 
 
