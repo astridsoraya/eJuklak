@@ -266,8 +266,8 @@ sebagainya.
 * **Dekanat**
     * **Dekan**: Paulus Tjahjono Tjiang, S.Si, Ph.D.
     * **WD I (Akademik)**: Dr. Thomas Anung Basuki
-    * **WD II(Keuangan dan Sumberdaya)**: Maria Anestasia, S.Si., M.Si.
-    * **WD III(Kemahasiswaan dan Alumni)**: Dr. rer. nat. Cecilia E. Nugraheni, S.T., M.T.
+    * **WD II (Keuangan dan Sumberdaya)**: Maria Anestasia, S.Si., M.Si.
+    * **WD III (Kemahasiswaan dan Alumni)**: Dr. rer. nat. Cecilia E. Nugraheni, S.T., M.T.
 * **Program Studi Matematika**
     * **Ketua**: Dr. Ferry Jaya Permana
     * **Sekretaris**: Livia Owen, S.Si., M.Si.
