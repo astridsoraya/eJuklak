@@ -37,3 +37,13 @@ Kamis,19 Februari 2015 <Minggu III pertemuan 2>
 ---------------------------------------------
 LIBUR!!!!   
 ===========
+
+Rabu, 25 Februari 2015 <Minggu IV pertemuan 1>   
+---------------------------------------------
+  Agenda: Development process dan melihat presentasi kelompok lain
+  Progress: 
+
+Kamis, 26 Februari 2015 <Minggu IV pertemuan 2>   
+---------------------------------------------
+  Agenda: Presentasi aplikasi dan markdown
+  Progress: 
