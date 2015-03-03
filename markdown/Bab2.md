@@ -40,9 +40,9 @@ SKS mata kuliah ini berbeda-beda untuk setiap prodi:
    1. Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah 
    satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).
    2. Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodi di UNPAR.
-   3. Untuk Teknik Informatika, 30 SKS dengan banyaknya matakuliah pilihan dari 
+   3. Untuk Teknik Informatika, 30 SKS dengan banyaknya mata kuliah pilihan dari 
    luar jurusan yang dapat diperhitungkan dalam kelulusan adalah 
-   sebanyak-banyaknya 4 (empat) matakuliah.
+   sebanyak-banyaknya 4 (empat) mata kuliah.
 
 Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
    1.	Bila mata kuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak 
@@ -133,7 +133,7 @@ penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
 
 #### 2.4.2 Uraian Singkat Mata Kuliah Umum
 
-| Nama MK PRASYARAT | NAMA MATA KULIAH DESKRIPSI MATAKULIAH                                                                 |
+| Nama MK PRASYARAT | NAMA MATA KULIAH DESKRIPSI MATA KULIAH                                                                 |
 |-------------------|-------------------------------------------------------------------------------------------------------|
 | MKU001            | PENDIDIKAN PANCASILA/*PANCASILA EDUCATION*                                                            |
 |                   | Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan                           Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan                       pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap                           segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai                       Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui                           pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia                              Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian,                            Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan                       panduan nilai-nilai etis Pancasila.                                                                   |
@@ -146,14 +146,14 @@ penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
 | MKU008            | ETIKA/*ETHICS*                                                                                        |
 |                   | Mendalami perilaku sehari-hari yang baik dalam bermasyarakat.                                         |
 | MKU009            | BAHASA INDONESIA/*INDONESIAN*                                                                         |
-|                   | Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu                              mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata                          kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta                                pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya, dipelajari penyusunan kalimat yang baku                       serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain                         itu, dalam matakuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir                          kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.                                   |
+|                   | Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu                              mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata                          kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta                                pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya, dipelajari penyusunan kalimat yang baku                       serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain                         itu, dalam mata kuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir                          kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.                                   |
 | MKU010            | BAHASA INGGRIS/*ENGLISH*                                                                              |
 |                   | Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan                             kosakata Bahasa Inggris (*vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk                           menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan                              metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan                        hasil pemahamannya akan isi bahan bacaan.                                                             |
 | MKU011            | ESTETIKA/*ESTHETICS*                                                                                  |
 |                   | Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan                       kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi                         bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural,                         dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan                               pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.                    |
 | MKU012            | LOGIKA/*LOGICS*                                                                                       |
 |                   | Perkuliahan logika ditujukan untuk memberikan dasar-dasar keterampilan berpikir rasional dan                                 sistematik. Isinya mencakup keterampilan berpikir deduktif dan induktif, seperti silogisme, argumen                          analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang                        diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula                         mengidentifikasi kerancuan-kerancuan (*fallacies*) yang sering dijumpai baik dalam kehidupan                                 sehari-hari maupun dalam konteks akademik.                                                            |
-Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama.
+Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama.
 
 ### 2.5 Kurikulum Program Studi Matematika
 
@@ -331,7 +331,7 @@ Lain-lain
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di 
 program studi lain di lingkungan UNPAR, dengan tetap memperhatikan 
 persyaratan yang berlaku di Program Studi Matematika dan program studi 
-penyelenggara matakuliah tersebut. Adapun persyaratan mata kuliah pilihan yang 
+penyelenggara mata kuliah tersebut. Adapun persyaratan mata kuliah pilihan yang 
 berlaku di Program Studi Matematika adalah memilih salah satu kelompok bidang kajian dan menempuh mata kuliah pilihan 
 bidang kajian minimal 15 sks.
 
@@ -495,8 +495,8 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | 5  | Biofisika                                                            |
 | 6  | Fisika Bumi                                                          |
 | 7  | Astrofisika                                                          |
-| 8  | Matakuliah Layanan                                                   |
-| 9  | Seminar dan skripsi                                                  |
+| 8  | Mata Kuliah Layanan                                                   |
+| 9  | Seminar dan Skripsi                                                  |
 | 0  | Kuliah Dasar, Keterampilan Umum, Lain-lain                           |
 
 #### 2.6.2 Mata Kuliah Pilihan Program Studi Fisika
@@ -709,7 +709,7 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | -       | Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya  mengembangkan usaha agar dapat                  menjadi wirausaha yang berhasil dan beretika. Pembahasan  mengenai inti dan hakekat kewirausahaan, disiplin ilmu,             obyek studi dan perkembangannya,  karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses,             tahapan,  keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha,  pengelolaan dunia                usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis  dan prinsip-prinsip usaha yang baik.              Selain itu juga dipresentasikan hasil kunjungan ke  perusahaan agar dapat membedakan dunia nyata dengan teori,               sehingga mahasiswa diharapkan  memiliki kemampuan soft skill.                                                   |
 
 ### 2.7 Kurikulum Program Studi Teknik Informatika
-#### 2.7.1 Susunan Matakuliah
+#### 2.7.1 Susunan Mata Kuliah
 
 |            |         SEMESTER 1             |     |     |
 |------------|--------------------------------|-----|-----|
@@ -806,18 +806,18 @@ Keterangan :
 
 Aturan Tambahan :
   1. Mata kuliah pilihan dari luar jurusan  
-  Banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
-Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai matakuliah pilihan dari dalam jurusan 
+  Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
+Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan 
   2. Skor *Coding*  
-  Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali   tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor coding> 0.
-  3. Nilai minimum kuliah jalur pemrograman/algoritma  Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
+  Beberapa mata kuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali   tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor coding> 0.
+  3. Nilai minimum kuliah jalur pemrograman/algoritma  Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
      a. Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
      b. Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
      c. Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
      d. Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
 maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
-#### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
+#### 2.7.2 Mata kuliah Pilihan Program Studi Teknik Informatika
 | KODE   | NAMA                            | APR | SKS |
 |--------|---------------------------------|-----|-----|
 | AIF330 | Kerja Praktek 1                 |     | 2   |
@@ -888,10 +888,10 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF469 | Layanan Berbasis Web             |     |     |
 | AIF470 | Pemrograman Jaringan             |     |     |
 
-#### 2.7.3 Peta dan Prasyarat Matakuliah
+#### 2.7.3 Peta dan Prasyarat Mata Kuliah
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 
-#### 2.7.4 Deskripsi Matakuliah
+#### 2.7.4 Deskripsi Mata Kuliah
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                    |
 |---------|-----------------------------------------------------------------------------------------------------------------|
 | AIF101  | PEMROGRAMAN BERORIENTASI OBJEK/ *OBJECT-ORIENTED PROGRAMMING*                                                   |
@@ -906,9 +906,9 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 |         | Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS                        Excel,mengenal cakupan ilmu informatika.                                                                        |
 
 ![](images/gambar 3.jpg)
-Gambar 3. Peta dan Prasyarat Matakuliah
+Gambar 3. Peta dan Prasyarat Mata Kuliah
 
-Deskripsi Matakuliah
+Deskripsi Mata Kuliah
 
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                    |
 |---------|-----------------------------------------------------------------------------------------------------------------|
