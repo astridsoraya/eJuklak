@@ -244,6 +244,7 @@ kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah pilihan
 Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
 
 #####Kelompok Bidang Kajian: Rekayasa Keuangan
+
 Matematika Asuransi
 
 | KODE   | NAMA                         |  APR  | SKS |
@@ -252,6 +253,7 @@ Matematika Asuransi
 | AMS331 | Matematika Asuransi          |       |  3  |
 | AMS431 | Metoda Statistika Asuransi   |       |  3  |
 | AMS342 | Teori Risiko                 |       |  3  |
+
 Matematika Keuangan
 
 | KODE   | NAMA                         |  APR  | SKS |
@@ -264,6 +266,7 @@ Matematika Keuangan
 | AMS440 | Kapita Selekta Matematika Keuangan   |      |  3  |
 
 #####Kelompok Bidang Kajian: Rekayasa Keuangan
+
 Optimasi dan Teori Kontrol
 
 | KODE   | NAMA                         |  APR  | SKS |
@@ -271,6 +274,7 @@ Optimasi dan Teori Kontrol
 | AMS361 | Pemrograman Linear           |       |  3  |
 | AMS461 | Kontrol Optimum              |       |  3  |
 | AMS462 | Kontrol Linear               |       |  3  |
+
 Statistika & Penelitian Operasional
 
 | KODE   | NAMA                         |  APR  | SKS |
@@ -290,6 +294,7 @@ Statistika & Penelitian Operasional
 | AMS457 | Keandalan                    |       |  3  |
 | AMS350 | Kapita Selekta Statistika    |       |  3  |
 | AMS450 | Kapita Selekta Penelitian Operasional|       |  3  |
+
 Matematika Terapan
 
 | KODE   | NAMA                         |  APR  | SKS |
@@ -303,6 +308,7 @@ Matematika Terapan
 | AMS372 | Metoda Matematika Lanjut     |       |  3  |
 | AMS374 | Analisi Numerik              |       |  3  |
 | AMS470 | Kapita Selekta Matematika Terapan|       |  3  |
+
 Lain-lain
 
 | KODE   | NAMA                         |  APR  | SKS |
