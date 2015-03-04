@@ -1,3 +1,8 @@
 table{
-	empty-cells: show;
+	border: 2px solid #999;
+	border-collapse: collapse;
+	margin-bottom: 25px;
+}
+td{
+	padding: 5px;
 }
