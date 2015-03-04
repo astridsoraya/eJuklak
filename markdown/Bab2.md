@@ -1,5 +1,4 @@
-BAB 2 PENYELENGGARAAN MATA KULIAH
-=================================
+#BAB 2 PENYELENGGARAAN MATA KULIAH
 _________________________________
 
 
@@ -32,7 +31,7 @@ Selain tatap muka di kelas, suatu mata kuliah dapat mengandung kegiatan lain
 untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang 
 biasa disingkat dengan **APR**.
 
-### 2.1 Mata Kuliah Pilihan
+## 2.1 Mata Kuliah Pilihan
 
 Mahasiswa harus menempuh sejumlah SKS tertentu mata kuliah pilihan, dengan 
 sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah 
@@ -51,7 +50,7 @@ Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
    hanya dapat diperhitungkan salah satunya.
 
 
-### 2.2 Mata Kuliah Prasyarat
+## 2.2 Mata Kuliah Prasyarat
 
    1. **Prasyarat tempuh**, artinya mata kuliah tersebut telah terdaftar dalam 
    rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D, 
@@ -64,11 +63,11 @@ Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
    3. Mahasiswa di luar prodi penyelenggara mata kuliah tidak wajib memenuhi 
    prasyarat ini.
 
-### 2.3 Mata Kuliah Layanan
+## 2.3 Mata Kuliah Layanan
 Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS 
 untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR.
 
-#### 2.3.1 KULIAH LAYANAN PROGRAM STUDI MATEMATIKA
+### 2.3.1 KULIAH LAYANAN PROGRAM STUDI MATEMATIKA
 | Kode   | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |--------|-----------------------------|-----|---------------------|
 | AMS100 | Matematika Informatika      |  4  | Teknik Informatika  |
@@ -87,7 +86,7 @@ untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR.
 | AMS202 | Matematika 4                |  3  | Teknik Sipil        |
 
 
-#### 2.3.2 KULIAH LAYANAN PROGRAM STUDI FISIKA
+### 2.3.2 KULIAH LAYANAN PROGRAM STUDI FISIKA
 
 | Kode    | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |-------- |-----------------------------|-----|---------------------|
@@ -102,19 +101,19 @@ untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR.
 | APS 189 | Kalkulus I                  |  3  | Teknik Kimia        |
 | FFT 113 | Kosmologi                   |  2  | Filsafat            |
 
-#### 2.3.3 KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA
+### 2.3.3 KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA
 
 | Kode    | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |-------- |-----------------------------|-----|---------------------|
 | AKS 144 | Pemrograman Komputer        |  3  | Matematika          |
 
-### 2.4 Mata Kuliah Umum
+## 2.4 Mata Kuliah Umum
 Mata kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan 
 oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, 
 dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester 
 penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
  
-#### 2.4.1 Susunan Mata Kuliah Umum
+### 2.4.1 Susunan Mata Kuliah Umum
 
 |  Kode  |         Mata Kuliah        | SKS |   
 |:------:|:--------------------------:|----:|   
@@ -131,7 +130,7 @@ penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
 | MKU011 | Estetika         |  2  |
 | MKU012 | Logika           |  2  |
 
-#### 2.4.2 Uraian Singkat Mata Kuliah Umum
+### 2.4.2 Uraian Singkat Mata Kuliah Umum
 
 | Nama MK PRASYARAT | NAMA MATA KULIAH DESKRIPSI MATA KULIAH                                                                 |
 |-------------------|-------------------------------------------------------------------------------------------------------|
@@ -155,9 +154,9 @@ penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
 |                   | Perkuliahan logika ditujukan untuk memberikan dasar-dasar keterampilan berpikir rasional dan                                 sistematik. Isinya mencakup keterampilan berpikir deduktif dan induktif, seperti silogisme, argumen                          analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang                        diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula                         mengidentifikasi kerancuan-kerancuan (*fallacies*) yang sering dijumpai baik dalam kehidupan                                 sehari-hari maupun dalam konteks akademik.                                                            |
 Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama.
 
-### 2.5 Kurikulum Program Studi Matematika
+## 2.5 Kurikulum Program Studi Matematika
 
-#### 2.5.1 Susunan Mata Kuliah
+### 2.5.1 Susunan Mata Kuliah
 
 |        |              Semester 1      |       |     |
 |--------|------------------------------|-------|-----|
@@ -237,13 +236,13 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama.
 | ABCXYZ | Pilihan                      |       |  9  |
 |        |                              | TOTAL |  18 |
 
-#### 2.5.2 Mata Kuliah Pilihan Program Studi Matematika
+### 2.5.2 Mata Kuliah Pilihan Program Studi Matematika
 Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
 Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan 
 kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah pilihan 
 Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
 
-#####Kelompok Bidang Kajian: Rekayasa Keuangan
+####Kelompok Bidang Kajian: Rekayasa Keuangan
 
 Matematika Asuransi
 
@@ -265,7 +264,7 @@ Matematika Keuangan
 | AMS442 | Ekonometrika Keuangan        |       |  3  |
 | AMS440 | Kapita Selekta Matematika Keuangan   |      |  3  |
 
-#####Kelompok Bidang Kajian: Rekayasa Keuangan
+####Kelompok Bidang Kajian: Rekayasa Keuangan
 
 Optimasi dan Teori Kontrol
 
@@ -335,10 +334,10 @@ penyelenggara mata kuliah tersebut. Adapun persyaratan mata kuliah pilihan yang
 berlaku di Program Studi Matematika adalah memilih salah satu kelompok bidang kajian dan menempuh mata kuliah pilihan 
 bidang kajian minimal 15 sks.
 
-#### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
+### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
-#### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
+### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                    |
 |---------|-----------------------------------------------------------------------------------------------------------------|
@@ -395,8 +394,8 @@ Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 | AMS499                                 | SKRIPSI/*FINAL PROJECT*                                                          |
 | AMS490 minimal C                       |Studi pustaka, penulisan dan penyajian lisan skripsi.                             |
 
-### 2.6 Kurikulum Program Studi Fisika
-#### 2.6.1 Susunan Mata Kuliah
+## 2.6 Kurikulum Program Studi Fisika
+### 2.6.1 Susunan Mata Kuliah
 
 |            |         SEMESTER 1       |     |     |
 |------------|--------------------------|-----|-----|
@@ -499,9 +498,9 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | 9  | Seminar dan Skripsi                                                  |
 | 0  | Kuliah Dasar, Keterampilan Umum, Lain-lain                           |
 
-#### 2.6.2 Mata Kuliah Pilihan Program Studi Fisika
+### 2.6.2 Mata Kuliah Pilihan Program Studi Fisika
 
-##### Lain-lain
+#### Lain-lain
 | KODE   | NAMA                    | SKS |
 |--------|-------------------------|-----|
 | APS301 | Filsafat Sains          | 2   |
@@ -511,7 +510,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 |--------|-------------------------|-----|
 | APS303 | Didaktika Umum          | 3   |
 
-##### Kelompok Fisika Teoretik
+#### Kelompok Fisika Teoretik
 | KODE   | NAMA                     | SKS |
 |--------|--------------------------|-----|
 | APS311 | Dinamika Fluida          | 3   |
@@ -528,7 +527,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS428 | Teori Medan Kuantum           | 3   |
 | APS429 | KapSel. Fisika Teori          | 3   |
 
-##### Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
+#### Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
 | KODE   | NAMA                             | SKS |
 |--------|----------------------------------|-----|
 | APS331 | Pemodelan Matematika Gejala Alam | 3   |
@@ -540,7 +539,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS435 | Pengantar Kontrol Otomatis       | 3   |
 | APS436 | KapSel. Fisika Instrumentasi     | 3   |
 
-##### Kelompok Biofisika
+#### Kelompok Biofisika
 | KODE   | NAMA                             | SKS |
 |--------|----------------------------------|-----|
 | APS350 | Fisika Instrumentasi Medis       | 3   |
@@ -552,7 +551,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS458 | Kapita Selekta Biofisika          | 3   |
 | APS459 | Kapita Selekta Fisika Kedokteran  | 3   |
 
-##### Kelompok Fisika Material dan Optika
+#### Kelompok Fisika Material dan Optika
 | KODE   | NAMA                   | SKS |
 |--------|------------------------|-----|
 | APS343 | Struktur Materi        | 3   |
@@ -569,7 +568,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS448 | Hamburan dan Spektroskopi      | 3   |
 | APS449 | Kapita Selekta Fisika Material | 3   |
 
-##### Kelompok Fisika Bumi
+#### Kelompok Fisika Bumi
 | KODE    | NAMA              | SKS |
 |---------|-------------------|-----|
 | APS 361 | Geofisika         | 3   |
@@ -582,7 +581,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS469 | Kapita Selekta Fisika Bumi | 3   |
 | APS447 | Fisika Laser               |     |
 
-##### Kelompok Astrofisika
+#### Kelompok Astrofisika
 | KODE   | NAMA       | SKS |
 |--------|------------|-----|
 | APS371 | Tata Surya | 3   |
@@ -602,10 +601,10 @@ Selain itu, mahasiswa dapat mengambil, baik mata kuliah wajib maupun mata kuliah
 
 Pada dasarnya, semua perkuliahan di Jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
-#### 2.6.3 Peta dan Prasyarat Mata Kuliah
+### 2.6.3 Peta dan Prasyarat Mata Kuliah
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 
-#### 2.6.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika
+### 2.6.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika
 
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                    |
 |---------|-----------------------------------------------------------------------------------------------------------------|
@@ -708,8 +707,8 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | SAB315  | Kewirausahaan / *Entrepreneurship*                                                                              |
 | -       | Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya  mengembangkan usaha agar dapat                  menjadi wirausaha yang berhasil dan beretika. Pembahasan  mengenai inti dan hakekat kewirausahaan, disiplin ilmu,             obyek studi dan perkembangannya,  karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses,             tahapan,  keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha,  pengelolaan dunia                usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis  dan prinsip-prinsip usaha yang baik.              Selain itu juga dipresentasikan hasil kunjungan ke  perusahaan agar dapat membedakan dunia nyata dengan teori,               sehingga mahasiswa diharapkan  memiliki kemampuan soft skill.                                                   |
 
-### 2.7 Kurikulum Program Studi Teknik Informatika
-#### 2.7.1 Susunan Mata Kuliah
+## 2.7 Kurikulum Program Studi Teknik Informatika
+### 2.7.1 Susunan Mata Kuliah
 
 |            |         SEMESTER 1             |     |     |
 |------------|--------------------------------|-----|-----|
@@ -817,7 +816,7 @@ Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuan
      d. Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
 maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
-#### 2.7.2 Mata kuliah Pilihan Program Studi Teknik Informatika
+### 2.7.2 Mata kuliah Pilihan Program Studi Teknik Informatika
 | KODE   | NAMA                            | APR | SKS |
 |--------|---------------------------------|-----|-----|
 | AIF330 | Kerja Praktek 1                 |     | 2   |
@@ -888,10 +887,10 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF469 | Layanan Berbasis Web             |     |     |
 | AIF470 | Pemrograman Jaringan             |     |     |
 
-#### 2.7.3 Peta dan Prasyarat Mata Kuliah
+### 2.7.3 Peta dan Prasyarat Mata Kuliah
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 
-#### 2.7.4 Deskripsi Mata Kuliah
+### 2.7.4 Deskripsi Mata Kuliah
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                    |
 |---------|-----------------------------------------------------------------------------------------------------------------|
 | AIF101  | PEMROGRAMAN BERORIENTASI OBJEK/ *OBJECT-ORIENTED PROGRAMMING*                                                   |
