@@ -40,10 +40,15 @@ LIBUR!!!!
 
 Rabu, 25 Februari 2015 <Minggu IV pertemuan 1>   
 ---------------------------------------------
-  Agenda: Development process dan melihat presentasi kelompok lain
-  Progress: 
+  Agenda: Development process dan melihat presentasi kelompok lain  
+  Progress:release 0.1,perbaikan MD dan HTML bab 1 done
 
 Kamis, 26 Februari 2015 <Minggu IV pertemuan 2>   
 ---------------------------------------------
-  Agenda: Presentasi aplikasi dan markdown
-  Progress: 
+  Agenda: Presentasi aplikasi dan markdown  
+  Progress:alpha 0.1 done
+  
+Rabu,4 Februari 2015 <Minggu V pertemuan 1>
+---------------------------------------------
+  Agenda:Development process menuju 0.2,penyelsaian Markdown bab 2 dan 3  
+  Progress:Markdown bab 2 dan bab 3 done,pengerjaan MD bab 4 dimulai,perancangan fitur interface indah untuk app dan perencanaan progress ke depan.
