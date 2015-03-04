@@ -501,6 +501,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 ### 2.6.2 Mata Kuliah Pilihan Program Studi Fisika
 
 **Lain-lain**
+
 | KODE   | NAMA                    | SKS |
 |--------|-------------------------|-----|
 | APS301 | Filsafat Sains          | 2   |
@@ -511,6 +512,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS303 | Didaktika Umum          | 3   |
 
 **Kelompok Fisika Teoretik**
+
 | KODE   | NAMA                     | SKS |
 |--------|--------------------------|-----|
 | APS311 | Dinamika Fluida          | 3   |
@@ -528,6 +530,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS429 | KapSel. Fisika Teori          | 3   |
 
 **Kelompok Fisika Komputasi, Elektronika dan Instrumentasi**
+
 | KODE   | NAMA                             | SKS |
 |--------|----------------------------------|-----|
 | APS331 | Pemodelan Matematika Gejala Alam | 3   |
@@ -540,6 +543,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS436 | KapSel. Fisika Instrumentasi     | 3   |
 
 **Kelompok Biofisika**
+
 | KODE   | NAMA                             | SKS |
 |--------|----------------------------------|-----|
 | APS350 | Fisika Instrumentasi Medis       | 3   |
@@ -552,6 +556,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS459 | Kapita Selekta Fisika Kedokteran  | 3   |
 
 **Kelompok Fisika Material dan Optika**
+
 | KODE   | NAMA                   | SKS |
 |--------|------------------------|-----|
 | APS343 | Struktur Materi        | 3   |
@@ -569,6 +574,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS449 | Kapita Selekta Fisika Material | 3   |
 
 **Kelompok Fisika Bumi**
+
 | KODE    | NAMA              | SKS |
 |---------|-------------------|-----|
 | APS 361 | Geofisika         | 3   |
@@ -582,6 +588,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS447 | Fisika Laser               |     |
 
 **Kelompok Astrofisika**
+
 | KODE   | NAMA       | SKS |
 |--------|------------|-----|
 | APS371 | Tata Surya | 3   |
