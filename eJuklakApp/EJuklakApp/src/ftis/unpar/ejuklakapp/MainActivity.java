@@ -28,7 +28,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	* navigation drawer.
 	*/
 	private NavigationDrawerFragment mNavigationDrawerFragment;
-	private boolean menuOpened;
+	private boolean menuOpened = false;
 	/**
 	* Used to store the last screen title. For use in
 	* {@link #restoreActionBar()}.
@@ -142,6 +142,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	}
 	
 	public void openHome(){
+		menuOpened = false;
 		webView.loadUrl("file:///android_asset/home.html");
 	}
 	
