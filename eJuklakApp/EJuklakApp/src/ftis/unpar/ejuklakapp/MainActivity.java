@@ -28,7 +28,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	* navigation drawer.
 	*/
 	private NavigationDrawerFragment mNavigationDrawerFragment;
-	
+	private boolean menuOpened;
 	/**
 	* Used to store the last screen title. For use in
 	* {@link #restoreActionBar()}.
@@ -146,16 +146,21 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	}
 	
 	public void openBab(String bab){
+		menuOpened = false;
 		String file = "file:///android_asset/Bab" + bab + ".html";
 		webView.loadUrl(file);
 	}
 	
 	public void openAbout(){
+		menuOpened = true;
 		webView.loadUrl("file:///android_asset/about.html");
+		
 	}
 	
 	public void openHelp(){
+		menuOpened = true;
 		webView.loadUrl("file:///android_asset/help.html");
+		
 	}
 	
 	public void refreshTitle(){
@@ -169,7 +174,11 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	{
 		if(mNavigationDrawerFragment.getMDrawerLayout().isDrawerOpen(Gravity.LEFT)){
 			mNavigationDrawerFragment.getMDrawerLayout().closeDrawer(Gravity.LEFT);
-		}else{
+		}
+		else if(menuOpened){
+			openHome();
+		}
+		else{
 			super.onBackPressed();
 		}
 		//mNavigationDrawerFragment.mDrawerLayout.isDrawerOpen(Gravity.LEFT);
