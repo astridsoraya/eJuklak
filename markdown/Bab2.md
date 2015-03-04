@@ -242,9 +242,9 @@ Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan
 kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah pilihan 
 Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
 
-####Kelompok Bidang Kajian: Rekayasa Keuangan
+**Kelompok Bidang Kajian: Rekayasa Keuangan**
 
-Matematika Asuransi
+**Matematika Asuransi**
 
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
@@ -253,7 +253,7 @@ Matematika Asuransi
 | AMS431 | Metoda Statistika Asuransi   |       |  3  |
 | AMS342 | Teori Risiko                 |       |  3  |
 
-Matematika Keuangan
+**Matematika Keuangan**
 
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
@@ -264,9 +264,9 @@ Matematika Keuangan
 | AMS442 | Ekonometrika Keuangan        |       |  3  |
 | AMS440 | Kapita Selekta Matematika Keuangan   |      |  3  |
 
-####Kelompok Bidang Kajian: Rekayasa Keuangan
+**Kelompok Bidang Kajian: Rekayasa Keuangan**
 
-Optimasi dan Teori Kontrol
+**Optimasi dan Teori Kontrol**
 
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
@@ -274,7 +274,7 @@ Optimasi dan Teori Kontrol
 | AMS461 | Kontrol Optimum              |       |  3  |
 | AMS462 | Kontrol Linear               |       |  3  |
 
-Statistika & Penelitian Operasional
+**Statistika & Penelitian Operasional**
 
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
@@ -294,7 +294,7 @@ Statistika & Penelitian Operasional
 | AMS350 | Kapita Selekta Statistika    |       |  3  |
 | AMS450 | Kapita Selekta Penelitian Operasional|       |  3  |
 
-Matematika Terapan
+**Matematika Terapan**
 
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
@@ -308,7 +308,7 @@ Matematika Terapan
 | AMS374 | Analisi Numerik              |       |  3  |
 | AMS470 | Kapita Selekta Matematika Terapan|       |  3  |
 
-Lain-lain
+**Lain-lain**
 
 | KODE   | NAMA                         |  APR  | SKS |
 |--------|------------------------------|-------|-----|
@@ -500,7 +500,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 
 ### 2.6.2 Mata Kuliah Pilihan Program Studi Fisika
 
-#### Lain-lain
+**Lain-lain**
 | KODE   | NAMA                    | SKS |
 |--------|-------------------------|-----|
 | APS301 | Filsafat Sains          | 2   |
@@ -510,7 +510,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 |--------|-------------------------|-----|
 | APS303 | Didaktika Umum          | 3   |
 
-#### Kelompok Fisika Teoretik
+**Kelompok Fisika Teoretik**
 | KODE   | NAMA                     | SKS |
 |--------|--------------------------|-----|
 | APS311 | Dinamika Fluida          | 3   |
@@ -527,7 +527,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS428 | Teori Medan Kuantum           | 3   |
 | APS429 | KapSel. Fisika Teori          | 3   |
 
-#### Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
+**Kelompok Fisika Komputasi, Elektronika dan Instrumentasi**
 | KODE   | NAMA                             | SKS |
 |--------|----------------------------------|-----|
 | APS331 | Pemodelan Matematika Gejala Alam | 3   |
@@ -539,7 +539,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS435 | Pengantar Kontrol Otomatis       | 3   |
 | APS436 | KapSel. Fisika Instrumentasi     | 3   |
 
-#### Kelompok Biofisika
+**Kelompok Biofisika**
 | KODE   | NAMA                             | SKS |
 |--------|----------------------------------|-----|
 | APS350 | Fisika Instrumentasi Medis       | 3   |
@@ -551,7 +551,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS458 | Kapita Selekta Biofisika          | 3   |
 | APS459 | Kapita Selekta Fisika Kedokteran  | 3   |
 
-#### Kelompok Fisika Material dan Optika
+**Kelompok Fisika Material dan Optika**
 | KODE   | NAMA                   | SKS |
 |--------|------------------------|-----|
 | APS343 | Struktur Materi        | 3   |
@@ -568,7 +568,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS448 | Hamburan dan Spektroskopi      | 3   |
 | APS449 | Kapita Selekta Fisika Material | 3   |
 
-#### Kelompok Fisika Bumi
+**Kelompok Fisika Bumi**
 | KODE    | NAMA              | SKS |
 |---------|-------------------|-----|
 | APS 361 | Geofisika         | 3   |
@@ -581,7 +581,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS469 | Kapita Selekta Fisika Bumi | 3   |
 | APS447 | Fisika Laser               |     |
 
-#### Kelompok Astrofisika
+**Kelompok Astrofisika**
 | KODE   | NAMA       | SKS |
 |--------|------------|-----|
 | APS371 | Tata Surya | 3   |
