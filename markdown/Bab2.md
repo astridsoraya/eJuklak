@@ -587,7 +587,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 |--------|------------|-----|
 | APS371 | Tata Surya | 3   |
 | APS372 | Bintang    | 3   |
-| APS373 |            | 3   |
+| APS373 | Kosmologi  | 3   |
 
 | KODE   | NAMA                       | SKS |
 |--------|----------------------------|-----|
