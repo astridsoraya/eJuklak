@@ -187,7 +187,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 				openHome();
 			}
 			else{
-				openBaB(lastState)
+				openBab(lastState);
 			}
 		}
 		else{
