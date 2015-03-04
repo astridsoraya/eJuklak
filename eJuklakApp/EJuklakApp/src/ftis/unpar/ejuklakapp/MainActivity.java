@@ -28,7 +28,8 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	* navigation drawer.
 	*/
 	private NavigationDrawerFragment mNavigationDrawerFragment;
-	private boolean menuOpened = false;
+	
+	
 	/**
 	* Used to store the last screen title. For use in
 	* {@link #restoreActionBar()}.
@@ -36,6 +37,9 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	private CharSequence mTitle;
 	
 	private WebView webView;
+	
+	private boolean menuOpened = false;
+	private String lastState;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -143,11 +147,13 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	
 	public void openHome(){
 		menuOpened = false;
+		lastState = "home";
 		webView.loadUrl("file:///android_asset/home.html");
 	}
 	
 	public void openBab(String bab){
 		menuOpened = false;
+		lastState = bab;
 		String file = "file:///android_asset/Bab" + bab + ".html";
 		webView.loadUrl(file);
 	}
@@ -177,7 +183,12 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 			mNavigationDrawerFragment.getMDrawerLayout().closeDrawer(Gravity.LEFT);
 		}
 		else if(menuOpened){
-			openHome();
+			if(lastState=="home"){
+				openHome();
+			}
+			else{
+				openBaB(lastState)
+			}
 		}
 		else{
 			super.onBackPressed();
