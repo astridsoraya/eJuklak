@@ -1,5 +1,6 @@
-#BAB 2 PENYELENGGARAAN MATA KULIAH
-________________________________
+#BAB 2 :
+#PENYELENGGARAAN MATA KULIAH
+
 
 
 Secara umum, mata kuliah yang diselenggarakan oleh program studi dapat 
