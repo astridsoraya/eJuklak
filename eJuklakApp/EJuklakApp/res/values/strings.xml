@@ -17,6 +17,11 @@
         <item>Bab 4</item>
         <item>Bab 5</item>
     </string-array>
+    
+    <string name="home_html">file:///android_asset/home.html</string>
+    <string name="about_html">file:///android_asset/about.html</string>
+    <string name="help_html">file:///android_asset/help.html</string>
+    
     <color name="white">#FFFFFF</color>
     <color name="ferrari_red">#F70D1A</color>
     <color name="black">#000000</color>

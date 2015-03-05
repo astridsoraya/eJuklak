@@ -16,6 +16,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.support.v4.widget.DrawerLayout;
 import android.webkit.WebView;
+import android.webkit.WebViewClient;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
@@ -55,7 +56,24 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 				(DrawerLayout) findViewById(R.id.drawer_layout));
 		
 		webView = (WebView) findViewById(R.id.webview);
-		webView.loadUrl("file:///android_asset/home.html");
+		webView.setWebViewClient(new WebViewClient(){
+		    
+			@Override
+		    public void onLoadResource(WebView view, String url){
+		    	String urlLampiran = "file:///android_asset/lampiran/Gambar";
+		    	
+		        if(url.equals(urlLampiran+"2_1.html") ){
+		        	view.getSettings().setBuiltInZoomControls(true);
+	                menuOpened = true;
+		            
+		        }
+		        else{
+		        	view.getSettings().setBuiltInZoomControls(false);
+		        }
+		    }
+		});
+		
+		webView.loadUrl(getResources().getString(R.string.home_html));
 	}
 	
 	@Override
@@ -148,7 +166,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	public void openHome(){
 		menuOpened = false;
 		lastState = "home";
-		webView.loadUrl("file:///android_asset/home.html");
+		webView.loadUrl(getResources().getString(R.string.home_html));
 	}
 	
 	public void openBab(String bab){
@@ -160,13 +178,17 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	
 	public void openAbout(){
 		menuOpened = true;
-		webView.loadUrl("file:///android_asset/about.html");
+		webView.loadUrl(getResources().getString(R.string.about_html));
 		
 	}
 	
 	public void openHelp(){
 		menuOpened = true;
-		webView.loadUrl("file:///android_asset/help.html");
+		webView.loadUrl(getResources().getString(R.string.help_html));
+	}
+	
+	public void openPicture(){
+		menuOpened = true;
 		
 	}
 	
