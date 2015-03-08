@@ -60,16 +60,21 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		    
 			@Override
 		    public void onLoadResource(WebView view, String url){
-		    	String urlLampiran = "file:///android_asset/lampiran/Gambar";
+		    	String urlLampiran = getResources().getString(R.string.picture_html);
+		    	String[] namaGambar = getResources().getStringArray(R.array.picture_array);
 		    	
-		        if(url.equals(urlLampiran+"2_1.html") ){
-		        	view.getSettings().setBuiltInZoomControls(true);
-	                menuOpened = true;
-		            
-		        }
-		        else{
-		        	view.getSettings().setBuiltInZoomControls(false);
-		        }
+	        	view.getSettings().setSupportZoom(false);
+	        	view.getSettings().setBuiltInZoomControls(false);
+		    	
+		    	for(int i = 0; i < namaGambar.length; i++){
+		    		if(url.equals(urlLampiran+namaGambar[i])){
+		    			view.getSettings().setSupportZoom(true);
+			        	view.getSettings().setBuiltInZoomControls(true);
+		                menuOpened = true;
+		                i += namaGambar.length;
+		    		}
+		    	}
+
 		    }
 		});
 		

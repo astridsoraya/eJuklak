@@ -18,6 +18,7 @@ public final class R {
     }
     public static final class array {
         public static final int navigation_array=0x7f0c0000;
+        public static final int picture_array=0x7f0c0001;
     }
     public static final class attr {
         /**  Custom divider drawable to use for elements in the action bar. 
@@ -1273,12 +1274,13 @@ containing a value of this type.
         public static final int action_help=0x7f0a0012;
         public static final int action_settings=0x7f0a0014;
         public static final int app_name=0x7f0a000d;
-        public static final int banner=0x7f0a0018;
+        public static final int banner=0x7f0a0019;
         public static final int help_html=0x7f0a0017;
         public static final int home_html=0x7f0a0015;
         public static final int nav_name=0x7f0a000e;
         public static final int navigation_drawer_close=0x7f0a0010;
         public static final int navigation_drawer_open=0x7f0a000f;
+        public static final int picture_html=0x7f0a0018;
     }
     public static final class style {
         /** 

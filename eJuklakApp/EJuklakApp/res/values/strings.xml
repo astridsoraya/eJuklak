@@ -21,6 +21,13 @@
     <string name="home_html">file:///android_asset/home.html</string>
     <string name="about_html">file:///android_asset/about.html</string>
     <string name="help_html">file:///android_asset/help.html</string>
+    <string name="picture_html">file:///android_asset/lampiran/Gambar</string>
+    
+    <string-array name="picture_array">
+        <item>2_1.html</item>
+        <item>2_2.html</item>
+        <item>2_3.html</item>
+    </string-array>
     
     <color name="white">#FFFFFF</color>
     <color name="ferrari_red">#F70D1A</color>
