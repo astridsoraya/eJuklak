@@ -15,6 +15,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.support.v4.widget.DrawerLayout;
+import android.webkit.WebSettings.LayoutAlgorithm;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ArrayAdapter;
@@ -65,9 +66,15 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		    	
 	        	view.getSettings().setSupportZoom(false);
 	        	view.getSettings().setBuiltInZoomControls(false);
-		    	
+	        	view.getSettings().setLoadWithOverviewMode(false);
+    			view.getSettings().setUseWideViewPort(false);
+	        	
+	        	
 		    	for(int i = 0; i < namaGambar.length; i++){
 		    		if(url.equals(urlLampiran+namaGambar[i])){
+		    			view.getSettings().setLoadWithOverviewMode(true);
+		    			view.getSettings().setUseWideViewPort(true);
+		    			view.getSettings().setLayoutAlgorithm(LayoutAlgorithm.NORMAL);
 		    			view.getSettings().setSupportZoom(true);
 			        	view.getSettings().setBuiltInZoomControls(true);
 		                menuOpened = true;
