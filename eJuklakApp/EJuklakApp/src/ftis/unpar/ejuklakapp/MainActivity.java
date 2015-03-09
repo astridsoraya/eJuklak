@@ -64,7 +64,6 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		    	String urlLampiran = getResources().getString(R.string.picture_html);
 		    	String[] namaGambar = getResources().getStringArray(R.array.picture_array);
 		    	
-	        	view.getSettings().setSupportZoom(false);
 	        	view.getSettings().setBuiltInZoomControls(false);
 	        	view.getSettings().setLoadWithOverviewMode(false);
     			view.getSettings().setUseWideViewPort(false);
@@ -75,7 +74,6 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		    			view.getSettings().setLoadWithOverviewMode(true);
 		    			view.getSettings().setUseWideViewPort(true);
 		    			view.getSettings().setLayoutAlgorithm(LayoutAlgorithm.NORMAL);
-		    			view.getSettings().setSupportZoom(true);
 			        	view.getSettings().setBuiltInZoomControls(true);
 		                menuOpened = true;
 		                i += namaGambar.length;
