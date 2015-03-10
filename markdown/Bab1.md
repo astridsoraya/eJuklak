@@ -78,10 +78,8 @@ Dekan,
 Paulus Cahyono Tjiang, Ph.D.
 
 
-BAB 1:
-======
-PENDAHULUAN
-===========
+# BAB 1: PENDAHULUAN
+
 
 ## 1.1 Sejarah Fakultas Teknologi Informasi dan Sains
 
