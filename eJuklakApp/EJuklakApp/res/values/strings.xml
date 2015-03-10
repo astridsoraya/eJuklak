@@ -16,12 +16,14 @@
         <item>Bab 3</item>
         <item>Bab 4</item>
         <item>Bab 5</item>
+        <item>Lampiran</item>
     </string-array>
     
     <string name="home_html">file:///android_asset/home.html</string>
     <string name="about_html">file:///android_asset/about.html</string>
     <string name="help_html">file:///android_asset/help.html</string>
     <string name="picture_html">file:///android_asset/lampiran/Gambar</string>
+    <string name="lampiran_html">file:///android_asset/lampiran.html</string>
     
     <string-array name="picture_array">
         <item>2_1.html</item>

@@ -8,6 +8,10 @@ td{
 	padding-bottom: 5px;
 }
 
+.header{
+	text-align: center;
+}
+
 .kurikulum{
 	display: inline;
 	height: auto; 

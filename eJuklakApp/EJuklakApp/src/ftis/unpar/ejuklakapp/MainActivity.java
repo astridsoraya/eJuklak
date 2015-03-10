@@ -128,8 +128,11 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 			openBab("5");
 			break;
 
+		case 7:
+			mTitle = "EJuklak: " + sections[6];
+			openLampiran();
+			break;
 		}
-	
 	
 	}
 	
@@ -161,12 +164,12 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		// as you specify a parent activity in AndroidManifest.xml.
 		int id = item.getItemId();
 		if (id == R.id.action_about) {
-			refreshTitle();
+			refreshTitle("EJuklak: About");
 			openAbout();
 			return true;
 		}
 		if (id == R.id.action_help) {
-			refreshTitle();
+			refreshTitle("EJuklak: Help");
 			openHelp();
 			return true;
 		}
@@ -197,13 +200,19 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		webView.loadUrl(getResources().getString(R.string.help_html));
 	}
 	
-	public void openPicture(){
-		menuOpened = true;
-		
+	public void openLampiran(){
+		menuOpened = false;
+		lastState = "lampiran";
+		String file = getResources().getString(R.string.lampiran_html);
+		webView.loadUrl(file);
 	}
 	
-	public void refreshTitle(){
-		setTitle(R.string.app_name);
+	public void openPicture(){
+		menuOpened = true;
+	}
+	
+	public void refreshTitle(String title){
+		setTitle(title);
 		mTitle = getTitle();
 		restoreActionBar();
 	}
@@ -216,10 +225,19 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		}
 		else if(menuOpened){
 			if(lastState=="home"){
+				refreshTitle(getResources().getString(R.string.app_name));
 				openHome();
 			}
 			else{
-				openBab(lastState);
+				if(lastState.equals("lampiran")){
+					refreshTitle("EJuklak: Lampiran");
+					openLampiran();
+				}
+				else{
+					refreshTitle("EJuklak: Bab " + lastState);
+					openBab(lastState);
+				}
+				
 			}
 		}
 		else{
