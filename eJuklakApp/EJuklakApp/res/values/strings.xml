@@ -12,12 +12,15 @@
     <string-array name="navigation_array">
         <item>Home</item>
         <item>Bab 1</item>
+        <item>Bab 1.1</item>
         <item>Bab 2</item>
         <item>Bab 3</item>
         <item>Bab 4</item>
         <item>Bab 5</item>
         <item>Lampiran</item>
     </string-array>
+    
+    <string name="id_1_1">sejarah-fakultas-teknologi-informasi-dan-sains</string>
     
     <string name="home_html">file:///android_asset/home.html</string>
     <string name="about_html">file:///android_asset/about.html</string>
