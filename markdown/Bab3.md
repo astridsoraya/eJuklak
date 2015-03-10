@@ -77,14 +77,14 @@ Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh maha
 Perincian kegiatan perkuliahan adalah sebagai berikut:  
 
 1.	**Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan:   
-   •	membaca bahan yang diperkirakan akan dibahas dosen,   
-   •	menanyakan **segala** hal yang belum jelas kepada dosen,   
-   •	meminta saran dosen tentang cara belajar dan berlatih yang baik.   
+   * membaca bahan yang diperkirakan akan dibahas dosen,   
+   * menanyakan **segala** hal yang belum jelas kepada dosen,   
+   * meminta saran dosen tentang cara belajar dan berlatih yang baik.   
 **Kehadiran** pada perkuliahan disyaratkan **minimal 80%**, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
 2.	**Kegiatan akademik terstruktur (± 1 jam/SKS)**, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.    
-•	*Responsi* merupakan kegiatan di mana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.   
-•	*Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.    
-•	*Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.    
+* *Responsi* merupakan kegiatan di mana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.   
+* *Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.    
+* *Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.    
 3.	**Kegiatan akademik mandiri(± 1 jam / sks)**, merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.   
    
 3.3 Tata Cara Ujian
@@ -105,14 +105,15 @@ Syarat untuk mengikuti UTS dan UAS:
 3.	**Membawa KTM yang sah** untuk semester terkait, atau surat keterangan pengganti KTM dari Biro Administrasi Akademik dan Kemahasiswaan (BAA) bagi yang kehilangan KTM.   
    
 ###3.3.2 Tata Tertib Ujian
+
 | **A. Kehadiran**  |
-|------------------|
+|-------------------|
 1.	Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit sebelum** ujian dimulai. 
 2.	Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.
 3.	Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol).**  
    
 | **B. Perlengkapan**  |
-|------------------|
+|----------------------|
 1.	Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian. 
 2.	Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.
 3.	Peserta ujian **dilarang** membawa catatan/buku/rumus/tabel dan kalkulator dalam bentuk dan untuk tujuan apapun ke tempat duduk, kecuali pada mata ujian yang diijinkan oleh dosen yang bersangkutan.
@@ -122,19 +123,19 @@ Syarat untuk mengikuti UTS dan UAS:
 7.	Peserta ujian dilarang merokok di ruang ujian.
    
 | **C. Pakaian**    |
-|------------------|
+|-------------------|
 1.	Peserta ujian **wajib** mengenakan pakaian yang sopan dan rapi.
 2.	Peserta ujian **wajib** memakai sepatu.
   
 | **D. Tempat Duduk**    |
-|------------------|
+|------------------------|
 1.Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai dengan nomor ujian.** Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.
 
 2.Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.
 
 
 | **E. Pelaksanaan**    |
-|------------------|
+|-----------------------|
 1. Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian. 
 
 2. Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.
@@ -155,13 +156,13 @@ Syarat untuk mengikuti UTS dan UAS:
 
   1. **Melihat** berkas ujian milik peserta ujian lain
   
-  1. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain
+  2. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain
   
-  1. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun
+  3. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun
   
-  1. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka)
+  4. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka)
   
-  1. **Pinjam-meminjam** alat tulis, penghapus, cairan pengoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
+  5. **Pinjam-meminjam** alat tulis, penghapus, cairan pengoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
 
 10. Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS. 
 
