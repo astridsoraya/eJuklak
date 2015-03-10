@@ -34,7 +34,7 @@ Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:
 | <=2,49      | Maksimum 18 SKS                     |
 	
 
-Dengan penjelasan satu SKS (Satuan Kredit Semester) bermakna belajar 3 jam seminggu, dengan perincian :   
+Dengan penjelasan satu SKS (Satuan Kredit Semester) bermakna belajar 3 jam seminggu, dengan perincian:   
 * 1 jam kuliah 
 * 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
 * 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
@@ -74,9 +74,9 @@ Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pemba
   
 Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu dosen wali, pimpinan jurusan/program studi, dan pimpinan FTIS.  
   
-Perincian kegiatan perkuliahan adalah sebagai berikut :  
+Perincian kegiatan perkuliahan adalah sebagai berikut:  
 
-1.	**Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan :   
+1.	**Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan:   
    •	membaca bahan yang diperkirakan akan dibahas dosen,   
    •	menanyakan **segala** hal yang belum jelas kepada dosen,   
    •	meminta saran dosen tentang cara belajar dan berlatih yang baik.   
@@ -89,7 +89,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
    
 3.3 Tata Cara Ujian
 --------------------
-Yang dimaksud dengan ujian adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas :  
+Yang dimaksud dengan ujian adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas:  
 ```
 1.	Ujian Tengah Semester (UTS)   
 2.	Ujian Akhir Semester (UAS)   
@@ -179,7 +179,7 @@ Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi beru
 4. Untuk kali keempat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS/UAS **seluruh** mata kuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).  
 Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.  
   
-Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
+Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut:
 
 1. Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
 
@@ -213,7 +213,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 ###3.4.2 Prosedur Cuti Studi
 
 1. Mahasiswa wajib mengisi **Surat Permohonan Cuti Studi Mahasiswa** yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi ***rekomendasi dosen wali*** mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS selambat-lambatnya sebelum berakhirnya masa PRS semester terkait dengan cuti tersebut. 
-2. Kriteria untuk memberi ijin tersebut adalah :  (a) masalah kesehatan, (b) masalah finansial, atau (c) masalah pribadi lainnya. 
+2. Kriteria untuk memberi ijin tersebut adalah:  (a) masalah kesehatan, (b) masalah finansial, atau (c) masalah pribadi lainnya. 
 3. Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
 4. Masa cuti studi **tidak diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi.
 5. Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib 
