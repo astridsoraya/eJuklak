@@ -34,7 +34,7 @@ Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:
 | <=2,49      | Maksimum 18 SKS                     |
 	
 
-Dengan penjelasan satu SKS (Satuan Kredit Semester) bermakna belajar 3 jam seminggu, dengan perincian :   
+Dengan penjelasan satu SKS (Satuan Kredit Semester) bermakna belajar 3 jam seminggu, dengan perincian:   
 * 1 jam kuliah 
 * 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
 * 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
@@ -74,22 +74,22 @@ Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pemba
   
 Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu dosen wali, pimpinan jurusan/program studi, dan pimpinan FTIS.  
   
-Perincian kegiatan perkuliahan adalah sebagai berikut :  
+Perincian kegiatan perkuliahan adalah sebagai berikut:  
 
-1.	**Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan :   
-   •	membaca bahan yang diperkirakan akan dibahas dosen,   
-   •	menanyakan **segala** hal yang belum jelas kepada dosen,   
-   •	meminta saran dosen tentang cara belajar dan berlatih yang baik.   
+1.	**Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan:   
+   * membaca bahan yang diperkirakan akan dibahas dosen,   
+   * menanyakan **segala** hal yang belum jelas kepada dosen,   
+   * meminta saran dosen tentang cara belajar dan berlatih yang baik.   
 **Kehadiran** pada perkuliahan disyaratkan **minimal 80%**, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
 2.	**Kegiatan akademik terstruktur (± 1 jam/SKS)**, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.    
-•	*Responsi* merupakan kegiatan di mana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.   
-•	*Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.    
-•	*Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.    
+* *Responsi* merupakan kegiatan di mana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.   
+* *Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.    
+* *Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.    
 3.	**Kegiatan akademik mandiri(± 1 jam / sks)**, merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.   
    
 3.3 Tata Cara Ujian
 --------------------
-Yang dimaksud dengan ujian adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas :  
+Yang dimaksud dengan ujian adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas:  
 ```
 1.	Ujian Tengah Semester (UTS)   
 2.	Ujian Akhir Semester (UAS)   
@@ -105,14 +105,15 @@ Syarat untuk mengikuti UTS dan UAS:
 3.	**Membawa KTM yang sah** untuk semester terkait, atau surat keterangan pengganti KTM dari Biro Administrasi Akademik dan Kemahasiswaan (BAA) bagi yang kehilangan KTM.   
    
 ###3.3.2 Tata Tertib Ujian
-| **A.Kehadiran**  |
-|------------------|
+
+| **A. Kehadiran**  |
+|-------------------|
 1.	Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit sebelum** ujian dimulai. 
 2.	Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.
 3.	Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol).**  
    
-| **B.Perlengkapan**  |
-|------------------|
+| **B. Perlengkapan**  |
+|----------------------|
 1.	Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian. 
 2.	Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.
 3.	Peserta ujian **dilarang** membawa catatan/buku/rumus/tabel dan kalkulator dalam bentuk dan untuk tujuan apapun ke tempat duduk, kecuali pada mata ujian yang diijinkan oleh dosen yang bersangkutan.
@@ -121,20 +122,20 @@ Syarat untuk mengikuti UTS dan UAS:
 6.	Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.
 7.	Peserta ujian dilarang merokok di ruang ujian.
    
-| **C.Pakaian**    |
-|------------------|
+| **C. Pakaian**    |
+|-------------------|
 1.	Peserta ujian **wajib** mengenakan pakaian yang sopan dan rapi.
 2.	Peserta ujian **wajib** memakai sepatu.
   
-| **D.Tempat Duduk**    |
-|------------------|
+| **D. Tempat Duduk**    |
+|------------------------|
 1.Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai dengan nomor ujian.** Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.
 
 2.Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.
 
 
-| **E.Pelaksanaan**    |
-|------------------|
+| **E. Pelaksanaan**    |
+|-----------------------|
 1. Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian. 
 
 2. Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.
@@ -155,13 +156,13 @@ Syarat untuk mengikuti UTS dan UAS:
 
   1. **Melihat** berkas ujian milik peserta ujian lain
   
-  1. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain
+  2. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain
   
-  1. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun
+  3. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun
   
-  1. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka)
+  4. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka)
   
-  1. **Pinjam-meminjam** alat tulis, penghapus, cairan pengoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
+  5. **Pinjam-meminjam** alat tulis, penghapus, cairan pengoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
 
 10. Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS. 
 
@@ -179,7 +180,7 @@ Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi beru
 4. Untuk kali keempat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS/UAS **seluruh** mata kuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).  
 Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.  
   
-Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
+Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut:
 
 1. Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
 
@@ -213,7 +214,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 ###3.4.2 Prosedur Cuti Studi
 
 1. Mahasiswa wajib mengisi **Surat Permohonan Cuti Studi Mahasiswa** yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi ***rekomendasi dosen wali*** mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS selambat-lambatnya sebelum berakhirnya masa PRS semester terkait dengan cuti tersebut. 
-2. Kriteria untuk memberi ijin tersebut adalah :  (a) masalah kesehatan, (b) masalah finansial, atau (c) masalah pribadi lainnya. 
+2. Kriteria untuk memberi ijin tersebut adalah:  (a) masalah kesehatan, (b) masalah finansial, atau (c) masalah pribadi lainnya. 
 3. Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
 4. Masa cuti studi **tidak diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi.
 5. Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib 
