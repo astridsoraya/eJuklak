@@ -1,7 +1,6 @@
-BAB 3:   
-=======================
-KEGIATAN AKADEMIK   
-=========================
+BAB 3: KEGIATAN AKADEMIK   
+========================
+
 Kegiatan akademik untuk satu tahun kuliah diselenggarakan dalam dua semester **reguler** yaitu **Semester Ganjil** dan 
 **Semester Genap**. Selain itu, tergantung pada kebijakan universitas, kebutuhan dan kemampuan prodi, dapat 
 diselenggarakan **Semester Pendek**. Penyelenggaraan Semester Pendek ini bersifat **tentatif**. Demikian juga 
@@ -22,11 +21,11 @@ Sebelum mengikuti kegiatan akademik seperti mata kuliah, responsi dan praktikum,
 mahasiswa perlu menyusun **rencana studi** bagi dirinya. Rencana studi ini memuat daftar matakuliah yang akan diikuti 
 pada semester yang bersangkutan.
 Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:    
-  a.	  Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.    
-  b.	  Memprioritaskan mata kuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan   agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.   
-  c.	  Memprioritaskan mata kuliah menjadi **prasyarat** (baik prasyarat tempuh atau pun prasyarat lulus) bagi mata kuliah lain.    
-  d.	Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah-mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.   
-  e.	Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :   
+1. Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.  
+2. Memprioritaskan mata kuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.  
+3. Memprioritaskan mata kuliah menjadi **prasyarat** (baik prasyarat tempuh atau pun prasyarat lulus) bagi mata kuliah lain.  
+4. Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah-mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.  
+5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut:  
 
 | IPS         | Hak Tempuh pada Semester Berikutnya |
 |-------------|-------------------------------------|
