@@ -1,7 +1,6 @@
-BAB 3:   
-=======================
-KEGIATAN AKADEMIK   
-=========================
+BAB 3: KEGIATAN AKADEMIK   
+========================
+
 Kegiatan akademik untuk satu tahun kuliah diselenggarakan dalam dua semester **reguler** yaitu **Semester Ganjil** dan 
 **Semester Genap**. Selain itu, tergantung pada kebijakan universitas, kebutuhan dan kemampuan prodi, dapat 
 diselenggarakan **Semester Pendek**. Penyelenggaraan Semester Pendek ini bersifat **tentatif**. Demikian juga 
