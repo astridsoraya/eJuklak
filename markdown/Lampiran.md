@@ -17,10 +17,10 @@ JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015
 ## Lampiran II  
 JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015  
 
-| Tahap                           | Semester Ganjil      | Semester Genap      |  
-|-------------------------------- |----------------------|---------------------|  
-| Tahap 1 (BRP dan 10 SKS)        | Kamis, 14 Juli 2014  | Jumat, 9 Jan 2015   |  
-| Tahap 2(Pelunasan SKS dan SAPR) | Senin, 29 Sept. 2014 | Senin, 9 Maret 2015 |  
+| Tahap                            | Semester Ganjil      | Semester Genap      |  
+|--------------------------------- |----------------------|---------------------|  
+| Tahap 1 (BRP dan 10 SKS)         | Kamis, 14 Juli 2014  | Jumat, 9 Jan 2015   |  
+| Tahap 2 (Pelunasan SKS dan SAPR) | Senin, 29 Sept. 2014 | Senin, 9 Maret 2015 |  
 
 ## Lampiran III 
 SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015  
@@ -32,3 +32,28 @@ SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015
 | Sidang Sarjana                         | Jumat, 3 Okt. 2014   | Jumat, 23 Jan. 2015 | Jumat, 19 Jun. 2015 | 
 | Batas akhir pendaftaran wisuda         | Senin, 6 Okt. 2014   | Senin, 2 Feb. 2015  | Kamis, 25 Jun. 2015 | 
 | Wisuda                                 | Sabtu, 1 Nov. 2014   | Sabtu, 28 Feb. 2015 | Sabtu, 8 Agt. 2015  | 
+
+## Lampiran 4 
+![](images/lampiran 4a.png) 
+![](images/lampiran 4b.png) 
+![](images/lampiran 4c.png) 
+![](images/lampiran 4d.png) 
+![](images/lampiran 4e.png) 
+![](images/lampiran 4f.png) 
+
+## Lampiran 5 
+![](images/lampiran 5a.png) 
+![](images/lampiran 5b.png) 
+![](images/lampiran 5c.png) 
+
+## Lampiran 6 
+![](images/lampiran 6a.png) 
+![](images/lampiran 6b.png) 
+
+## Lampiran 7 
+![](images/lampiran 7a.png) 
+![](images/lampiran 7b.png) 
+![](images/lampiran 7c.png) 
+![](images/lampiran 7d.png) 
+![](images/lampiran 7e.png) 
+![](images/lampiran 7f.png) 
