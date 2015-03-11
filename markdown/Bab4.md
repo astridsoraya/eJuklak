@@ -18,5 +18,17 @@ SK Rektor dan SK Dekan tersebut di atas.
 
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar 
 mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki 
-**Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
+**Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut : 
+ 
+| Bentuk Kegiatan       | Komponen Kegiatan          | Komponen Evaluasi                      |           | 
+|---------------------- |----------------------------|----------------------------------------|-----------| 
+|                       |                            | Angka                                  | %         | 
+| Perkuliahan           | Pelaksanaan Tugas          | Angka Rata-rata Tugas (ART)            | 20% - 40% | 
+|                       | Tatap Muka                 | Angka Ujian Tengah (AUTS)              | 30% - 50% | 
+|                       |                            | Angka Ujian Akhir Semester (AUAS)      | 30% - 50% | 
+| Seminar/Studi Mandiri | Penyajian, Diskusi/        | Diserahkan ke tiap fakultas atau prodi | 30% - 50% |
+|                       | Partisipasi,               |                                        |           | 
+|                       | Penyusunan Makalah/Laporan |                                        |           | 
+
+
 
