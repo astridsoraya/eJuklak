@@ -130,11 +130,6 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 
 		case 7:
 			mTitle = "EJuklak: " + sections[6];
-			openBab("5");
-			break;
-			
-		case 8:
-			mTitle = "EJuklak: " + sections[7];
 			openLampiran();
 			break;
 		}
