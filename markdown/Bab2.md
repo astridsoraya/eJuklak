@@ -334,22 +334,15 @@ Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 
 ### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 
-| KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                    |
-|---------|-----------------------------------------------------------------------------------------------------------------|
-| AMS121  | KALKULUS 1/*CALCULUS 1*                                                                                         |
-|    -    | Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.                |
-| AMS123  | PEMECAHAN MASALAH MATEMATIKA/*MATHEMATICAL PROBLEM SOLVING*                                                     |
-|    -    | Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema              Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.                               |
-| AMS151  | STATISTIKA ELEMENTER/*ELEMENTARY STATISTICS*                                                                  |
-|    -    | Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter,             uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi, SPSS, Minitab.                             |
-| AMS122  | KALKULUS 2/*CALCULUS 2*                                                                                         |
-|  AMS121 | Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.         |
-| AMS124  | MATEMATIKA DISKRET/*DISCRETE MATHEMATICS*                                                                       |
-| AMS123  | Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.      |
-| AMS126  | ALJABAR MATRIKS/*MATRIX ALGEBRA*                                                                                |
-|    -    | Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear              dan matriks representasi, nilai dan vektor eigen.                                                               |
-| AMS221  | KALKULUS VEKTOR/*VECTOR CALCULUS*                                                                               |
-| AMS122  | Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
+| Kode MK | Prasyarat | Nama dan Deskripsi Mata Kuliah                                                                      |
+|---------|-----------|-----------------------------------------------------------------------------------------------------|
+| AMS121  |     -     | **KALKULUS 1/_CALCULUS 1_** Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan                              konsep dasar dari integral.                                                                         |
+| AMS123  |     -     | **PEMECAHAN MASALAH MATEMATIKA/_MATHEMATICAL PROBLEM SOLVING_** Menebak dan mengumpulkan data dalam                           problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan                             penyelidikan, mempertanyakan dan mengembangkan suatu fakta.                                         |
+| AMS151  |     -     | **STATISTIKA ELEMENTER/_ELEMENTARY STATISTICS_** Statistik deskriptif, peluang, distribusi peluang                            diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi,                          khi kuadrat, analisis variansi, SPSS, Minitab.                                                      |
+| AMS122  | AMS121    | **KALKULUS 2/_CALCULUS 2_** Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan                             diferensial dan deret tak hingga.                                                                   |
+| AMS124  | AMS123    | **MATEMATIKA DISKRET/_DISCRETE MATHEMATICS_** Logika dan bukti, himpunan dan fungsi, induksi dan                              rekursi, masalah pencacahan (counting), dan teori graf.                                             |
+| AMS126  |     -     | **ALJABAR MATRIKS/_MATRIX ALGEBRA_** Sistem persamaan linear dan matriks, determinan, ruang vektor                            real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen. |
+| AMS221  | AMS122    | **KALKULUS VEKTOR/_VECTOR CALCULUS_** Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan                          turunan parsial, integral lipat, kalkulus vektor.                                                   |
 
 
 
