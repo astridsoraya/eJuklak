@@ -1,4 +1,4 @@
-BAB 3: KEGIATAN AKADEMIK   
+BAB 3 KEGIATAN AKADEMIK   
 ========================
 
 Kegiatan akademik untuk satu tahun kuliah diselenggarakan dalam dua semester **reguler** yaitu **Semester Ganjil** dan 
