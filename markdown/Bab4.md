@@ -59,7 +59,9 @@ Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa
 ###4.2.1  Evaluasi Keberhasilan Belajar Tiap Semester
 Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam **Indeks Prestasi Semester (IPS)** yang mempunyai rentang **0,00 – 4,00** dan dihitung dengan rumus: 
 
-IPS = Untuk setiap mata kuliah: SKS i x (bobot NA i) / jumlah SKS yang ditempuh 
+>-------   Untuk setiap mata kuliah: SKS i x (bobot NA i)   
+>IPS =  ______________________________________      
+>-------   jumlah SKS yang ditempuh 
 
 dengan (sks x bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya**. 
 
@@ -142,3 +144,5 @@ mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap 1I.
 seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan 
 permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur 
 pada pasal 5 dari SK Rektor (lihat lampiran).
+
+
