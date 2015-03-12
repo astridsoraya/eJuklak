@@ -790,9 +790,9 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 |------------|-----------------------------------|-----|-----|
 | KODE       | NAMA                              | APR | SKS |
 | AIF401     | Skripsi I                         |     | 4   |
-| AIF403     | Komputer dan Masyarakat           |     | 3   |
+| AIF403     | Komputer dan Masyarakat           |     | 2   |
 | AIF405     | Proyek Sistem Informasi 2         |     | 2   |
-| AIFXXX     | MK Pilihan                        |     | 2   |
+| AIFXXX     | MK Pilihan                        |     | 12   |
 | TOTAL      |                                   |     | 18  |
 
 |            |         SEMESTER 8                |     |     |
