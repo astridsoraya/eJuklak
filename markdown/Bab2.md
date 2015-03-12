@@ -132,15 +132,21 @@ penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
 
 ### 2.4.2 Uraian Singkat Mata Kuliah Umum
 
-| Kode MK | Prasyarat | Nama dan Deskripsi Mata Kuliah                                                                      |
-|---------|-----------|-----------------------------------------------------------------------------------------------------|
-| MKU001  |           | **PENDIDIKAN PANCASILA/_PANCASILA EDUCATION_** Mata Kuliah Pendidikan Pancasila berupaya                                     menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik                         dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan                               bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan                         melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri                           intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya                          adalah membangun kepribadian (*character building*) manusia Indonesia yang utuh, baik menyangkut                             aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa                         menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila. | 
-| MKU002  |           | **PENDIDIKAN KEWARGANEGARAAN/_CIVICS_** Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman                          tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya                             dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan                             nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat,                                berbangsa dan bernegara kesatuan Republik Indonesia.                                                |
-| MKU003  |           | **AGAMA KATOLIK/_CATHOLIC RELIGION_** Mata kuliah ini membentuk karakteristik mahasiswa sebagai                              manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi                              dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna                                keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap                         orang miskin dan terlantar.                                                                         |
-| MKU004  |           | **FENOMENOLOGI AGAMA/_PHENOMENOLOGY OF RELIGION_** Fenomenologi Agama merupakan bagian yang tak                              terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama.                           Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan                                dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai                            menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang                         dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku                             manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan                              otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau                          otentisitas hidup beragama.                                                                         |
-| MKU008  |           | **ETIKA/_ETHICS_** Mendalami perilaku sehari-hari yang baik dalam bermasyarakat.                    |
-| MKU009  |           | **BAHASA INDONESIA/_INDONESIAN_** Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan                            berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan                            dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan                           kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya,                                  dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam                                  menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam mata kuliah ini dipelajari cara menyusun                         surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan                               makalah dengan benar.                                                                               |
-| MKU010  |          | BAHASA INGGRIS/*ENGLISH*                                                                              |
+| Nama MK PRASYARAT | NAMA MATA KULIAH DESKRIPSI MATA KULIAH                                                                 |
+|-------------------|-------------------------------------------------------------------------------------------------------|
+| MKU001            | PENDIDIKAN PANCASILA/*PANCASILA EDUCATION*                                                            |
+|                   | Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan                           Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan                       pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap                           segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai                       Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui                           pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia                              Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian,                            Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan                       panduan nilai-nilai etis Pancasila.                                                                   |
+| MKU002            | PENDIDIKAN KEWARGANEGARAAN/*CIVICS*                                                                   |
+|                   | Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak                        dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi                        kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta                             implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.   |
+| MKU003            | AGAMA KATOLIK/*CATHOLIC RELIGION*                                                                     |
+|                   | Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui                         pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami                          relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu                           menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.                         |
+| MKU004            | FENOMENOLOGI AGAMA/*PHENOMENOLOGY OF RELIGION*                                                        |
+|                   | Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan                        obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara                            kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan                       sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan                              tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu,                           kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah                        ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan                           kembali nilai sejati agama atau otentisitas hidup beragama.                                           |
+| MKU008            | ETIKA/*ETHICS*                                                                                        |
+|                   | Mendalami perilaku sehari-hari yang baik dalam bermasyarakat.                                         |
+| MKU009            | BAHASA INDONESIA/*INDONESIAN*                                                                         |
+|                   | Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu                              mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata                          kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta                                pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya, dipelajari penyusunan kalimat yang baku                       serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain                         itu, dalam mata kuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir                          kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.                                   |
+| MKU010            | BAHASA INGGRIS/*ENGLISH*                                                                              |
 |                   | Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan                             kosakata Bahasa Inggris (*vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk                           menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan                              metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan                        hasil pemahamannya akan isi bahan bacaan.                                                             |
 | MKU011            | ESTETIKA/*ESTHETICS*                                                                                  |
 |                   | Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan                       kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi                         bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural,                         dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan                               pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.                    |
@@ -152,9 +158,10 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama.
 
 ### 2.5.1 Susunan Mata Kuliah
 
-|        |              Semester 1      |       |     |
-|--------|------------------------------|-------|-----|
+**Semester 1**
+
 | KODE   | NAMA                         |  APR  | SKS |
+|--------|------------------------------|-------|-----|
 | AMS121 | Kalkulus 1                   |   R   |  4  |
 | AMS123 | Pemecahan Masalah Matematika |       |  3  |
 | AMS151 | Statistika Elementer         |       |  4  |
@@ -163,9 +170,10 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama.
 | MKU010 | Bahasa Inggris               |       |  2  |
 |        |                              | TOTAL |  18 |
 
-|        |              Semester 2      |       |     |
-|--------|------------------------------|-------|-----|
+**Semester 2**
+
 | KODE   | NAMA                         |  APR  | SKS |
+|--------|------------------------------|-------|-----|
 | AMS122 | Kalkulus 2                   |       |  4  |
 | AMS124 | Matematika Diskret           |       |  4  |
 | AMS126 | Aljabar Matriks              |       |  4  |
@@ -175,9 +183,10 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama.
 | MKU004 | Fenomenologi Agama +         |       |     |
 |        |                              | TOTAL |  19 |
 
-|        |              Semester 3      |       |     |
-|--------|------------------------------|-------|-----|
+**Semester 3**
+
 | KODE   | NAMA                         |  APR  | SKS |
+|--------|------------------------------|-------|-----|
 | AMS221 | Kalkulus Vektor              |   R   |  4  |
 | AMS231 | Teori Suku Bunga             |       |  3  |
 | AMS251 | Teori Peluang                |       |  4  |
@@ -186,9 +195,10 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama.
 | MKU008 | Etika                        |   R   |  2  |
 |        |                              | TOTAL |  18 |
 
-|        |              Semester 4      |       |     |
-|--------|------------------------------|-------|-----|
+**Semester 4**
+
 | KODE   | NAMA                         |  APR  | SKS |
+|--------|------------------------------|-------|-----|
 | AMS222 | Aljabar Linear               |   R   |  4  |
 | AMS252 | Statistika Matematika        |       |  4  |
 | AMS261 | Optimasi                     |       |  4  |
@@ -196,9 +206,10 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama.
 | AMS273 | Komputasi Matematika         |       |  2  |
 |        |                              | TOTAL |  18 |
 
-|        |              Semester 5      |       |     |
-|--------|------------------------------|-------|-----|
+**Semester 5**
+
 | KODE   | NAMA                         |  APR  | SKS |
+|--------|------------------------------|-------|-----|
 | AMS321 | Fungsi Kompleks              |       |  4  |
 | AMS351 | Proses Stokastik             |       |  4  |
 | AMS373 | Metoda Numerik               |       |  3  |
@@ -206,26 +217,29 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama.
 | ABCXYZ | Pilihan                      |       |  6  |
 |        |                              | TOTAL |  18 |
 
-|        |              Semester 6      |       |     |
-|--------|------------------------------|-------|-----|
+**Semester 6**
+
 | KODE   | NAMA                         |  APR  | SKS |
+|--------|------------------------------|-------|-----|
 | AMS322 | Analisis Real                |   R   |  4  |
 | MKU009 | Bahasa Indonesia             |       |  4  |
 | ABCXYZ | Pilihan                      |       |  12 |
 |        |                              | TOTAL |  18 |
 
-|        |              Semester 7      |       |     |
-|--------|------------------------------|-------|-----|
+**Semester 7**
+
 | KODE   | NAMA                         |  APR  | SKS |
+|--------|------------------------------|-------|-----|
 | AMS940 | Seminar                      |       |  3  |
 | AMS491 | Pemodelan Matematika         |       |  4  |
 | MKU001 | Pancasila                    |       |  2  |
 | ABCXYZ | Pilihan                      |       |  9  |
 |        |                              | TOTAL |  18 |
 
-|        |              Semester 8      |       |     |
-|--------|------------------------------|-------|-----|
+**Semester 8**
+
 | KODE   | NAMA                         |  APR  | SKS |
+|--------|------------------------------|-------|-----|
 | AMS499 | Skripsi                      |       |  6  |
 | ABCXYZ | Pilihan                      |       |  9  |
 |        |                              | TOTAL |  18 |
@@ -334,15 +348,22 @@ Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 
 ### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 
-| Kode MK | Prasyarat | Nama dan Deskripsi Mata Kuliah                                                                      |
-|---------|-----------|-----------------------------------------------------------------------------------------------------|
-| AMS121  |     -     | **KALKULUS 1/_CALCULUS 1_** Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan                              konsep dasar dari integral.                                                                         |
-| AMS123  |     -     | **PEMECAHAN MASALAH MATEMATIKA/_MATHEMATICAL PROBLEM SOLVING_** Menebak dan mengumpulkan data dalam                           problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan                             penyelidikan, mempertanyakan dan mengembangkan suatu fakta.                                         |
-| AMS151  |     -     | **STATISTIKA ELEMENTER/_ELEMENTARY STATISTICS_** Statistik deskriptif, peluang, distribusi peluang                            diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi,                          khi kuadrat, analisis variansi, SPSS, Minitab.                                                      |
-| AMS122  | AMS121    | **KALKULUS 2/_CALCULUS 2_** Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan                             diferensial dan deret tak hingga.                                                                   |
-| AMS124  | AMS123    | **MATEMATIKA DISKRET/_DISCRETE MATHEMATICS_** Logika dan bukti, himpunan dan fungsi, induksi dan                              rekursi, masalah pencacahan (counting), dan teori graf.                                             |
-| AMS126  |     -     | **ALJABAR MATRIKS/_MATRIX ALGEBRA_** Sistem persamaan linear dan matriks, determinan, ruang vektor                            real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen. |
-| AMS221  | AMS122    | **KALKULUS VEKTOR/_VECTOR CALCULUS_** Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan                          turunan parsial, integral lipat, kalkulus vektor.                                                   |
+| KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                    |
+|---------|-----------------------------------------------------------------------------------------------------------------|
+| AMS121  | KALKULUS 1/*CALCULUS 1*                                                                                         |
+|    -    | Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.                |
+| AMS123  | PEMECAHAN MASALAH MATEMATIKA/*MATHEMATICAL PROBLEM SOLVING*                                                     |
+|    -    | Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema              Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.                               |
+| AMS151  | STATISTIKA ELEMENTER/*ELEMENTARY STATISTICS*                                                                  |
+|    -    | Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter,             uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi, SPSS, Minitab.                             |
+| AMS122  | KALKULUS 2/*CALCULUS 2*                                                                                         |
+|  AMS121 | Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.         |
+| AMS124  | MATEMATIKA DISKRET/*DISCRETE MATHEMATICS*                                                                       |
+| AMS123  | Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.      |
+| AMS126  | ALJABAR MATRIKS/*MATRIX ALGEBRA*                                                                                |
+|    -    | Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear              dan matriks representasi, nilai dan vektor eigen.                                                               |
+| AMS221  | KALKULUS VEKTOR/*VECTOR CALCULUS*                                                                               |
+| AMS122  | Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
 
 
 
@@ -384,9 +405,10 @@ Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 ## 2.6 Kurikulum Program Studi Fisika
 ### 2.6.1 Susunan Mata Kuliah
 
-|            |         SEMESTER 1       |     |     |
-|------------|--------------------------|-----|-----|
+**Semester 1**
+
 | KODE       | NAMA                     | APR | SKS |
+|------------|--------------------------|-----|-----|
 | APA101     | Pengenalan Program Studi |     | 3   |
 | APS103     | Keterampilan Fisika      |     | 2   |
 | APS105     | Fisika Dasar 1           | R,P | 3   |
@@ -396,9 +418,10 @@ Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 | MKU011     | Estetika                 |     | 2   |
 | TOTAL      |                          |     | 19  |
 
-|            |         SEMESTER 2       |     |     |
-|------------|--------------------------|-----|-----|
+**Semester 2**
+
 | KODE       | NAMA                     | APR | SKS |
+|------------|--------------------------|-----|-----|
 | APS106     | Fisika Dasar 2           | R,P | 3   |
 | APS108     | Fisika Matematika 2      | R   | 4   |
 | APS112     | Mekanika                 | R   | 3   |
@@ -407,9 +430,10 @@ Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 | MKU012     | Logika                   |     | 2   |
 | TOTAL      |                          |     | 19  |
 
-|                |         SEMESTER 3               |     |     |
-|----------------|----------------------------------|-----|-----|
+**Semester 3**
+
 | KODE           | NAMA                             | APR | SKS |
+|----------------|----------------------------------|-----|-----|
 | APS207         | Fisika Matematika 3              | R   | 4   |
 | APS213         | Gelombang                        | R   | 3   |
 | APS215         | Fisika Thermal                   | R   | 3   |
@@ -418,9 +442,10 @@ Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 | MKU003/MKU004  | Agama Katolik/Fenomenologi Agama |     | 2   |
 | TOTAL          |                                  |     | 18  |
 
-|            |         SEMESTER 4                  |     |     |
-|------------|-------------------------------------|-----|-----|
+**Semester 4**
+
 | KODE       | NAMA                                | APR | SKS |
+|------------|-------------------------------------|-----|-----|
 | APS207     | Projek Bersama                      |     | 2   |
 | APS213     | Fisika Matematika 4                 | R   | 4   |
 | APS112     | Fisika Thermal                      | R   | 3   |
@@ -429,9 +454,10 @@ Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 | MKU012     | Agama Katolik/Fenomenologi Agama  |     | 2   |
 | TOTAL      |                                     |     | 18  |
 
-|            |         SEMESTER 5                  |     |     |
-|------------|-------------------------------------|-----|-----|
+**Semester 5**
+
 | KODE       | NAMA                                | APR | SKS |
+|------------|-------------------------------------|-----|-----|
 | APS323     | Elektrodinamika                     | R   | 3   |
 | APS327     | Fisika Kuantum                      | R   | 4   |
 | APS335     | Lab. Fisika Instrumentasi           | P   | 3   |
@@ -440,9 +466,10 @@ Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 |            | Mata Kuliah Pilihan                 |     | 3   |
 | TOTAL      |                                     |     | 18  |
 
-|            |         SEMESTER 6                  |     |     |
-|------------|-------------------------------------|-----|-----|
+**Semester 6**
+
 | KODE       | NAMA                                | APR | SKS |
+|------------|-------------------------------------|-----|-----|
 | APS304     | Teknik Presentasi                   |     | 2   |
 | APS328     | Mekanika Kuantum                    |     | 3   |
 | APS342     | Pengantar Fisika Material           |     | 3   |
@@ -452,18 +479,20 @@ Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 |            | Mata Kuliah Pilihan                 |     | 3   |
 | TOTAL      |                                     |     | 19  |
 
-|            |         SEMESTER 7                  |     |     |
-|------------|-------------------------------------|-----|-----|
+**Semester 7**
+
 | KODE       | NAMA                                | APR | SKS |
+|------------|-------------------------------------|-----|-----|
 | APS497     | Tugas Akhir 1                       |     | 4   |
 | MKU001     | Pancasila                           |     | 2   |
 | MKU002     | Kewarganegaraan                     |     | 2   |
 |            | Mata Kuliah Pilihan                 |     | 9   |
 | TOTAL      |                                     |     | 17  |
 
-|            |         SEMESTER 8                  |     |     |
-|------------|-------------------------------------|-----|-----|
+**Semester 8**
+
 | KODE       | NAMA                                | APR | SKS |
+|------------|-------------------------------------|-----|-----|
 | APS402     | Etika Profesi                       |     | 2   |
 | APS498     | Tugas Akhir 2                       |     | 4   |
 | SAB315     | Kewirausahaan                       |     | 3   |
@@ -703,9 +732,10 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 ## 2.7 Kurikulum Program Studi Teknik Informatika
 ### 2.7.1 Susunan Mata Kuliah
 
-|            |         SEMESTER 1             |     |     |
-|------------|--------------------------------|-----|-----|
+**Semester 1**
+
 | KODE       | NAMA                           | APR | SKS |
+|------------|--------------------------------|-----|-----|
 | AIF101     | Pemrograman Berorientasi Objek |     | 6   |
 | AIF103     | Matematika Diskret             |     | 3   |
 | AIF105     | Pengantar Informatika          |     | 3   |
@@ -714,9 +744,10 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | MKU010     | Bahasa Inggris                 |     | 2   |
 | TOTAL      |                                |     | 18  |
 
-|            |         SEMESTER 2             |     |     |
-|------------|--------------------------------|-----|-----|
+**Semester 2**
+
 | KODE       | NAMA                           | APR | SKS |
+|------------|--------------------------------|-----|-----|
 | AIF102     | Algoritma dan Struktur Data    |     | 4   |
 | AIF104     | Logika Informatika             |     | 3   |
 | AIF106     | Sistem Dijital                 |     | 3   |
@@ -726,9 +757,10 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | MKU011     | Estetika                       |     | 2   |
 | TOTAL      |                                |     | 18  |
 
-|            |         SEMESTER 3                        |     |     |
-|------------|-------------------------------------------|-----|-----|
+**Semester 3**
+
 | KODE       | NAMA                                      | APR | SKS |
+|------------|-------------------------------------------|-----|-----|
 | AIF201     | Analisis dan Desain Berorientasi Objek    |     | 4   |
 | AIF203     | Struktur Diskret                          |     | 4   |
 | AIF205     | Arsitektur dan Organisasi Komputer        |     | 3   |
@@ -737,9 +769,10 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | MKU012     | Logika                                    |     | 2   |
 | TOTAL      |                                           |     | 18  |
 
-|            |         SEMESTER 4                |     |     |
-|------------|-----------------------------------|-----|-----|
+**Semester 4**
+
 | KODE       | NAMA                              | APR | SKS |
+|------------|-----------------------------------|-----|-----|
 | AIF202     | Desain dan Analisis Algoritma     |     | 4   |
 | AIF204     | Manajemen Informasi dan Basisdata |     | 4   |
 | AIF206     | Sistem Operasi                    |     | 4   |
@@ -747,9 +780,10 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | AIF210     | Interaksi Manusia dan Komputer    |     | 2   |
 | TOTAL      |                                   |     | 18  |
 
-|            |         SEMESTER 5                |     |     |
-|------------|-----------------------------------|-----|-----|
+**Semester 5**
+
 | KODE       | NAMA                              | APR | SKS |
+|------------|-----------------------------------|-----|-----|
 | AIF301     | Pengantar Sistem Cerdas           |     | 3   |
 | AIF303     | Pengantar Sistem Informasi        |     | 3   |
 | AIF305     | Jaringan Komputer                 |     | 2   |
@@ -760,9 +794,10 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | AIFXXX     | MK Pilihan                        |     | 2   |
 | TOTAL      |                                   |     | 18  |
 
-|            |         SEMESTER 6                |     |     |
-|------------|-----------------------------------|-----|-----|
+**Semester 6**
+
 | KODE       | NAMA                              | APR | SKS |
+|------------|-----------------------------------|-----|-----|
 | AIF302     | Penulisan Ilmiah                  |     | 2   |
 | AIF304     | Proyek Sistem Informasi I         |     | 3   |
 | AIF306     | Proyek Informatika                |     | 6   |
@@ -773,18 +808,20 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | AIFXXX     | MK Pilihan                        |     | 6   |
 | TOTAL      |                                   |     | 18  |
 
-|            |         SEMESTER 7                |     |     |
-|------------|-----------------------------------|-----|-----|
+**Semester 7**
+
 | KODE       | NAMA                              | APR | SKS |
+|------------|-----------------------------------|-----|-----|
 | AIF401     | Skripsi I                         |     | 4   |
 | AIF403     | Komputer dan Masyarakat           |     | 2   |
 | AIF405     | Proyek Sistem Informasi 2         |     | 2   |
 | AIFXXX     | MK Pilihan                        |     | 12   |
 | TOTAL      |                                   |     | 18  |
 
-|            |         SEMESTER 8                |     |     |
-|------------|-----------------------------------|-----|-----|
+**Semester 8**
+
 | KODE       | NAMA                              | APR | SKS |
+|------------|-----------------------------------|-----|-----|
 | AIF402     | Skripsi 2                         |     | 6   |
 | AIFXXX     | MK Pilihan                        |     | 10  |
 | AIF402     | Etika Profesi                     |     | 2   |
@@ -797,17 +834,17 @@ Keterangan :
      2. Projek Sistem Informasi I dan Projek Informasi 2
 
 Aturan Tambahan :
-  1. Mata kuliah pilihan dari luar jurusan
-Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
-Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan 
-  2. Skor *Coding*  
-Beberapa mata kuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali     tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor coding > 0. 
-  3. Nilai minimum kuliah jalur pemrograman/algoritma
-  Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
-    a.  Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-    b.  Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-    c.  Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
-    d.  Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
+  1. Mata kuliah pilihan dari luar jurusan 
+     Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4       (empat) mata kuliah. 
+     Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas        Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan 
+  2. Skor *Coding* 
+     Beberapa mata kuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali      tingkat 1 s.d. 3 agar dalam pengambilan mata kuliah setiap semester, memiliki jumlah skor coding > 0.
+  3. Nilai minimum kuliah jalur pemrograman/algoritma 
+     Untuk mahasiswa yang ingin mengambil mata kuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang            seharusnya, yaitu: 
+    1. Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+    2. Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+    3. Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+    4. Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
 maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
 ### 2.7.2 Mata kuliah Pilihan Program Studi Teknik Informatika
