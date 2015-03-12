@@ -1,4 +1,4 @@
-BAB 2: PENYELENGGARAAN MATA KULIAH  
+BAB 2 PENYELENGGARAAN MATA KULIAH  
 ==================================
 
 
