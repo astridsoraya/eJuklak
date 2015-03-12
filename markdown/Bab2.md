@@ -335,7 +335,8 @@ berlaku di Program Studi Matematika adalah memilih salah satu kelompok bidang ka
 bidang kajian minimal 15 sks.
 
 ### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
+![](images/gambar 1.jpg)
+Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 
 ### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 
@@ -356,8 +357,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 | AMS221  | KALKULUS VEKTOR/*VECTOR CALCULUS*                                                                               |
 | AMS122  | Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
 
-![](images/gambar 1.jpg)
-Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
+
 
 | KODE MK                                | NAMA & DESKRIPSI MATA KULIAH                                                     |
 |----------------------------------------|----------------------------------------------------------------------------------|
@@ -609,7 +609,8 @@ Selain itu, mahasiswa dapat mengambil, baik mata kuliah wajib maupun mata kuliah
 Pada dasarnya, semua perkuliahan di Jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
 ### 2.6.3 Peta dan Prasyarat Mata Kuliah
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
+![](images/gambar 2.jpg)
+Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 ### 2.6.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika
 
@@ -624,8 +625,6 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 | ICE109  | KIMIA DASAR/*CHEMISTRY*                                                                                         |
 |    -    | Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami              proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.                                                  |
 
-![](images/gambar 2.jpg)
-Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                    |
 |---------|-----------------------------------------------------------------------------------------------------------------|
@@ -896,7 +895,8 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF470 | Pemrograman Jaringan             |     |     |
 
 ### 2.7.3 Peta dan Prasyarat Mata Kuliah
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
+![](images/gambar 3.jpg)
+Gambar 3. Peta dan Prasyarat Mata Kuliah
 
 ### 2.7.4 Deskripsi Mata Kuliah
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                    |
@@ -912,8 +912,6 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 | AIF105  | PENGANTAR INFORMATIKA/*INTRODUCTION TO INFORMATICS*                                                             |
 |         | Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS                        Excel, mengenal cakupan ilmu informatika.                                                                       |
 
-![](images/gambar 3.jpg)
-Gambar 3. Peta dan Prasyarat Mata Kuliah
 
 Deskripsi Mata Kuliah
 
