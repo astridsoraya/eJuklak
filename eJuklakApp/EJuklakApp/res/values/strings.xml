@@ -24,29 +24,30 @@
     <string name="home_html">file:///android_asset/home.html</string>
     <string name="about_html">file:///android_asset/about.html</string>
     <string name="help_html">file:///android_asset/help.html</string>
-    <string name="picture_html">file:///android_asset/lampiran/Gambar</string>
+    <string name="picture_html">file:///android_asset/images/</string>
     <string name="lampiran_html">file:///android_asset/lampiran.html</string>
     
     <string-array name="picture_array">
-        <item>2_1.html</item>
-        <item>2_2.html</item>
-        <item>2_3.html</item>
-        <item>5_4a.html</item>
-        <item>5_4b.html</item>
-        <item>5_4c.html</item>
-        <item>5_4d.html</item>
-        <item>5_4e.html</item>
-        <item>5_5a.html</item>
-        <item>5_5b.html</item>
-        <item>5_5c.html</item>
-        <item>5_6a.html</item>
-        <item>5_6b.html</item>
-        <item>5_7a.html</item>
-        <item>5_7b.html</item>
-        <item>5_7c.html</item>
-        <item>5_7d.html</item>
-        <item>5_7e.html</item>
-        <item>5_7f.html</item>
+        <item>gambar 1.jpg</item>
+        <item>gambar 2.jpg</item>
+        <item>gambar 3.jpg</item>
+        <item>lampiran 4a.png</item>
+        <item>lampiran 4b.png</item>
+        <item>lampiran 4c.png</item>
+        <item>lampiran 4d.png</item>
+        <item>lampiran 4e.png</item>
+        <item>lampiran 4f.png</item>
+        <item>lampiran 5a.png</item>
+        <item>lampiran 5b.png</item>
+        <item>lampiran 5c.png</item>
+        <item>lampiran 6a.png</item>
+        <item>lampiran 6b.png</item>
+        <item>lampiran 7a.png</item>
+        <item>lampiran 7b.png</item>
+        <item>lampiran 7c.png</item>
+        <item>lampiran 7d.png</item>
+        <item>lampiran 7e.png</item>
+        <item>lampiran 7f.png</item>
     </string-array>
     
     <color name="white">#FFFFFF</color>
