@@ -151,89 +151,89 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama.
 
 **Semester 1**
 
-| KODE   | NAMA                         |  APR  | SKS |
-|--------|------------------------------|-------|-----|
-| AMS121 | Kalkulus 1                   |   R   |  4  |
-| AMS123 | Pemecahan Masalah Matematika |       |  3  |
-| AMS151 | Statistika Elementer         |       |  4  |
-| APS181 | Fisika Dasar                 | R, P  |  4  |
-| MKU012 | Logika                       |   R   |  2  |
-| MKU010 | Bahasa Inggris               |       |  2  |
-|        |                              | TOTAL |  18 |
+| KODE   | NAMA                         |  APR  | SKS     |
+|--------|------------------------------|-------|---------|
+| AMS121 | Kalkulus 1                   |   R   |  4      |
+| AMS123 | Pemecahan Masalah Matematika |       |  3      |
+| AMS151 | Statistika Elementer         |       |  4      |
+| APS181 | Fisika Dasar                 | R, P  |  4      |
+| MKU012 | Logika                       |   R   |  2      |
+| MKU010 | Bahasa Inggris               |       |  2      |
+|        |                              |       |  **18** |
 
 **Semester 2**
 
-| KODE   | NAMA                         |  APR  | SKS |
-|--------|------------------------------|-------|-----|
-| AMS122 | Kalkulus 2                   |       |  4  |
-| AMS124 | Matematika Diskret           |       |  4  |
-| AMS126 | Aljabar Matriks              |       |  4  |
-| AIF112 | Pemrograman Komputer         |       |  3  |
-| MKU011 | Estetika                     |       |  2  |
-| MKU003 | Agama Katolik +              |       |  2  |
-| MKU004 | Fenomenologi Agama +         |       |     |
-|        |                              | TOTAL |  19 |
+| KODE   | NAMA                         |  APR  | SKS     |
+|--------|------------------------------|-------|---------|
+| AMS122 | Kalkulus 2                   |       |  4      |
+| AMS124 | Matematika Diskret           |       |  4      |
+| AMS126 | Aljabar Matriks              |       |  4      |
+| AIF112 | Pemrograman Komputer         |       |  3      |
+| MKU011 | Estetika                     |       |  2      |
+| MKU003 | Agama Katolik +              |       |  2      |
+| MKU004 | Fenomenologi Agama +         |       |         |
+|        |                              |       |  **19** |
 
 **Semester 3**
 
-| KODE   | NAMA                         |  APR  | SKS |
-|--------|------------------------------|-------|-----|
-| AMS221 | Kalkulus Vektor              |   R   |  4  |
-| AMS231 | Teori Suku Bunga             |       |  3  |
-| AMS251 | Teori Peluang                |       |  4  |
-| APS253 | Komputasi Statistika         |       |  2  |
-| AMS271 | Metoda Matematika            |       |  3  |
-| MKU008 | Etika                        |   R   |  2  |
-|        |                              | TOTAL |  18 |
+| KODE   | NAMA                         |  APR  | SKS     |
+|--------|------------------------------|-------|---------|
+| AMS221 | Kalkulus Vektor              |   R   |  4      |
+| AMS231 | Teori Suku Bunga             |       |  3      |
+| AMS251 | Teori Peluang                |       |  4      |
+| APS253 | Komputasi Statistika         |       |  2      |
+| AMS271 | Metoda Matematika            |       |  3      |
+| MKU008 | Etika                        |   R   |  2      |
+|        |                              |       |  **18** |
 
 **Semester 4**
 
-| KODE   | NAMA                         |  APR  | SKS |
-|--------|------------------------------|-------|-----|
-| AMS222 | Aljabar Linear               |   R   |  4  |
-| AMS252 | Statistika Matematika        |       |  4  |
-| AMS261 | Optimasi                     |       |  4  |
-| AMS272 | Persamaan Diferensial Biasa  |       |  4  |
-| AMS273 | Komputasi Matematika         |       |  2  |
-|        |                              | TOTAL |  18 |
+| KODE   | NAMA                         |  APR  | SKS     |
+|--------|------------------------------|-------|---------|
+| AMS222 | Aljabar Linear               |   R   |  4      |
+| AMS252 | Statistika Matematika        |       |  4      |
+| AMS261 | Optimasi                     |       |  4      |
+| AMS272 | Persamaan Diferensial Biasa  |       |  4      |
+| AMS273 | Komputasi Matematika         |       |  2      |
+|        |                              |       |  **18** |
 
 **Semester 5**
 
-| KODE   | NAMA                         |  APR  | SKS |
-|--------|------------------------------|-------|-----|
-| AMS321 | Fungsi Kompleks              |       |  4  |
-| AMS351 | Proses Stokastik             |       |  4  |
-| AMS373 | Metoda Numerik               |       |  3  |
-| MKU002 | Pendidikan Kewarganegaraan   |       |  2  |
-| ABCXYZ | Pilihan                      |       |  6  |
-|        |                              | TOTAL |  18 |
+| KODE   | NAMA                         |  APR  | SKS     |
+|--------|------------------------------|-------|---------|
+| AMS321 | Fungsi Kompleks              |       |  4      |
+| AMS351 | Proses Stokastik             |       |  4      |
+| AMS373 | Metoda Numerik               |       |  3      |
+| MKU002 | Pendidikan Kewarganegaraan   |       |  2      |
+| ABCXYZ | Pilihan                      |       |  6      |
+|        |                              |       |  **18** |
 
 **Semester 6**
 
-| KODE   | NAMA                         |  APR  | SKS |
-|--------|------------------------------|-------|-----|
-| AMS322 | Analisis Real                |   R   |  4  |
-| MKU009 | Bahasa Indonesia             |       |  4  |
-| ABCXYZ | Pilihan                      |       |  12 |
-|        |                              | TOTAL |  18 |
+| KODE   | NAMA                         |  APR  | SKS     |
+|--------|------------------------------|-------|---------|
+| AMS322 | Analisis Real                |   R   |  4      |
+| MKU009 | Bahasa Indonesia             |       |  4      |
+| ABCXYZ | Pilihan                      |       |  12     |
+|        |                              |       |  **18** |
 
 **Semester 7**
 
-| KODE   | NAMA                         |  APR  | SKS |
-|--------|------------------------------|-------|-----|
-| AMS940 | Seminar                      |       |  3  |
-| AMS491 | Pemodelan Matematika         |       |  4  |
-| MKU001 | Pancasila                    |       |  2  |
-| ABCXYZ | Pilihan                      |       |  9  |
-|        |                              | TOTAL |  18 |
+| KODE   | NAMA                         |  APR  | SKS     |
+|--------|------------------------------|-------|---------|
+| AMS940 | Seminar                      |       |  3      |
+| AMS491 | Pemodelan Matematika         |       |  4      |
+| MKU001 | Pancasila                    |       |  2      |
+| ABCXYZ | Pilihan                      |       |  9      |
+|        |                              |       |  **18** |
 
 **Semester 8**
 
-| KODE   | NAMA                         |  APR  | SKS |
-|--------|------------------------------|-------|-----|
-| AMS499 | Skripsi                      |       |  6  |
-| ABCXYZ | Pilihan                      |       |  9  |
-|        |                              | TOTAL |  18 |
+| KODE   | NAMA                         |  APR  | SKS     |
+|--------|------------------------------|-------|---------|
+| AMS499 | Skripsi                      |       |  6      |
+| ABCXYZ | Pilihan                      |       |  9      |
+|        |                              |       |  **18** |
 
 ### 2.5.2 Mata Kuliah Pilihan Program Studi Matematika
 Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
@@ -375,97 +375,97 @@ Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 
 **Semester 1**
 
-| KODE       | NAMA                     | APR | SKS |
-|------------|--------------------------|-----|-----|
-| APA101     | Pengenalan Program Studi |     | 3   |
-| APS103     | Keterampilan Fisika      |     | 2   |
-| APS105     | Fisika Dasar 1           | R,P | 3   |
-| APS107     | Fisika Matematika 1      | R   | 4   |
-| AIF111     | Pemrograman Komputer     | P   | 3   |
-| ICE109     | Kimia Dasar              |     | 2   |
-| MKU011     | Estetika                 |     | 2   |
-| TOTAL      |                          |     | 19  |
+| KODE       | NAMA                     | APR | SKS     |
+|------------|--------------------------|-----|---------|
+| APA101     | Pengenalan Program Studi |     | 3       |
+| APS103     | Keterampilan Fisika      |     | 2       |
+| APS105     | Fisika Dasar 1           | R,P | 3       |
+| APS107     | Fisika Matematika 1      | R   | 4       |
+| AIF111     | Pemrograman Komputer     | P   | 3       |
+| ICE109     | Kimia Dasar              |     | 2       |
+| MKU011     | Estetika                 |     | 2       |
+|            |                          |     | **19**  |
 
 **Semester 2**
 
-| KODE       | NAMA                     | APR | SKS |
-|------------|--------------------------|-----|-----|
-| APS106     | Fisika Dasar 2           | R,P | 3   |
-| APS108     | Fisika Matematika 2      | R   | 4   |
-| APS112     | Mekanika                 | R   | 3   |
-| APS124     | Fisika Modern            |     | 3   |
-| APS132     | Fisika Komputasi         | P   | 3   |
-| MKU012     | Logika                   |     | 2   |
-| TOTAL      |                          |     | 19  |
+| KODE       | NAMA                     | APR | SKS     |
+|------------|--------------------------|-----|---------|
+| APS106     | Fisika Dasar 2           | R,P | 3       |
+| APS108     | Fisika Matematika 2      | R   | 4       |
+| APS112     | Mekanika                 | R   | 3       |
+| APS124     | Fisika Modern            |     | 3       |
+| APS132     | Fisika Komputasi         | P   | 3       |
+| MKU012     | Logika                   |     | 2       |
+|            |                          |     | **19**  |
 
 **Semester 3**
 
-| KODE           | NAMA                             | APR | SKS |
-|----------------|----------------------------------|-----|-----|
-| APS207         | Fisika Matematika 3              | R   | 4   |
-| APS213         | Gelombang                        | R   | 3   |
-| APS215         | Fisika Thermal                   | R   | 3   |
-| APS225         | Lab. Fisika Modern               | P   | 3   |
-| APS233         | Elektronika 1                    | P   | 3   |
-| MKU003/MKU004  | Agama Katolik/Fenomenologi Agama |     | 2   |
-| TOTAL          |                                  |     | 18  |
+| KODE           | NAMA                             | APR | SKS     |
+|----------------|----------------------------------|-----|---------|
+| APS207         | Fisika Matematika 3              | R   | 4       |
+| APS213         | Gelombang                        | R   | 3       |
+| APS215         | Fisika Thermal                   | R   | 3       |
+| APS225         | Lab. Fisika Modern               | P   | 3       |
+| APS233         | Elektronika 1                    | P   | 3       |
+| MKU003/MKU004  | Agama Katolik/Fenomenologi Agama |     | 2       |
+|                |                                  |     | **18**  |
 
 **Semester 4**
 
-| KODE       | NAMA                                | APR | SKS |
-|------------|-------------------------------------|-----|-----|
-| APS207     | Projek Bersama                      |     | 2   |
-| APS213     | Fisika Matematika 4                 | R   | 4   |
-| APS112     | Fisika Thermal                      | R   | 3   |
-| APS124     | Lab. Fisika Modern                  | R   | 4   |
-| APS132     | Elektronika 1                       | P   | 3   |
-| MKU012     | Agama Katolik/Fenomenologi Agama  |     | 2   |
-| TOTAL      |                                     |     | 18  |
+| KODE       | NAMA                                | APR | SKS     |
+|------------|-------------------------------------|-----|---------|
+| APS207     | Projek Bersama                      |     | 2       |
+| APS213     | Fisika Matematika 4                 | R   | 4       |
+| APS112     | Fisika Thermal                      | R   | 3       |
+| APS124     | Lab. Fisika Modern                  | R   | 4       |
+| APS132     | Elektronika 1                       | P   | 3       |
+| MKU012     | Agama Katolik/Fenomenologi Agama    |     | 2       |
+|            |                                     |     | **18**  |
 
 **Semester 5**
 
-| KODE       | NAMA                                | APR | SKS |
-|------------|-------------------------------------|-----|-----|
-| APS323     | Elektrodinamika                     | R   | 3   |
-| APS327     | Fisika Kuantum                      | R   | 4   |
-| APS335     | Lab. Fisika Instrumentasi           | P   | 3   |
-| APS132     | Pengantar Fisika Nuklir             |     | 3   |
-| MKU008     | Etika                               |     | 2   |
-|            | Mata Kuliah Pilihan                 |     | 3   |
-| TOTAL      |                                     |     | 18  |
+| KODE       | NAMA                                | APR | SKS     |
+|------------|-------------------------------------|-----|---------|
+| APS323     | Elektrodinamika                     | R   | 3       |
+| APS327     | Fisika Kuantum                      | R   | 4       |
+| APS335     | Lab. Fisika Instrumentasi           | P   | 3       |
+| APS132     | Pengantar Fisika Nuklir             |     | 3       |
+| MKU008     | Etika                               |     | 2       |
+|            | Mata Kuliah Pilihan                 |     | 3       |
+|            |                                     |     | **18**  |
 
 **Semester 6**
 
-| KODE       | NAMA                                | APR | SKS |
-|------------|-------------------------------------|-----|-----|
-| APS304     | Teknik Presentasi                   |     | 2   |
-| APS328     | Mekanika Kuantum                    |     | 3   |
-| APS342     | Pengantar Fisika Material           |     | 3   |
-| APS348     | Optika                              |     | 3   |
-| APS392     | Seminar                             |     | 2   |
-| MKU009     | Bahasa Indonesia                    |     | 2   |
-|            | Mata Kuliah Pilihan                 |     | 3   |
-| TOTAL      |                                     |     | 19  |
+| KODE       | NAMA                                | APR | SKS     |
+|------------|-------------------------------------|-----|---------|
+| APS304     | Teknik Presentasi                   |     | 2       |
+| APS328     | Mekanika Kuantum                    |     | 3       |
+| APS342     | Pengantar Fisika Material           |     | 3       |
+| APS348     | Optika                              |     | 3       |
+| APS392     | Seminar                             |     | 2       |
+| MKU009     | Bahasa Indonesia                    |     | 2       |
+|            | Mata Kuliah Pilihan                 |     | 3       |
+|            |                                     |     | **19**  |
 
 **Semester 7**
 
-| KODE       | NAMA                                | APR | SKS |
-|------------|-------------------------------------|-----|-----|
-| APS497     | Tugas Akhir 1                       |     | 4   |
-| MKU001     | Pancasila                           |     | 2   |
-| MKU002     | Kewarganegaraan                     |     | 2   |
-|            | Mata Kuliah Pilihan                 |     | 9   |
-| TOTAL      |                                     |     | 17  |
+| KODE       | NAMA                                | APR | SKS     |
+|------------|-------------------------------------|-----|---------|
+| APS497     | Tugas Akhir 1                       |     | 4       |
+| MKU001     | Pancasila                           |     | 2       |
+| MKU002     | Kewarganegaraan                     |     | 2       |
+|            | Mata Kuliah Pilihan                 |     | 9       |
+|            |                                     |     | **17**  |
 
 **Semester 8**
 
-| KODE       | NAMA                                | APR | SKS |
-|------------|-------------------------------------|-----|-----|
-| APS402     | Etika Profesi                       |     | 2   |
-| APS498     | Tugas Akhir 2                       |     | 4   |
-| SAB315     | Kewirausahaan                       |     | 3   |
-|            | Mata Kuliah Pilihan                 |     | 9   |
-| TOTAL      |                                     |     | 18  |
+| KODE       | NAMA                                | APR | SKS     |
+|------------|-------------------------------------|-----|---------|
+| APS402     | Etika Profesi                       |     | 2       |
+| APS498     | Tugas Akhir 2                       |     | 4       |
+| SAB315     | Kewirausahaan                       |     | 3       |
+|            | Mata Kuliah Pilihan                 |     | 9       |
+|            |                                     |     | **18**  |
 
 Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 
@@ -667,98 +667,98 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 **Semester 1**
 
-| KODE       | NAMA                           | APR | SKS |
-|------------|--------------------------------|-----|-----|
-| AIF101     | Pemrograman Berorientasi Objek |     | 6   |
-| AIF103     | Matematika Diskret             |     | 3   |
-| AIF105     | Pengantar Informatika          |     | 3   |
-| MKU001     | Pendidikan Pancasila           |     | 2   |
-| MKU008     | Etika                          |     | 2   |
-| MKU010     | Bahasa Inggris                 |     | 2   |
-| TOTAL      |                                |     | 18  |
+| KODE       | NAMA                           | APR | SKS     |
+|------------|--------------------------------|-----|---------|
+| AIF101     | Pemrograman Berorientasi Objek |     | 6       |
+| AIF103     | Matematika Diskret             |     | 3       |
+| AIF105     | Pengantar Informatika          |     | 3       |
+| MKU001     | Pendidikan Pancasila           |     | 2       |
+| MKU008     | Etika                          |     | 2       |
+| MKU010     | Bahasa Inggris                 |     | 2       |
+|            |                                |     | **18**  |
 
 **Semester 2**
 
-| KODE       | NAMA                           | APR | SKS |
-|------------|--------------------------------|-----|-----|
-| AIF102     | Algoritma dan Struktur Data    |     | 4   |
-| AIF104     | Logika Informatika             |     | 3   |
-| AIF106     | Sistem Dijital                 |     | 3   |
-| AMS100     | Matematika Informatika         |     | 4   |
-| MKU009     | Bahasa Indonesia               |     | 2   |
-| MKU010     | Bahasa Inggris                 |     | 2   |
-| MKU011     | Estetika                       |     | 2   |
-| TOTAL      |                                |     | 18  |
+| KODE       | NAMA                           | APR | SKS     |
+|------------|--------------------------------|-----|---------|
+| AIF102     | Algoritma dan Struktur Data    |     | 4       |
+| AIF104     | Logika Informatika             |     | 3       |
+| AIF106     | Sistem Dijital                 |     | 3       |
+| AMS100     | Matematika Informatika         |     | 4       |
+| MKU009     | Bahasa Indonesia               |     | 2       |
+| MKU010     | Bahasa Inggris                 |     | 2       |
+| MKU011     | Estetika                       |     | 2       |
+|            |                                |     | **18**  |
 
 **Semester 3**
 
-| KODE       | NAMA                                      | APR | SKS |
-|------------|-------------------------------------------|-----|-----|
-| AIF201     | Analisis dan Desain Berorientasi Objek    |     | 4   |
-| AIF203     | Struktur Diskret                          |     | 4   |
-| AIF205     | Arsitektur dan Organisasi Komputer        |     | 3   |
-| AMS200     | Probabilitas dan Statistika               |     | 3   |
-| MKU003/MKU004   | Agama Katolik/Fenomenologi Agama     |     | 2   |
-| MKU012     | Logika                                    |     | 2   |
-| TOTAL      |                                           |     | 18  |
+| KODE       | NAMA                                      | APR | SKS     |
+|------------|-------------------------------------------|-----|---------|
+| AIF201     | Analisis dan Desain Berorientasi Objek    |     | 4       |
+| AIF203     | Struktur Diskret                          |     | 4       |
+| AIF205     | Arsitektur dan Organisasi Komputer        |     | 3       |
+| AMS200     | Probabilitas dan Statistika               |     | 3       |
+| MKU003/MKU004   | Agama Katolik/Fenomenologi Agama     |     | 2       |
+| MKU012     | Logika                                    |     | 2       |
+|            |                                           |     | **18**  |
 
 **Semester 4**
 
-| KODE       | NAMA                              | APR | SKS |
-|------------|-----------------------------------|-----|-----|
-| AIF202     | Desain dan Analisis Algoritma     |     | 4   |
-| AIF204     | Manajemen Informasi dan Basisdata |     | 4   |
-| AIF206     | Sistem Operasi                    |     | 4   |
-| AIF208     | Rekayasa Perangkat Lunak          |     | 4   |
-| AIF210     | Interaksi Manusia dan Komputer    |     | 2   |
-| TOTAL      |                                   |     | 18  |
+| KODE       | NAMA                              | APR | SKS     |
+|------------|-----------------------------------|-----|---------|
+| AIF202     | Desain dan Analisis Algoritma     |     | 4       |
+| AIF204     | Manajemen Informasi dan Basisdata |     | 4       |
+| AIF206     | Sistem Operasi                    |     | 4       |
+| AIF208     | Rekayasa Perangkat Lunak          |     | 4       |
+| AIF210     | Interaksi Manusia dan Komputer    |     | 2       |
+|            |                                   |     | **18**  |
 
 **Semester 5**
 
-| KODE       | NAMA                              | APR | SKS |
-|------------|-----------------------------------|-----|-----|
-| AIF301     | Pengantar Sistem Cerdas           |     | 3   |
-| AIF303     | Pengantar Sistem Informasi        |     | 3   |
-| AIF305     | Jaringan Komputer                 |     | 2   |
-| AIF311     | Pemrograman Fungsional            | R   | 2   |
-| AIF313     | Grafika Komputer                  | R   | 2   |
-| AIF315     | Pemrograman Berbasis Web          | R   | 2   |
-| AIF317     | Desain Antarmuka Grafis           | R   | 2   |
-| AIFXXX     | MK Pilihan                        |     | 2   |
-| TOTAL      |                                   |     | 18  |
+| KODE       | NAMA                              | APR | SKS     |
+|------------|-----------------------------------|-----|---------|
+| AIF301     | Pengantar Sistem Cerdas           |     | 3       |
+| AIF303     | Pengantar Sistem Informasi        |     | 3       |
+| AIF305     | Jaringan Komputer                 |     | 2       |
+| AIF311     | Pemrograman Fungsional            | R   | 2       |
+| AIF313     | Grafika Komputer                  | R   | 2       |
+| AIF315     | Pemrograman Berbasis Web          | R   | 2       |
+| AIF317     | Desain Antarmuka Grafis           | R   | 2       |
+| AIFXXX     | MK Pilihan                        |     | 2       |
+|            |                                   |     | **18**  |
 
 **Semester 6**
 
-| KODE       | NAMA                              | APR | SKS |
-|------------|-----------------------------------|-----|-----|
-| AIF302     | Penulisan Ilmiah                  |     | 2   |
-| AIF304     | Proyek Sistem Informasi I         |     | 3   |
-| AIF306     | Proyek Informatika                |     | 6   |
-| AIF312     | Keamanan Informasi                | R   | 2   |
-| AIF314     | Pemrograman Bassidata             | R   | 2   |
-| AIF316     | Komputasi Pararel                 | R   | 2   |
-| AIF318     | Pemrograman Aplikasi Bergerak     | R   | 2   |
-| AIFXXX     | MK Pilihan                        |     | 6   |
-| TOTAL      |                                   |     | 18  |
+| KODE       | NAMA                              | APR | SKS     |
+|------------|-----------------------------------|-----|---------|
+| AIF302     | Penulisan Ilmiah                  |     | 2       |
+| AIF304     | Proyek Sistem Informasi I         |     | 3       |
+| AIF306     | Proyek Informatika                |     | 6       |
+| AIF312     | Keamanan Informasi                | R   | 2       |
+| AIF314     | Pemrograman Bassidata             | R   | 2       |
+| AIF316     | Komputasi Pararel                 | R   | 2       |
+| AIF318     | Pemrograman Aplikasi Bergerak     | R   | 2       |
+| AIFXXX     | MK Pilihan                        |     | 6       |
+|            |                                   |     | **18**  |
 
 **Semester 7**
 
-| KODE       | NAMA                              | APR | SKS |
-|------------|-----------------------------------|-----|-----|
-| AIF401     | Skripsi I                         |     | 4   |
-| AIF403     | Komputer dan Masyarakat           |     | 2   |
-| AIF405     | Proyek Sistem Informasi 2         |     | 2   |
-| AIFXXX     | MK Pilihan                        |     | 12   |
-| TOTAL      |                                   |     | 18  |
+| KODE       | NAMA                              | APR | SKS     |
+|------------|-----------------------------------|-----|---------|
+| AIF401     | Skripsi I                         |     | 4       |
+| AIF403     | Komputer dan Masyarakat           |     | 2       |
+| AIF405     | Proyek Sistem Informasi 2         |     | 2       |
+| AIFXXX     | MK Pilihan                        |     | 12      |
+|            |                                   |     | **18**  |
 
 **Semester 8**
 
-| KODE       | NAMA                              | APR | SKS |
-|------------|-----------------------------------|-----|-----|
-| AIF402     | Skripsi 2                         |     | 6   |
-| AIFXXX     | MK Pilihan                        |     | 10  |
-| AIF402     | Etika Profesi                     |     | 2   |
-| TOTAL      |                                   |     | 18  |
+| KODE       | NAMA                              | APR | SKS     |
+|------------|-----------------------------------|-----|---------|
+| AIF402     | Skripsi 2                         |     | 6       |
+| AIFXXX     | MK Pilihan                        |     | 10      |
+| AIF402     | Etika Profesi                     |     | 2       |
+|            |                                   |     | **18**  |
 
 Keterangan :
   1. Mata kuliah pilihan wajib.  Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
