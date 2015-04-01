@@ -39,7 +39,7 @@ Apabila seorang mahasiswa tidak dapat memenuhi salah satu komponen evaluasi yang
    
 Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut :
 
-| AA     | NA | BobotNA |
+| AA     | NA | Bobot NA |
 |--------|----|---------|
 | 80-100 | A  | 4       |
 | 70-79  | B  | 3       |
@@ -59,9 +59,7 @@ Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa
 ###4.2.1  Evaluasi Keberhasilan Belajar Tiap Semester
 Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam **Indeks Prestasi Semester (IPS)** yang mempunyai rentang **0,00 – 4,00** dan dihitung dengan rumus: 
 
->-------   Untuk setiap mata kuliah: SKS i x (bobot NA i)   
->IPS =  ______________________________________      
->-------   jumlah SKS yang ditempuh 
+![](images/IPS.png)
 
 dengan (sks x bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya**. 
 
@@ -103,7 +101,7 @@ yang bersangkutan terdaftar sebagai mahasiswa UNPAR.
 Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kumulatif (IPK)**, dengan rentang **0,00 
 – 4,00** yang dihitung dengan rumus
 
-IPK = Untuk setiap mata kuliah: SKS i x (bobot NA i) / jumlah SKS yang ditempuh 
+![](images/IPK.png)
 
 dengan (sks x bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah.Mahasiswa 
 dinyatakan lulus dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut: 
