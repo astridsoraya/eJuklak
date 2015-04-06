@@ -42,6 +42,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	
 	private boolean menuOpened = false;
 	private String lastState;
+	private String lastHeader;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -97,8 +98,11 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	}
 	
 	public void onSectionAttached(int number) {
-		String[] sections = getResources().getStringArray(R.array.navigation_array);
-		switch (number) {
+		String[] header = getResources().getStringArray(R.array.navigation_array);
+		mTitle = "EJuklak";
+		openBab(header[number]);
+		
+		/* switch (number) {
 		case 1:
 			setTitle(R.string.app_name);
 			mTitle = getTitle();
@@ -132,7 +136,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 			mTitle = "EJuklak: " + sections[6];
 			openLampiran();
 			break;
-		}
+		} */
 	
 	}
 	
@@ -175,24 +179,13 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		}
 		return super.onOptionsItemSelected(item);
 	}
+
 	
-	public void openHome(){
+	public void openBab(String header){
 		menuOpened = false;
 		lastState = "home";
-		webView.loadUrl(getResources().getString(R.string.home_html));
-	}
-	
-	public void openBab(String bab){
-		menuOpened = false;
-		lastState = bab;
-		String file = "file:///android_asset/Bab" + bab + ".html";
-		webView.loadUrl(file);
-	}
-	
-	public void openSubBab(String bab, String id){
-		menuOpened = false;
-		lastState = bab;
-		String file = "file:///android_asset/Bab" + bab + ".html#" + id;
+		lastHeader = header;
+		String file = "file:///android_asset/Juklak" + ".html#" + header;
 		webView.loadUrl(file);
 	}
 	
@@ -205,13 +198,6 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	public void openHelp(){
 		menuOpened = true;
 		webView.loadUrl(getResources().getString(R.string.help_html));
-	}
-	
-	public void openLampiran(){
-		menuOpened = false;
-		lastState = "lampiran";
-		String file = getResources().getString(R.string.lampiran_html);
-		webView.loadUrl(file);
 	}
 	
 	public void openPicture(){
@@ -233,18 +219,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		else if(menuOpened){
 			if(lastState=="home"){
 				refreshTitle(getResources().getString(R.string.app_name));
-				openHome();
-			}
-			else{
-				if(lastState.equals("lampiran")){
-					refreshTitle("EJuklak: Lampiran");
-					openLampiran();
-				}
-				else{
-					refreshTitle("EJuklak: Bab " + lastState);
-					openBab(lastState);
-				}
-				
+				openBab(lastHeader);
 			}
 		}
 		else{

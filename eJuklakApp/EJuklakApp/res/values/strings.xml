@@ -10,16 +10,158 @@
     <string name="action_about">About</string>
     <string name="action_settings">Settings</string>
     <string-array name="navigation_array">
-        <item>Home</item>
+        <item>Kata Pengantar</item>
+        
         <item>Bab 1</item>
         <item>Bab 1.1</item>
+        <item>Bab 1.2</item>
+        <item>Bab 1.2.1</item>
+        <item>Bab 1.2.2</item>
+        <item>Bab 1.2.3</item>
+        <item>Bab 1.2.4</item>
+        <item>Bab 1.3</item>
+        <item>Bab 1.4</item>
+        <item>Bab 1.5</item>
+        
         <item>Bab 2</item>
+        <item>Bab 2.1</item>
+        <item>Bab 2.2</item>
+        <item>Bab 2.3</item>
+        <item>Bab 2.3.1</item>
+        <item>Bab 2.3.2</item>
+        <item>Bab 2.3.3</item>
+        <item>Bab 2.4</item>
+        <item>Bab 2.4.1</item>
+        <item>Bab 2.4.2</item>
+        <item>Bab 2.5</item>
+        <item>Bab 2.5.1</item>
+        <item>Bab 2.5.2</item>
+        <item>Bab 2.5.3</item>
+        <item>Bab 2.5.4</item>
+        <item>Bab 2.6</item>
+        <item>Bab 2.6.1</item>
+        <item>Bab 2.6.2</item>
+        <item>Bab 2.6.3</item>
+        <item>Bab 2.6.4</item>
+        <item>Bab 2.7</item>
+        <item>Bab 2.7.1</item>
+        <item>Bab 2.7.2</item>
+        <item>Bab 2.7.3</item>
+        <item>Bab 2.7.4</item>
+        
         <item>Bab 3</item>
+        <item>Bab 3.1</item>
+        <item>Bab 3.1.1</item>
+        <item>Bab 3.1.2</item>
+        <item>Bab 3.1.3</item>
+        <item>Bab 3.1.4</item>
+        <item>Bab 3.2</item>
+        <item>Bab 3.3</item>
+        <item>Bab 3.3.1</item>
+        <item>Bab 3.3.2</item>
+        <item>Bab 3.3.3</item>
+        <item>Bab 3.3.4</item>
+        <item>Bab 3.4</item>
+        <item>Bab 3.4.1</item>
+        <item>Bab 3.4.2</item>
+        <item>Bab 3.4.3</item>
+        <item>Bab 3.5</item>
+        
         <item>Bab 4</item>
-        <item>Lampiran</item>
+        <item>Bab 4.1</item>
+        <item>Bab 4.2</item>
+        <item>Bab 4.2.1</item>
+        <item>Bab 4.2.2</item>
+        <item>Bab 4.2.3</item>
+        <item>Bab 4.2.4</item>
+        <item>Bab 4.3</item>
+        
+        <item>Lampiran 1</item>
+        <item>Lampiran 2</item>
+        <item>Lampiran 3</item>
+        <item>Lampiran 4</item>
+        <item>Lampiran 5</item>
+        <item>Lampiran 6</item>
+        <item>Lampiran 7</item>
     </string-array>
     
-    <string name="id_1_1">sejarah-fakultas-teknologi-informasi-dan-sains</string>
+    <string-array name="header_array">
+    	<item> kata-pengantar-dekan-fakultas-teknologi-informasi-dan-sains-universitas-katolik-parahyangan </item>
+    	<item> bab-1-pendahuluan </item>
+    	<item> sejarah-fakultas-teknologi-informasi-dan-sains </item>
+    	<item> visi-misi-tujuan-dan-sasaran-ftis </item>
+    	<item> visi-ftis </item>
+    	<item> misi-ftis </item>
+    	<item> tujuan-ftis </item>
+    	<item> sasaran-ftis </item>
+    	<item> keberhasilan-ftis </item>
+    	<item> pengelola-fakultas </item>
+    	<item> daftar-dosen-ftis </item>
+    	
+    	<item> bab-2-penyelenggaraan-mata-kuliah </item>
+    	<item> 21-mata-kuliah-pilihan </item>
+    	<item>22-mata-kuliah-prasyarat</item>
+    	<item>23-mata-kuliah-layanan</item>
+    	<item>231-kuliah-layanan-program-studi-matematika</item>
+    	<item>232-kuliah-layanan-program-studi-fisika</item>
+    	<item>233-kuliah-layanan-program-studi-teknik-informatika</item>
+    	<item>24-mata-kuliah-umum</item>
+    	<item>241-susunan-mata-kuliah-umum</item>
+    	<item>242-uraian-singkat-mata-kuliah-umum</item>
+    	<item>25-kurikulum-program-studi-matematika</item>
+    	<item>251-susunan-mata-kuliah</item>
+    	<item>252-mata-kuliah-pilihan-program-studi-matematika</item>
+    	<item>253-peta-dan-prasyarat-mata-kuliah</item>
+    	<item>254-deskripsi-singkat-mata-kuliah-prodi-matematika</item>
+    	<item>26-kurikulum-program-studi-fisika</item>
+    	<item>261-susunan-mata-kuliah</item>
+    	<item>262-mata-kuliah-pilihan-program-studi-fisika</item>
+    	<item>263-peta-dan-prasyarat-mata-kuliah</item>
+    	<item>264-deskripsi-singkat-mata-kuliah-program-studi-fisika</item>
+    	<item>27-kurikulum-program-studi-teknik-informatika</item>
+    	<item>271-susunan-mata-kuliah</item>
+    	<item>272-mata-kuliah-pilihan-program-studi-teknik-informatika</item>
+    	<item>273-peta-dan-prasyarat-mata-kuliah</item>
+    	<item>274-deskripsi-mata-kuliah</item>
+    	
+    	<item>bab-3-kegiatan-akademik</item>
+    	<item>penyusunan-rencana-studi</item>
+    	<item>perwalian-dan-penentuan-mata-kuliah</item>
+    	<item>pendaftaran-mata-kuliah</item>
+    	<item>tahap-perkuliahan-awal</item>
+    	<item>perubahan-rencana-studi</item>
+    	<item>kegiatan-perkuliahan</item>
+    	<item>tata-cara-ujian</item>
+    	<item>syarat-mengikuti-ujian</item>
+    	<item>tata-tertib-ujian</item>
+    	<item>sanksi</item>
+    	<item>334-lain-lain</item>
+    	<item>cuti-dan-gencat-studi</item>
+    	<item>persyaratan-cuti-studi</item>
+    	<item>prosedur-cuti-studi</item>
+    	<item>gencat-studi</item>
+    	<item>334-lain-lain</item>
+    	<item>pengunduran-diri-sebagai-mahasiswa</item>
+    	
+    	<item>bab-4-evaluasi-keberhasilan-belajar</item>
+    	<item>41-evaluasi-keberhasilan-belajar-tiap-mata-kuliah</item>
+    	<item>42-evaluasi-keberhasilan-belajar-dalam-suatu-tahap-belajar</item>
+    	<item>421-evaluasi-keberhasilan-belajar-tiap-semester</item>
+    	<item>422-evaluasi-keberhasilan-belajar-tahap-pertama</item>
+    	<item>423-evaluasi-keberhasilan-belajar-tahap-kedua</item>
+    	<item>424-evaluasi-keberhasilan-belajar-tahap-akhir</item>
+    	<item>43-kemampuan-bahasa-inggris-mahasiswa-unpar</item>
+    	
+    	<item>lampiran-1</item>
+    	<item>lampiran-2</item>
+    	<item>lampiran-3</item>
+    	<item>lampiran-4</item>
+    	<item>lampiran-5</item>
+    	<item>lampiran-6</item>
+    	<item>lampiran-7</item>
+    </string-array>
+        
+    <string name="id_1_1"></string>
     
     <string name="home_html">file:///android_asset/home.html</string>
     <string name="about_html">file:///android_asset/about.html</string>

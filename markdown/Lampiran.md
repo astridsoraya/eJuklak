@@ -1,7 +1,7 @@
 Lampiran  
 ========
 
-## Lampiran I 
+## Lampiran 1 
 JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015  
 
 | Kegiatan               | Semester Ganjil              | Semester Genap                  | 
@@ -14,7 +14,7 @@ JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015
 | UAS                    | Senin-Jumat, 8-20 Des. 2014  | Senin-Jumat, 25 Mei-6 Juni 2015 |  
 | Pengumuman Nilai Akhir | Jumat, 9 Jan. 2015           | Senin, 24 Juni 2015             |  
 
-## Lampiran II  
+## Lampiran 2  
 JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015  
 
 | Tahap                            | Semester Ganjil      | Semester Genap      |  
@@ -22,7 +22,7 @@ JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015
 | Tahap 1 (BRP dan 10 SKS)         | Kamis, 14 Juli 2014  | Jumat, 9 Jan 2015   |  
 | Tahap 2 (Pelunasan SKS dan SAPR) | Senin, 29 Sept. 2014 | Senin, 9 Maret 2015 |  
 
-## Lampiran III 
+## Lampiran 3 
 SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015  
 
 |                                        | Periode              |                     |                     | 
