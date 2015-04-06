@@ -65,6 +65,7 @@
         <item>Bab 3.4.1</item>
         <item>Bab 3.4.2</item>
         <item>Bab 3.4.3</item>
+        <item>Bab 3.4.4</item>
         <item>Bab 3.5</item>
         
         <item>Bab 4</item>
@@ -160,14 +161,11 @@
     	<item>lampiran-6</item>
     	<item>lampiran-7</item>
     </string-array>
-        
-    <string name="id_1_1"></string>
     
-    <string name="home_html">file:///android_asset/home.html</string>
+    <string name="home_html">file:///android_asset/juklak.html</string>
     <string name="about_html">file:///android_asset/about.html</string>
     <string name="help_html">file:///android_asset/help.html</string>
     <string name="picture_html">file:///android_asset/images/</string>
-    <string name="lampiran_html">file:///android_asset/lampiran.html</string>
     
     <string-array name="picture_array">
         <item>gambar 1.jpg</item>

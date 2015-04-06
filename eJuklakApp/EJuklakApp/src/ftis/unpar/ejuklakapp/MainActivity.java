@@ -76,7 +76,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		    			view.getSettings().setUseWideViewPort(true);
 		    			view.getSettings().setLayoutAlgorithm(LayoutAlgorithm.NORMAL);
 			        	view.getSettings().setBuiltInZoomControls(true);
-		                menuOpened = true;
+		                openPicture();
 		                i += namaGambar.length;
 		    		}
 		    	}
@@ -98,45 +98,9 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	}
 	
 	public void onSectionAttached(int number) {
-		String[] header = getResources().getStringArray(R.array.navigation_array);
+		String[] header = getResources().getStringArray(R.array.header_array);
 		mTitle = "EJuklak";
-		openBab(header[number]);
-		
-		/* switch (number) {
-		case 1:
-			setTitle(R.string.app_name);
-			mTitle = getTitle();
-			openHome();
-			break;
-		case 2:
-			mTitle = "EJuklak: " + sections[1];
-			openBab("1");
-			break;
-		case 3:
-			mTitle = "EJuklak: " + sections[1];
-			openSubBab("1", getResources().getString(R.string.id_1_1));
-			break;
-		
-		case 4:
-			mTitle = "EJuklak: " + sections[3];
-			openBab("2");
-			break;
-		
-		case 5:
-			mTitle = "EJuklak: " + sections[4];
-			openBab("3");
-			break;
-			
-		case 6:
-			mTitle = "EJuklak: " + sections[5];
-			openBab("4");
-			break;
-
-		case 7:
-			mTitle = "EJuklak: " + sections[6];
-			openLampiran();
-			break;
-		} */
+		openBab(header[number - 1]);
 	
 	}
 	
@@ -182,11 +146,18 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 
 	
 	public void openBab(String header){
+		if(lastState == null){
+			webView.loadUrl(getResources().getString(R.string.home_html));
+		}
+		else{
+			String temp = getResources().getString(R.string.home_html);
+			String file = temp + "#" + header;
+			webView.loadUrl(file);
+		}
 		menuOpened = false;
 		lastState = "home";
 		lastHeader = header;
-		String file = "file:///android_asset/Juklak" + ".html#" + header;
-		webView.loadUrl(file);
+
 	}
 	
 	public void openAbout(){

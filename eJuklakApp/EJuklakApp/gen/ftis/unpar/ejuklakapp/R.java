@@ -17,8 +17,9 @@ public final class R {
         public static final int abc_slide_out_top=0x7f040005;
     }
     public static final class array {
+        public static final int header_array=0x7f0c0001;
         public static final int navigation_array=0x7f0c0000;
-        public static final int picture_array=0x7f0c0001;
+        public static final int picture_array=0x7f0c0002;
     }
     public static final class attr {
         /**  Custom divider drawable to use for elements in the action bar. 
@@ -1270,21 +1271,19 @@ containing a value of this type.
         /**  Description of a share target (both in the list of such or the default share button) in a ShareActionProvider (share UI). [CHAR LIMIT=NONE] 
          */
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000b;
-        public static final int about_html=0x7f0a0017;
+        public static final int about_html=0x7f0a0016;
         public static final int action_about=0x7f0a0013;
         public static final int action_example=0x7f0a0011;
         public static final int action_help=0x7f0a0012;
         public static final int action_settings=0x7f0a0014;
         public static final int app_name=0x7f0a000d;
-        public static final int banner=0x7f0a001b;
-        public static final int help_html=0x7f0a0018;
-        public static final int home_html=0x7f0a0016;
-        public static final int id_1_1=0x7f0a0015;
-        public static final int lampiran_html=0x7f0a001a;
+        public static final int banner=0x7f0a0019;
+        public static final int help_html=0x7f0a0017;
+        public static final int home_html=0x7f0a0015;
         public static final int nav_name=0x7f0a000e;
         public static final int navigation_drawer_close=0x7f0a0010;
         public static final int navigation_drawer_open=0x7f0a000f;
-        public static final int picture_html=0x7f0a0019;
+        public static final int picture_html=0x7f0a0018;
     }
     public static final class style {
         /** 
