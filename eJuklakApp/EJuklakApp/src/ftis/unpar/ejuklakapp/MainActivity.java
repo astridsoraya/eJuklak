@@ -84,7 +84,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		    }
 		});
 		
-		webView.loadUrl(getResources().getString(R.string.home_html));
+		
 	}
 	
 	@Override
