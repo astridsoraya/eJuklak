@@ -1373,14 +1373,14 @@ Syarat untuk mengikuti UTS dan UAS:
    
 ###3.3.2 Tata Tertib Ujian
 
-| **A. Kehadiran**  |
-|-------------------|
+**1. Kehadiran**
+
 1.	Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit sebelum** ujian dimulai. 
 2.	Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.
 3.	Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol).**  
    
-| **B. Perlengkapan**  |
-|----------------------|
+**B. Perlengkapan**
+
 1.	Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian. 
 2.	Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.
 3.	Peserta ujian **dilarang** membawa catatan/buku/rumus/tabel dan kalkulator dalam bentuk dan untuk tujuan apapun ke tempat duduk, kecuali pada mata ujian yang diijinkan oleh dosen yang bersangkutan.
@@ -1389,20 +1389,20 @@ Syarat untuk mengikuti UTS dan UAS:
 6.	Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.
 7.	Peserta ujian dilarang merokok di ruang ujian.
    
-| **C. Pakaian**    |
-|-------------------|
+**C. Pakaian**
+
 1.	Peserta ujian **wajib** mengenakan pakaian yang sopan dan rapi.
 2.	Peserta ujian **wajib** memakai sepatu.
   
-| **D. Tempat Duduk**    |
-|------------------------|
+**D. Tempat Duduk**
+
 1.	Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai dengan nomor ujian.** Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.
 
 2.	Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.
 
 
-| **E. Pelaksanaan**    |
-|-----------------------|
+**E. Pelaksanaan**
+
 1. Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian. 
 
 2. Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.
