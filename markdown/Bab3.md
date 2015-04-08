@@ -129,9 +129,9 @@ Syarat untuk mengikuti UTS dan UAS:
   
 | **D. Tempat Duduk**    |
 |------------------------|
-1.Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai dengan nomor ujian.** Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.
+1.	Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai dengan nomor ujian.** Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.
 
-2.Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.
+2.	Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.
 
 
 | **E. Pelaksanaan**    |
