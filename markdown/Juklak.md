@@ -758,11 +758,6 @@ Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
 | AMS124  | AMS123    | **MATEMATIKA DISKRET/_DISCRETE MATHEMATICS_** Logika dan bukti, himpunan dan fungsi, induksi dan                              rekursi, masalah pencacahan (counting), dan teori graf.                                             |
 | AMS126  |     -     | **ALJABAR MATRIKS/_MATRIX ALGEBRA_** Sistem persamaan linear dan matriks, determinan, ruang vektor                            real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen. |
 | AMS221  | AMS122    | **KALKULUS VEKTOR/_VECTOR CALCULUS_** Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan                          turunan parsial, integral lipat, kalkulus vektor.                                                   |
-
-
-
-| Kode MK | Prasyarat | Nama dan Deskripsi Mata Kuliah                                                                      |
-|---------|:---------:|-----------------------------------------------------------------------------------------------------|
 | AMS231  | AMS122    | **TEORI SUKU BUNGA/_THEORY OF INTEREST_** Bunga tunggal dan bunga majemuk, diskonto, anuitas                                 elementer dan lanjut, amortisasi dan pengakumulasian dana.                                          |
 | AMS251  | AMS122    | **TEORI PELUANG/_PROBABILITY THEORY_** Analisis kombinatorial, aksioma-aksioma peluang, peluang                              bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu,                                distribusi variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk                             teorema limit pusat.                                                                                |
 | AMS253  | APS181,  AMS151 | **KOMPUTASI STATISTIKA/_STATISTICAL COMPUTATION_** Pengenalan dan dasar-dasar pemrograman dalam                               R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis,                                 Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk                                       Inferensi.                                                                                    |
