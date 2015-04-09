@@ -894,7 +894,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | KODE   | NAMA                    | SKS |
 |--------|-------------------------|:---:|
 | APS301 | Filsafat Sains          | 2   |
-| APS302 | Dunia Digital dan Sains |     |
+| APS302 | Dunia Digital dan Sains | 2   |
 
 | KODE   | NAMA                    | SKS |
 |--------|-------------------------|:---:|
@@ -974,7 +974,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 |--------|----------------------------|:---:|
 | APS364 | Cuaca dan Lingkungan       | 3   |
 | APS469 | Kapita Selekta Fisika Bumi | 3   |
-| APS447 | Fisika Laser               |     |
+| APS447 | Fisika Laser               | 3   |
 
 **Kelompok Astrofisika**
 
