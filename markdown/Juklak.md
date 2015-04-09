@@ -1,6 +1,6 @@
 **Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015**
 
-![](images/unpar.png)
+![logo UNPAR](images/unpar.png)
 
 FAKULTAS TEKNOLOGI INFORMASI DAN SAINS (FTIS)
 
@@ -744,8 +744,8 @@ berlaku di Program Studi Matematika adalah memilih salah satu kelompok bidang ka
 bidang kajian minimal 15 sks.
 
 ### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
-![](images/gambar 1.jpg)
-Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika
+![Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika](images/gambar 1.jpg)
+
 
 ### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 
@@ -998,8 +998,7 @@ Selain itu, mahasiswa dapat mengambil, baik mata kuliah wajib maupun mata kuliah
 Pada dasarnya, semua perkuliahan di Jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
 ### 2.6.3 Peta dan Prasyarat Mata Kuliah
-![](images/gambar 2.jpg)
-Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
+![Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika](images/gambar 2.jpg)
 
 ### 2.6.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika
 
@@ -1230,8 +1229,8 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF470 | Pemrograman Jaringan             |     |     |
 
 ### 2.7.3 Peta dan Prasyarat Mata Kuliah
-![](images/gambar 3.jpg)
-Gambar 3. Peta dan Prasyarat Mata Kuliah
+![Gambar 3. Peta dan Prasyarat Mata Kuliah](images/gambar 3.jpg)
+
 
 ### 2.7.4 Deskripsi Mata Kuliah
 | Kode MK | Prasyarat | Nama dan Deskripsi Mata Kuliah                                                                      |
@@ -1679,26 +1678,26 @@ SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015
 | Wisuda                                 | Sabtu, 1 Nov. 2014   | Sabtu, 28 Feb. 2015 | Sabtu, 8 Agt. 2015  | 
 
 ## Lampiran 4 
-![](images/lampiran 4a.png) 
-![](images/lampiran 4b.png) 
-![](images/lampiran 4c.png) 
-![](images/lampiran 4d.png) 
-![](images/lampiran 4e.png) 
-![](images/lampiran 4f.png) 
+![Lampiran 4.1](images/lampiran 4a.png) 
+![Lampiran 4.2](images/lampiran 4b.png) 
+![Lampiran 4.3](images/lampiran 4c.png) 
+![Lampiran 4.4](images/lampiran 4d.png) 
+![Lampiran 4.5](images/lampiran 4e.png) 
+![Lampiran 4.6](images/lampiran 4f.png) 
 
 ## Lampiran 5 
-![](images/lampiran 5a.png) 
-![](images/lampiran 5b.png) 
-![](images/lampiran 5c.png) 
+![Lampiran 5.1](images/lampiran 5a.png) 
+![Lampiran 5.2](images/lampiran 5b.png) 
+![Lampiran 5.3](images/lampiran 5c.png) 
 
 ## Lampiran 6 
-![](images/lampiran 6a.png) 
-![](images/lampiran 6b.png) 
+![Lampiran 6.1](images/lampiran 6a.png) 
+![Lampiran 6.2](images/lampiran 6b.png) 
 
 ## Lampiran 7 
-![](images/lampiran 7a.png) 
-![](images/lampiran 7b.png) 
-![](images/lampiran 7c.png) 
-![](images/lampiran 7d.png) 
-![](images/lampiran 7e.png) 
-![](images/lampiran 7f.png) 
+![Lampiran 7.1](images/lampiran 7a.png) 
+![Lampiran 7.2](images/lampiran 7b.png) 
+![Lampiran 7.3](images/lampiran 7c.png) 
+![Lampiran 7.4](images/lampiran 7d.png) 
+![Lampiran 7.5](images/lampiran 7e.png) 
+![Lampiran 7.6](images/lampiran 7f.png) 
