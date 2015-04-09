@@ -532,13 +532,10 @@ penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi.
 | MKU003 | Agama Katolik              |  2  |   
 | MKU004 | Fenomenologi Agama         |  2  |   
 | MKU008 | Etika                      |  2  |
-   
-|  Kode  |    Mata Kuliah   | SKS |
-|:------:|:----------------:|:---:|
-| MKU009 | Bahasa Indonesia |  2  |
-| MKU010 | Bahasa Inggris   |  2  |
-| MKU011 | Estetika         |  2  |
-| MKU012 | Logika           |  2  |
+| MKU009 | Bahasa Indonesia           |  2  |
+| MKU010 | Bahasa Inggris             |  2  |
+| MKU011 | Estetika                   |  2  |
+| MKU012 | Logika                     |  2  |
 
 ### 2.4.2 Uraian Singkat Mata Kuliah Umum
 
@@ -694,9 +691,6 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 | AMS451 | Teori Permainan              |       |  3  |
 | AMS452 | Proyek Pemodelan             |       |  3  |
 | AMS453 | Statistika Multivariat       |       |  3  |
-   
-| KODE   | NAMA                         |  APR  | SKS |
-|--------|------------------------------|-------|:---:|
 | AMS454 | Statistika Non Parameter     |       |  3  |
 | AMS455 | Perancangan Percobaan        |       |  3  |
 | AMS456 | Teori Antrian                |       |  3  |
@@ -711,27 +705,21 @@ Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 | AMS471 | Sistem Dinamik               |       |  3  |
 | AMS472 | Matematika Biologi           |       |  3  |
 | AMS371 | Persamaan Diferensial Parsial|       |  3  |
-   
-| KODE   | NAMA                         |  APR  | SKS |
-|--------|------------------------------|-------|:---:|
 | AMS372 | Metoda Matematika Lanjut     |       |  3  |
 | AMS374 | Analisi Numerik              |       |  3  |
 | AMS470 | Kapita Selekta Matematika Terapan|       |  3  |
 
 **Lain-lain**
 
-| KODE   | NAMA                         |  APR  | SKS |
-|--------|------------------------------|-------|:---:|
-| AMS323 | Geometri                     |       |  3  |
-| AMS324 | Teori Bilangan               |       |  3  |
-| AMS344 | Komputasi Saintifik          |       |  3  |
-| AMS421 | Struktur Aljabar             |       |  3  |
-| AMS423 | Teori Graf                   |       |  3  |
-| AMS424 | Struktur Aljabar Lanjut      |       |  3  |
-| AMS425 | Analisis Lanjut              |       |  3  |
-   
 | KODE   | NAMA                                    |  APR  | SKS |
 |--------|-----------------------------------------|-------|:---:|
+| AMS323 | Geometri                                |       |  3  |
+| AMS324 | Teori Bilangan                          |       |  3  |
+| AMS344 | Komputasi Saintifik                     |       |  3  |
+| AMS421 | Struktur Aljabar                        |       |  3  |
+| AMS423 | Teori Graf                              |       |  3  |
+| AMS424 | Struktur Aljabar Lanjut                 |       |  3  |
+| AMS425 | Analisis Lanjut                         |       |  3  |
 | AMS480 | Kapita Selekta Pembelajaran Matematika  |       |  3  |
 | AMS381 | Inovasi Pembelajaran Matematika         |       |  3  |
 | AMS382 | Pembelajaran Matematika Sekolah         |       |  3  |
@@ -895,24 +883,18 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | KODE   | NAMA                    | SKS |
 |--------|-------------------------|:---:|
 | APS301 | Filsafat Sains          | 2   |
-| APS302 | Dunia Digital dan Sains | 2   |
-
-| KODE   | NAMA                    | SKS |
-|--------|-------------------------|:---:|
+| APS302 | Dunia Digital dan Sains |     |
 | APS303 | Didaktika Umum          | 3   |
 
 **Kelompok Fisika Teoretik**
 
-| KODE   | NAMA                     | SKS |
-|--------|--------------------------|:---:|
-| APS311 | Dinamika Fluida          | 3   |
-| APS411 | Mekanika Hamiltonian     | 3   |
-| APS317 | Fisika Matematika Lanjut | 3   |
-| APS318 | Pemodelan Matematika     | 3   |
-| APS418 | KapSel. Fisika Matematika| 3   |
-
 | KODE   | NAMA                          | SKS |
 |--------|-------------------------------|:---:|
+| APS311 | Dinamika Fluida               | 3   |
+| APS411 | Mekanika Hamiltonian          | 3   |
+| APS317 | Fisika Matematika Lanjut      | 3   |
+| APS318 | Pemodelan Matematika          | 3   |
+| APS418 | KapSel. Fisika Matematika     | 3   |
 | APS424 | Teori Relativitas             | 3   |
 | APS426 | Komputasi Kuantum             | 3   |
 | APS427 | Mekanika Kuantum Relativistik | 3   |
@@ -926,9 +908,6 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS331 | Pemodelan Matematika Gejala Alam | 3   |
 | APS332 | KapSel. Fisika komputasi         | 3   |
 | APS336 | Instrumentasi Berbasis Komputer  | 3   |
-
-| KODE   | NAMA                             | SKS |
-|--------|----------------------------------|:---:|
 | APS435 | Pengantar Kontrol Otomatis       | 3   |
 | APS436 | KapSel. Fisika Instrumentasi     | 3   |
 
@@ -939,24 +918,18 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 | APS350 | Fisika Instrumentasi Medis       | 3   |
 | APS351 | Biofisika                        | 3   |
 | APS352 | Fisika Kedokteran                | 3   |
-
-| KODE   | NAMA                              | SKS |
-|--------|-----------------------------------|:---:|
 | APS458 | Kapita Selekta Biofisika          | 3   |
 | APS459 | Kapita Selekta Fisika Kedokteran  | 3   |
 
 **Kelompok Fisika Material dan Optika**
 
-| KODE   | NAMA                   | SKS |
-|--------|------------------------|:---:|
-| APS343 | Struktur Materi        | 3   |
-| APS441 | Reologi                | 3   |
-| APS442 | Fisika Polimer         | 3   |
-| APS443 | Pengantar Kristal Cair | 3   |
-| APS444 | Fisika Kristal Cair    | 3   |
-
 | KODE   | NAMA                           | SKS |
 |--------|--------------------------------|:---:|
+| APS343 | Struktur Materi                | 3   |
+| APS441 | Reologi                        | 3   |
+| APS442 | Fisika Polimer                 | 3   |
+| APS443 | Pengantar Kristal Cair         | 3   |
+| APS444 | Fisika Kristal Cair            | 3   |
 | APS445 | Pengantar Nanoteknologi        | 3   |
 | APS446 | Nanoteknologi dan Lingkungan   | 3   |
 | APS447 | Fisika Laser                   | 3   |
@@ -965,28 +938,22 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 
 **Kelompok Fisika Bumi**
 
-| KODE    | NAMA              | SKS |
-|---------|-------------------|:---:|
-| APS 361 | Geofisika         | 3   |
-| APS 362 | Oseanografi Fisis | 3   |
-|         | Pemanasan Global  | 3   |
-
-| KODE   | NAMA                       | SKS |
-|--------|----------------------------|:---:|
+| KODE    | NAMA                      | SKS |
+|---------|---------------------------|:---:|
+| APS361 | Geofisika                  | 3   |
+| APS362 | Oseanografi Fisis          | 3   |
+|        | Pemanasan Global           | 3   |
 | APS364 | Cuaca dan Lingkungan       | 3   |
 | APS469 | Kapita Selekta Fisika Bumi | 3   |
-| APS447 | Fisika Laser               | 3   |
+| APS447 | Fisika Laser               |     |
 
 **Kelompok Astrofisika**
 
-| KODE   | NAMA       | SKS |
-|--------|------------|:---:|
-| APS371 | Tata Surya | 3   |
-| APS372 | Bintang    | 3   |
-| APS373 | Kosmologi  | 3   |
-
-| KODE   | NAMA                       | SKS |
+| KODE   | NAMA       		      | SKS |
 |--------|----------------------------|:---:|
+| APS371 | Tata Surya                 | 3   |
+| APS372 | Bintang                    | 3   |
+| APS373 | Kosmologi                  | 3   |
 | APS474 | Kosmologi Relativistik     | 3   |
 | APS479 | Kapita Selekta Astrofisika | 3   |
 
@@ -1193,9 +1160,6 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF465 | Teknologi Middleware             |     |     |
 | AIF466 | Sistem Terdistribusi             |     |     |
 | AIF468 | Teknologi Multimedia             |     |     |
-
-| KODE   | NAMA                            | APR | SKS |
-|--------|---------------------------------|-----|:---:|
 | AIF339 | Pemodelan Formal                |     | 3   |
 | AIF340 | Komputasi Geometri              |     | 3   |
 | AIF341 | Adm. Jaringan Komputer 1        |     | 3   |
@@ -1216,14 +1180,14 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF452 | Pemrograman Lojik               |     | 2   |  
 | AIF453 | Kecerdasan Bisnis               |     | 3   |
 | AIF454 | Sistem Multi Agen               |     | 2   |
-| AIF455 | Sistem Pendukung Keputusan      |     | 3   |
-| AIF456 | Strategi Sistem Informasi & Arsitektur Perusahaan Berskala Besar |     |  3  |
-| AIF457 | Kewirausahaan Berbasis Teknologi|     |  3  |
-| AIF458 | Kontrol & Audit Teknologi Informasi|     |  3  |
+| AIF455 | Sistem Pendukung Keputusan      |     |     |
+| AIF456 | Strategi Sistem Informasi & Arsitektur Perusahaan Berskala Besar |     |     |
+| AIF457 | Kewirausahaan Berbasis Teknologi|     |     |
+| AIF458 | Kontrol & Audit Teknologi Informasi|     |     |
 | AIF459 | Administrasi Basis Data  |     |     |
 | AIF460 | Manajemen Pengetahuan    |     |     |
-| AIF461 | Pencarian & Temu Kembali Informasi|     |  2  |
-| AIF462 | Manajemen Proses Bisnis          |     |  3  |
+| AIF461 | Pencarian & Temu Kembali Informasi|     |     |
+| AIF462 | Manajemen Proses Bisnis          |     |     |
 | AIF463 | Jaringan Nirkabel                |     |     |
 | AIF464 | Sistem Perusahaan Berskala Besar |     |     |
 | AIF469 | Layanan Berbasis Web             |     |     |
