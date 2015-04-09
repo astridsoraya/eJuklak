@@ -1422,20 +1422,13 @@ Syarat untuk mengikuti UTS dan UAS:
 Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi berupa:
 
 1. Untuk kali pertama: peringatan dari pengawas ujian, yang wajib dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa terkait.
-
 2. Untuk kali kedua dengan kesalahan yang sama: peringatan tertulis dari pimpinan Fakultas, yang arsipnya juga disimpan dalam map mahasiswa terkait.
-
 3. Untuk kali ketiga dengan kesalahan yang sama: pembatalan hak tempuh UTS/UAS mata kuliah di mana kesalahan ketiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
-
 4. Untuk kali keempat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS/UAS **seluruh** mata kuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).  
 Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.  
-  
 Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut:
-
 1. Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
-
 2. Untuk kali kedua: seluruh nilai matakuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
-
 3. Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui rapat pimpinan fakultas.
 
 ###3.3.4 Lain-lain
