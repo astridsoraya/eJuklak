@@ -1410,13 +1410,11 @@ Syarat untuk mengikuti UTS dan UAS:
 7. Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian berakhir. **Kertas buram** terisi atau tidak harus **dikumpulkan kembali** bersama dengan lembar jawab.
 8. Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat **30 menit** setelah ujian dimulai.
 9. Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
-
   1. **Melihat** berkas ujian milik peserta ujian lain
   2. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain
   3. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun
   4. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka)
   5. **Pinjam-meminjam** alat tulis, penghapus, cairan pengoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
-  
 10. Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.
 11. Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujian dengan alasan apapun** (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
 
