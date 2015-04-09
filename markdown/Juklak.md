@@ -1560,8 +1560,7 @@ Evaluasi Keberhasilan Belajar Tahap Akhir dilakukan pada akhir masa studi maksim
 UNPAR, yaitu 7 (tujuh) tahun, atau pada akhir masa studi terpakai selama 14 (empat belas) semester terhitung sejak 
 yang bersangkutan terdaftar sebagai mahasiswa UNPAR.
 
-Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kumulatif (IPK)**, dengan rentang **0,00 
-- 4,00** yang dihitung dengan rumus
+Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kumulatif (IPK)**, dengan rentang **0,00 - 4,00** yang dihitung dengan rumus
 
 ![Indeks Prestasi Kumulatif](images/IPK.png)
 
