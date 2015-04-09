@@ -583,6 +583,7 @@ Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama.
 | MKU003 | Agama Katolik +              |       |  2      |
 | MKU004 | Fenomenologi Agama +         |       |         |
 |        |                              |       |  **19** |
+**Catatan** : (+) = Dapat dipilih salah satu
 
 **Semester 3**
 
