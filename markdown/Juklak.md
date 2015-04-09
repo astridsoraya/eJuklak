@@ -1216,14 +1216,14 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF452 | Pemrograman Lojik               |     | 2   |  
 | AIF453 | Kecerdasan Bisnis               |     | 3   |
 | AIF454 | Sistem Multi Agen               |     | 2   |
-| AIF455 | Sistem Pendukung Keputusan      |     |     |
-| AIF456 | Strategi Sistem Informasi & Arsitektur Perusahaan Berskala Besar |     |     |
-| AIF457 | Kewirausahaan Berbasis Teknologi|     |     |
-| AIF458 | Kontrol & Audit Teknologi Informasi|     |     |
+| AIF455 | Sistem Pendukung Keputusan      |     | 3   |
+| AIF456 | Strategi Sistem Informasi & Arsitektur Perusahaan Berskala Besar |     |  3  |
+| AIF457 | Kewirausahaan Berbasis Teknologi|     |  3  |
+| AIF458 | Kontrol & Audit Teknologi Informasi|     |  3  |
 | AIF459 | Administrasi Basis Data  |     |     |
 | AIF460 | Manajemen Pengetahuan    |     |     |
-| AIF461 | Pencarian & Temu Kembali Informasi|     |     |
-| AIF462 | Manajemen Proses Bisnis          |     |     |
+| AIF461 | Pencarian & Temu Kembali Informasi|     |  2  |
+| AIF462 | Manajemen Proses Bisnis          |     |  3  |
 | AIF463 | Jaringan Nirkabel                |     |     |
 | AIF464 | Sistem Perusahaan Berskala Besar |     |     |
 | AIF469 | Layanan Berbasis Web             |     |     |
