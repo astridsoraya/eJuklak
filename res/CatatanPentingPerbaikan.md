@@ -18,3 +18,5 @@ aturan tambahan --- list md
 ========================================
 symbol diperhatikan(takut berubah)
 ========================================
+Alamat Web pada 3.1.2 diganti dengan studentportal.unpar.ac.id
+========================================

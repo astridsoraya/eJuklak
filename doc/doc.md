@@ -48,3 +48,23 @@ Rabu,04 Maret 2015 <Minggu V pertemuan 1>
 ---------------------------------------------
   Agenda: Development process menuju 0.2, penyelsaian Markdown bab 2 dan 3  
   Progress: Markdown bab 2 dan bab 3 done, pengerjaan MD bab 4 dimulai, perancangan fitur interface indah untuk app dan perencanaan progress ke depan.
+
+Kamis, 05 Maret 2015 <Minggu V pertemuan 2>   
+---------------------------------------------
+  Agenda: Development
+  Progress:Convert HTML,penyelsaian bab 2 MD
+
+Rabu,11 Maret 2015 <Minggu VI pertemuan 1>
+---------------------------------------------
+  Agenda: Lihat Presentasi 
+  Progress: Perbaikan untuk presentasi selanjutnya
+
+Kamis, 12 Maret 2015 <Minggu VI pertemuan 2>   
+---------------------------------------------
+  Agenda: Presentasi 0.2 Alpha
+  Progress:Presentasi 0.2 Alpha done,mulai perbaikan buat presentasi selanjutnya,persiapan UTS
+
+16-27 Maret 
+---------------------------------------------
+###UTS
+
