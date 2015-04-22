@@ -23,3 +23,29 @@ td, th{
 	height: auto; 
 	max-width: 100%;
 }
+
+
+
+p.important{
+	color: #ff0000;
+	text-transform: uppercase;
+	font-weight: 800;
+}
+
+p.important span{
+	color: #000000;
+}
+
+hr.bab{
+	border-color: #ff0000;
+	height:5px;
+	border-width:0;
+	background-color:#ff0000;
+}
+
+hr.subbab{
+	background-color: #09f8f4;
+	border-color: #09f8f4;
+	height:5px;
+	border-width:0;
+}
