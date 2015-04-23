@@ -1463,7 +1463,7 @@ Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai b
   
 #BAB 4 EVALUASI KEBERHASILAN BELAJAR
 
-Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada :
+Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada:
  1.  Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 tentang Evaluasi Keberhasilan Belajar Dalam Mata Kuliah Dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana Dan Program Diploma-III di Lingkungan Universitas Katolik Parahyangan. 
  2.  Keputusan Dekan No. III/FMIPA/2007-04/396-SK tentang Evaluasi Keberhasilan Belajar Tahap Pertama Dan Tahap Kedua Pada Program Stratum-1 Di Lingkungan Fakultas Matematika Dan Ilmu Pengetahuan Alam Universitas Katolik Parahyangan.
 
@@ -1481,7 +1481,7 @@ SK Rektor dan SK Dekan tersebut di atas.
 
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar 
 mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki 
-**Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut : 
+**Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut: 
  
 | Bentuk Kegiatan       | Komponen Kegiatan          | Komponen Evaluasi (Angka)              | Komponen Evaluasi (%)| 
 |---------------------- |----------------------------|----------------------------------------|-----------| 
@@ -1491,7 +1491,7 @@ mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki
 | Seminar/Studi Mandiri | Penyajian, Diskusi/Partisipasi,Penyusunan Makalah/Laporan| Diserahkan ke tiap    fakultas atau prodi | 30% - 50% |
 |           Skripsi            | Penyusunan dan penyajian |   Diserahkan ke tiap fakultas atau prodi                                     |      Diserahkan ke tiap fakultas atau prodi     | 
 
-Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
+Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas, sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
    
 Keberhasilan belajar mahasiswa dalam suatu mata kuliah dinyatakan dengan **Nilai Akhir (NA)** berupa huruf **A, B, C, D,** dan **E**. Nilai Akhir (NA) **A, B, C,** dan **D** berarti lulus, sedangkan Nilai Akhir **E** berarti **tidak lulus**.
    
