@@ -1606,8 +1606,7 @@ pada pasal 5 dari SK Rektor (lihat lampiran).
 
 Lampiran  
 ========
-
-## Lampiran I 
+# Lampiran 1 
 JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015  
 
 | Kegiatan               | Semester Ganjil              | Semester Genap                  | 
@@ -1620,7 +1619,7 @@ JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015
 | UAS                    | Senin-Jumat, 8-20 Des. 2014  | Senin-Jumat, 25 Mei-6 Juni 2015 |  
 | Pengumuman Nilai Akhir | Jumat, 9 Jan. 2015           | Senin, 24 Juni 2015             |  
 
-## Lampiran II  
+# Lampiran 2  
 JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015  
 
 | Tahap                            | Semester Ganjil      | Semester Genap      |  
@@ -1628,18 +1627,17 @@ JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015
 | Tahap 1 (BRP dan 10 SKS)         | Kamis, 14 Juli 2014  | Jumat, 9 Jan 2015   |  
 | Tahap 2 (Pelunasan SKS dan SAPR) | Senin, 29 Sept. 2014 | Senin, 9 Maret 2015 |  
 
-## Lampiran III 
+# Lampiran 3 
 SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015  
 
-|                                        | Periode              |                     |                     | 
+|                                        | Periode(LIX)         | Periode(LX)         |Periode(LXI)         | 
 |----------------------------------------|----------------------|---------------------|---------------------| 
-|                                        | LIX                  | LX                  | LXI                 | 
 | Batas akhir pendaftaran Sidang Sarjana | Jumat, 26 Sept. 2014 | Jumat, 16 Jan. 2015 | Jumat, 12 Jun. 2015 |  
 | Sidang Sarjana                         | Jumat, 3 Okt. 2014   | Jumat, 23 Jan. 2015 | Jumat, 19 Jun. 2015 | 
 | Batas akhir pendaftaran wisuda         | Senin, 6 Okt. 2014   | Senin, 2 Feb. 2015  | Kamis, 25 Jun. 2015 | 
 | Wisuda                                 | Sabtu, 1 Nov. 2014   | Sabtu, 28 Feb. 2015 | Sabtu, 8 Agt. 2015  | 
 
-## Lampiran 4 
+# Lampiran 4 
 ![Lampiran 4.1](images/lampiran 4a.png) 
 ![Lampiran 4.2](images/lampiran 4b.png) 
 ![Lampiran 4.3](images/lampiran 4c.png) 
@@ -1647,16 +1645,16 @@ SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015
 ![Lampiran 4.5](images/lampiran 4e.png) 
 ![Lampiran 4.6](images/lampiran 4f.png) 
 
-## Lampiran 5 
+# Lampiran 5 
 ![Lampiran 5.1](images/lampiran 5a.png) 
 ![Lampiran 5.2](images/lampiran 5b.png) 
 ![Lampiran 5.3](images/lampiran 5c.png) 
 
-## Lampiran 6 
+# Lampiran 6 
 ![Lampiran 6.1](images/lampiran 6a.png) 
 ![Lampiran 6.2](images/lampiran 6b.png) 
 
-## Lampiran 7 
+# Lampiran 7 
 ![Lampiran 7.1](images/lampiran 7a.png) 
 ![Lampiran 7.2](images/lampiran 7b.png) 
 ![Lampiran 7.3](images/lampiran 7c.png) 
