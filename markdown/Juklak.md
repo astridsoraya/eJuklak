@@ -1487,8 +1487,8 @@ mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki
 |---------------------- |----------------------------|----------------------------------------|-----------| 
 | Perkuliahan           | Pelaksanaan Tugas          | Angka Rata-rata Tugas **(ART)**        | 20% - 40% | 
 | Perkuliahan           | Tatap Muka                 | Angka Ujian Tengah **(AUTS)**          | 30% - 50% | 
-| Perkuliahan           |                            | Angka Ujian Akhir Semester **(AUAS)**  | 30% - 50% | 
-| Seminar/Studi Mandiri | Penyajian, Diskusi/Partisipasi,Penyusunan Makalah/Laporan| Diserahkan ke tiap    fakultas atau prodi | 30% - 50% |
+| Perkuliahan           | Tatap Muka                 | Angka Ujian Akhir Semester **(AUAS)**  | 30% - 50% | 
+| Seminar/Studi Mandiri | Penyajian, Diskusi/Partisipasi, Penyusunan Makalah/Laporan| Diserahkan ke tiap    fakultas atau prodi | 30% - 50% |
 |           Skripsi            | Penyusunan dan penyajian |   Diserahkan ke tiap fakultas atau prodi                                     |      Diserahkan ke tiap fakultas atau prodi     | 
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas, sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
