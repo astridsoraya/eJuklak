@@ -1483,7 +1483,7 @@ Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar
 mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki 
 **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut : 
  
-| Bentuk Kegiatan       | Komponen Kegiatan          | Komponen Evaluasi (Angka)              | Komponen Evaluasi(%)| 
+| Bentuk Kegiatan       | Komponen Kegiatan          | Komponen Evaluasi (Angka)              | Komponen Evaluasi (%)| 
 |---------------------- |----------------------------|----------------------------------------|-----------| 
 | Perkuliahan           | Pelaksanaan Tugas          | Angka Rata-rata Tugas **(ART)**        | 20% - 40% | 
 | Perkuliahan           | Tatap Muka                 | Angka Ujian Tengah **(AUTS)**          | 30% - 50% | 
