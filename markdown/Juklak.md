@@ -1483,13 +1483,12 @@ Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar
 mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki 
 **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut : 
  
-| Bentuk Kegiatan       | Komponen Kegiatan          | Komponen Evaluasi                      |           | 
+| Bentuk Kegiatan       | Komponen Kegiatan          | Komponen Evaluasi (Angka)              | Komponen Evaluasi(%)| 
 |---------------------- |----------------------------|----------------------------------------|-----------| 
-|                       |                            | Angka                                  | %         | 
-| Perkuliahan           | Pelaksanaan Tugas          | Angka Rata-rata Tugas **(ART)**            | 20% - 40% | 
-|                       | Tatap Muka                 | Angka Ujian Tengah **(AUTS)**              | 30% - 50% | 
-|                       |                            | Angka Ujian Akhir Semester **(AUAS)**      | 30% - 50% | 
-| Seminar/Studi Mandiri | Penyajian, Diskusi/Partisipasi,Penyusunan Makalah/Laporan         | Diserahkan ke tiap    fakultas atau prodi | 30% - 50% |
+| Perkuliahan           | Pelaksanaan Tugas          | Angka Rata-rata Tugas **(ART)**        | 20% - 40% | 
+| Perkuliahan           | Tatap Muka                 | Angka Ujian Tengah **(AUTS)**          | 30% - 50% | 
+| Perkuliahan           |                            | Angka Ujian Akhir Semester **(AUAS)**  | 30% - 50% | 
+| Seminar/Studi Mandiri | Penyajian, Diskusi/Partisipasi,Penyusunan Makalah/Laporan| Diserahkan ke tiap    fakultas atau prodi | 30% - 50% |
 |           Skripsi            | Penyusunan dan penyajian |   Diserahkan ke tiap fakultas atau prodi                                     |      Diserahkan ke tiap fakultas atau prodi     | 
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
@@ -1514,10 +1513,10 @@ Berdasarkan pertimbangan akademik, Dekan FTIS dapat memutuskan untuk melakukan k
 
 ##4.2 	Evaluasi Keberhasilan Belajar Dalam Suatu Tahap Belajar
 Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa mulai masuk ke program studinya. Evaluasi ini terdiri atas:
-1.	Evaluasi Keberhasilan Belajar Tiap Semester
-2.	Evaluasi Keberhasilan Belajar Tahap Pertama
-3.	Evaluasi Keberhasilan Belajar Tahap Kedua
-4.	Evaluasi Keberhasilan Belajar Tahap Akhir
+ 1. Evaluasi Keberhasilan Belajar Tiap Semester
+ 2. Evaluasi Keberhasilan Belajar Tahap Pertama
+ 3. Evaluasi Keberhasilan Belajar Tahap Kedua
+ 4. Evaluasi Keberhasilan Belajar Tahap Akhir
 
 ###4.2.1  Evaluasi Keberhasilan Belajar Tiap Semester
 Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam **Indeks Prestasi Semester (IPS)** yang mempunyai rentang **0,00 - 4,00** dan dihitung dengan rumus: 
@@ -1583,7 +1582,7 @@ menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:
 | 2,00-2,75 | Memuaskan                                           | 
 | 2,76-3,50 | Sangat Memuaskan                                    | 
 | 3,51-4,00 | Dengan Pujian (masa studi terpakai = 9 semester)    | 
-|           | Sangat Memuaskan (masa studi terpakai > 9 semester) | 
+| 3,51-4,00 | Sangat Memuaskan (masa studi terpakai > 9 semester) | 
 
 ##4.3 	Kemampuan Bahasa Inggris Mahasiswa UNPAR
 Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08/148 tentang Standar Kemampuan Bahasa 
