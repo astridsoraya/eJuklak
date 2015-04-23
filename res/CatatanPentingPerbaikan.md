@@ -24,6 +24,9 @@ Alamat Web pada 3.1.2 diganti dengan studentportal.unpar.ac.id
 
 V 0.4
 Masalah Tabel bab 4
-Lampiran h1
+========================================
+Lampiran pake h1
+========================================
 Beda warna bab dan subbab di navigation
-alternative : zoom di menu 
+========================================
+alternative : zoom di home
