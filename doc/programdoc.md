@@ -1,4 +1,4 @@
-Kelas : MainActivity.java
+Class : MainActivity.java
 ==========================
 Attributes:
 ----------------------
@@ -36,5 +36,24 @@ Methods:
   * title : menyimpan title baru yang akan dipakai untuk menggantikan title lama
  * (public)void onBackPressed() : Method Overiding dari class ActionBarActivity.Berfungsi saat tombol back ditekan oleh user.Sementara ini dipakai untuk exit program sepenuhnya
 
+Class : PlaceHolderFragment.java
+=================================
+Attributes:
+---------------------
+ * final static String ARG_SECTION_NUMBER="section_numbers" : attribut yang menyimpan section number utama
 
+Methods:
+---------------------
+ * (public)static PlaceholderFragment newInstance(int sectionNumber) : method untuk membuat instansi section baru
+  * **parameter(s)**:
+  * sectionNumber : parameter yang akan meminta section number yang di request user
+ * (public)View onCreateView(LayoutInflater inflater, ViewGroup container,Bundle savedInstanceState):Method overiding dari class Fragment.Berfungsi saat view dijalankan
+  * **parameter(s)**:
+  * inflater : parameter default dari eclipse.
+  * container :parameter default dari eclipse.Digunakan untuk mengatur tampilan
+  * savedInstanceState :menyimpan data yang dibutuhkan untuk activity yang diterima dari activity sebelumnya
+ * (public)void onAttach(Activity activity) :method yang dijalankan saat terjadi attach
+  * **parameters** :
+  * activity : menyimpan activity sebelumnya yang dibutuhkan untuk melakukan attach
  
+
