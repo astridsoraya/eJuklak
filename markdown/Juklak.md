@@ -1194,7 +1194,7 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF470 | Pemrograman Jaringan             |     |     |
 
 ### 2.7.3 Peta dan Prasyarat Mata Kuliah
-![Gambar 3. Peta dan Prasyarat Mata Kuliah](images/gambar 3.jpg)
+![Gambar 3. Peta dan Prasyarat Mata Kuliah Teknik Informatika](images/gambar 3.jpg)
 
 
 ### 2.7.4 Deskripsi Mata Kuliah
