@@ -66,5 +66,8 @@ Kamis, 12 Maret 2015 <Minggu VI pertemuan 2>
 
 16-27 Maret 
 ---------------------------------------------
+Rabu, 16 Maret 2015
+---------------------------------------------
+  Agenda: Development 1.0 Alpha dan dokumentasi aplikasi.
 ###UTS
 
