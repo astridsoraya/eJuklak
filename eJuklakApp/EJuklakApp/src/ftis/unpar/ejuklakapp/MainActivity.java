@@ -41,8 +41,10 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	private WebView webView;
 	
 	private boolean menuOpened = false;
+	private boolean pictureOpened = false;
 	private String lastState;
 	private String lastHeader;
+	private String curState;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -128,9 +130,11 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		if(lastState == null){
 			webView.loadUrl(getResources().getString(R.string.home_html));
 		}
+		
 		else{
 			String temp = getResources().getString(R.string.home_html);
 			String file = temp + "#" + header;
+			curState = "Home";
 			webView.loadUrl(file);
 		}
 		menuOpened = false;
@@ -142,12 +146,14 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	public void openAbout(){
 		menuOpened = true;
 		webView.loadUrl(getResources().getString(R.string.about_html));
+		curState = "about";
 		
 	}
 	
 	public void openHelp(){
 		menuOpened = true;
 		webView.loadUrl(getResources().getString(R.string.help_html));
+		curState = "help";
 	}
 	
 	public void openPicture(){
@@ -167,6 +173,12 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 			mNavigationDrawerFragment.getMDrawerLayout().closeDrawer(Gravity.LEFT);
 		}
 		else if(menuOpened){
+			if(lastState=="home"){
+				refreshTitle(getResources().getString(R.string.app_name));
+				openBab(lastHeader);
+			}
+		}
+		else if((curState != "home" && curState != "about") || curState!= "help" ){
 			if(lastState=="home"){
 				refreshTitle(getResources().getString(R.string.app_name));
 				openBab(lastHeader);
