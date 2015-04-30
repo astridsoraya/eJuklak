@@ -19,11 +19,13 @@ td, th{
 }
 
 .kurikulum{
-	display: inline;
-	height: auto; 
-	max-width: 100%;
+    display:block;
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:90%;
+    margin:0 auto;
 }
-
 
 
 p.important{
