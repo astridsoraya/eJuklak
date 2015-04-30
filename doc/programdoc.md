@@ -90,4 +90,34 @@ Methods:
   * **parameter(s)**:
   * fragmentId : ID android untuk aktivitas ini
   * drawerLayout : menyimpan UI dari fragment
+ * (public)void onDrawerClosed(View drawerView):Method yang berfungsi saat Drawer ditutup
+  * **parameter(s)**:
+  * drawerView : Menyimpan current drawerView
+ * (public)void onDrawerOpen(View drawerView):Method yang berfungsi saat Drawer dibuka
+  * **parameter(s)**:
+  * drawerView : Menyimpan current drawerView
+ * (private)void selectItem(int position) : Method support yang digunakan untuk memilih opsi pada "Navigation Drawer"
+  * **parameter(s)**:
+  * position : menyimpan posisi dari opsi yang dipilih
+ * (public)void onAttach(Activity activity) : Method yang dipanggil saat aksi pada opsi yang dipilih dijalankan
+  * **parameter(s)**:
+  * activity : menyimpan aktivitas yang akan dijalankana saat opsi dipilih
+ * (public)void onDetach(): Method yang menghandle saat aksi dihentikan
+ * (public)void onSaveInstanceState(Bundle outState) : Method yang dipanggil saat state disimpang
+  * **parameter(s)** :
+  * outState : Menyimpan state yang akan disimpan
+ * (public)void onConfigurationChanged(Configuration newConfig) : Method yang dipanggil saat kofigurasi dirubah
+  * **parameter(s)** : 
+  * newConfig : Menyimpan konfigurasi baru untuk merubah yang lama
+ * (public)void onCreateOptionsMenu(Menu menu, MenuInflater inflater) : Method yang dipanggil saat membuat menu untuk opsi
+  * **parameter(s)** :
+  * menu : menyimpan layout menu untuk membuat menu opsi
+  * inflater : attribut default dari eclipse untuk merubah ukuran menu
+ * (public)boolean onOptionsItemSelected(MenuItem item) : Method yang menghandle saat item opsi dipilih
+  * **parameter(s)** :
+  * item :menyimpan item yang dipilih user
+ * (private)void showGlobalContextActionBar() : Method bantuan yang menunjukan konteks dari "action bar" secara keseluruhan
+ * (private)ActionBar getActionBar() : Method untuk mendapatkan action bar
+ * (public)DrawerLayout getMDrawerLayout() : Method untuk mendapatkan drawerLayout
+ * (public)static interface NavigationDrawerCallbacks : Memanggil interface "Navigation Drawer"
  
