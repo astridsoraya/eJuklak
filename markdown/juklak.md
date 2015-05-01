@@ -145,7 +145,7 @@ Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS
 UNPAR.
 
 
-### 1.2.1 VISI FTIS
+### 1.2.1 Visi FTIS
 
 Visi FTIS 2020 adalah sebagai berikut: 
 
@@ -185,7 +185,7 @@ akademik yang kondusif merupakan bagian yang sangat penting dalam
 pembentukan manusia yang bermartabat dan pengembangan potensi lokal 
 tersebut. 
 
-### 1.2.2 MISI FTIS
+### 1.2.2 Misi FTIS
 
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
@@ -204,7 +204,7 @@ Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
    keterkaitan proses pembelajaran, penelitian dan pengabdian kepada 
    masyarakat. 
 
-### 1.2.3 TUJUAN FTIS
+### 1.2.3 Tujuan FTIS
 
 Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:
 
@@ -227,7 +227,7 @@ dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang
 akademik dan non akademik serta mengembangkan sarana dan prasarana 
 yang memadai yang memenuhi standar nasional maupun internasional.
 
-### 1.2.4 SASARAN FTIS
+### 1.2.4 Sasaran FTIS
 
 Sasaran FTIS adalah sebagai berikut:
 
@@ -477,7 +477,7 @@ Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS 
 untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR.
 
-### 2.3.1 KULIAH LAYANAN PROGRAM STUDI MATEMATIKA
+### 2.3.1 Kuliah Layanan Program Studi Matematika
 | Kode   | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |--------|-----------------------------|:---:|---------------------|
 | AMS100 | Matematika Informatika      |  4  | Teknik Informatika  |
@@ -496,7 +496,7 @@ untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR.
 | AMS202 | Matematika 4                |  3  | Teknik Sipil        |
 
 
-### 2.3.2 KULIAH LAYANAN PROGRAM STUDI FISIKA
+### 2.3.2 Kuliah Layanan Program Studi Fisika
 
 | Kode    | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |-------- |-----------------------------|:---:|---------------------|
@@ -511,7 +511,7 @@ untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR.
 | APS 189 | Kalkulus I                  |  3  | Teknik Kimia        |
 | FFT 113 | Kosmologi                   |  2  | Filsafat            |
 
-### 2.3.3 KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA
+### 2.3.3 Kuliah Layanan Program Studi Teknik Informatika
 
 | Kode    | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |-------- |-----------------------------|:---:|---------------------|
@@ -732,11 +732,11 @@ penyelenggara mata kuliah tersebut. Adapun persyaratan mata kuliah pilihan yang
 berlaku di Program Studi Matematika adalah memilih salah satu kelompok bidang kajian dan menempuh mata kuliah pilihan 
 bidang kajian minimal 15 sks.
 
-### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
+### 2.5.3 Peta dan Prasyarat Mata Kuliah
 ![Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika](images/gambar 1.jpg)
 
 
-### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
+### 2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
 
 | Kode MK | Prasyarat | Nama dan Deskripsi Mata Kuliah                                                                      |
 |---------|:---------:|-----------------------------------------------------------------------------------------------------|
@@ -1412,7 +1412,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 (berdasarkan SK Rektor UNPAR No. III/PRT/2004-01/07)  
 
 
-###3.4.1 Persyaratan cuti studi
+###3.4.1 Persyaratan Cuti Studi
 
 1. Mahasiswa yang **cuti studi** adalah mahasiswa yang tidak dapat melanjutkan studi untuk kurun waktu tertentu karena alasan-alasan yang dapat dipertanggungjawabkan dan diijinkan oleh UNPAR.
 2. Seorang mahasiswa dapat mengambil cuti studi tidak lebih dari 2 (dua) semester berturut-turut dan sebanyak-banyaknya 4 (empat) semester selama masa studinya.
@@ -1433,7 +1433,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 -> Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan.**
 7.  Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diijinkan, mahasiswa akan dikenakan peraturan **gencat studi.**
 
-###3.4.3 Gencat studi
+###3.4.3 Gencat Studi
 
 Mahasiswa gencat studi adalah mahasiswa yang pada suatu semester tidak melakukan pendaftaran rencana studi sesuai dengan prosedur yang berlaku. Masa gencat studi **diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi. Mahasiwa yang melakukan gencat studi selama **2 (dua) semester berturut-turut atau 3 (tiga) semester tidak berturut-turut** tidak diijinkan melanjutkan studi di lingkungan UNPAR.
 
