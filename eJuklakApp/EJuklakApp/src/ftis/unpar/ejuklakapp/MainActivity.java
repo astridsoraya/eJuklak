@@ -11,25 +11,20 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import android.app.Activity;
-import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.content.Context;
-import android.os.Build;
+import android.graphics.Bitmap;
 import android.os.Bundle;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.widget.DrawerLayout;
+import android.support.v7.app.ActionBar;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Gravity;
-import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.ViewGroup;
-import android.support.v4.widget.DrawerLayout;
 import android.webkit.WebSettings.LayoutAlgorithm;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
-import android.widget.ArrayAdapter;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 
 
@@ -50,6 +45,8 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	private CharSequence mTitle;
 	
 	private WebView webView;
+	private ProgressBar spinningProgressBar;
+	private TextView loadingText;
 	
 	private boolean menuOpened = false;
 	private String lastState;
@@ -121,6 +118,22 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		webView.getSettings().setLayoutAlgorithm(LayoutAlgorithm.NORMAL);
 		webView.getSettings().setBuiltInZoomControls(true);
 		
+		spinningProgressBar = (ProgressBar) findViewById(R.id.progressBar1);
+		loadingText = (TextView) findViewById(R.id.textView1);
+		
+		webView.setWebViewClient(new WebViewClient(){
+			
+			public void onPageStarted (WebView view, String url, Bitmap favicon){
+				spinningProgressBar.setVisibility(View.VISIBLE);
+				loadingText.setVisibility(View.VISIBLE);
+			}
+
+			
+			public void onPageFinished (WebView view, String url){
+				spinningProgressBar.setVisibility(View.GONE);
+				loadingText.setVisibility(View.GONE);
+			}
+		});
 	}
 	
 	@Override
