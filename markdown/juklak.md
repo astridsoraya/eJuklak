@@ -145,7 +145,7 @@ Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS
 UNPAR.
 
 
-### 1.2.1 VISI FTIS
+### 1.2.1 Visi FTIS
 
 Visi FTIS 2020 adalah sebagai berikut: 
 
@@ -185,7 +185,7 @@ akademik yang kondusif merupakan bagian yang sangat penting dalam
 pembentukan manusia yang bermartabat dan pengembangan potensi lokal 
 tersebut. 
 
-### 1.2.2 MISI FTIS
+### 1.2.2 Misi FTIS
 
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
@@ -204,7 +204,7 @@ Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
    keterkaitan proses pembelajaran, penelitian dan pengabdian kepada 
    masyarakat. 
 
-### 1.2.3 TUJUAN FTIS
+### 1.2.3 Tujuan FTIS
 
 Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:
 
@@ -227,7 +227,7 @@ dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang
 akademik dan non akademik serta mengembangkan sarana dan prasarana 
 yang memadai yang memenuhi standar nasional maupun internasional.
 
-### 1.2.4 SASARAN FTIS
+### 1.2.4 Sasaran FTIS
 
 Sasaran FTIS adalah sebagai berikut:
 
@@ -477,7 +477,7 @@ Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS 
 untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR.
 
-### 2.3.1 KULIAH LAYANAN PROGRAM STUDI MATEMATIKA
+### 2.3.1 Kuliah Layanan Program Studi Matematika
 | Kode   | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |--------|-----------------------------|:---:|---------------------|
 | AMS100 | Matematika Informatika      |  4  | Teknik Informatika  |
@@ -496,7 +496,7 @@ untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR.
 | AMS202 | Matematika 4                |  3  | Teknik Sipil        |
 
 
-### 2.3.2 KULIAH LAYANAN PROGRAM STUDI FISIKA
+### 2.3.2 Kuliah Layanan Program Studi Fisika
 
 | Kode    | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |-------- |-----------------------------|:---:|---------------------|
@@ -511,7 +511,7 @@ untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR.
 | APS 189 | Kalkulus I                  |  3  | Teknik Kimia        |
 | FFT 113 | Kosmologi                   |  2  | Filsafat            |
 
-### 2.3.3 KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA
+### 2.3.3 Kuliah Layanan Program Studi Teknik Informatika
 
 | Kode    | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |-------- |-----------------------------|:---:|---------------------|
@@ -732,11 +732,11 @@ penyelenggara mata kuliah tersebut. Adapun persyaratan mata kuliah pilihan yang
 berlaku di Program Studi Matematika adalah memilih salah satu kelompok bidang kajian dan menempuh mata kuliah pilihan 
 bidang kajian minimal 15 sks.
 
-### 2.5.3 PETA DAN PRASYARAT MATA KULIAH
+### 2.5.3 Peta dan Prasyarat Mata Kuliah
 ![Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika](images/gambar 1.jpg)
 
 
-### 2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
+### 2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
 
 | Kode MK | Prasyarat | Nama dan Deskripsi Mata Kuliah                                                                      |
 |---------|:---------:|-----------------------------------------------------------------------------------------------------|
@@ -1412,7 +1412,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 (berdasarkan SK Rektor UNPAR No. III/PRT/2004-01/07)  
 
 
-###3.4.1 Persyaratan cuti studi
+###3.4.1 Persyaratan Cuti Studi
 
 1. Mahasiswa yang **cuti studi** adalah mahasiswa yang tidak dapat melanjutkan studi untuk kurun waktu tertentu karena alasan-alasan yang dapat dipertanggungjawabkan dan diijinkan oleh UNPAR.
 2. Seorang mahasiswa dapat mengambil cuti studi tidak lebih dari 2 (dua) semester berturut-turut dan sebanyak-banyaknya 4 (empat) semester selama masa studinya.
@@ -1433,7 +1433,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 -> Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan.**
 7.  Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diijinkan, mahasiswa akan dikenakan peraturan **gencat studi.**
 
-###3.4.3 Gencat studi
+###3.4.3 Gencat Studi
 
 Mahasiswa gencat studi adalah mahasiswa yang pada suatu semester tidak melakukan pendaftaran rencana studi sesuai dengan prosedur yang berlaku. Masa gencat studi **diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi. Mahasiwa yang melakukan gencat studi selama **2 (dua) semester berturut-turut atau 3 (tiga) semester tidak berturut-turut** tidak diijinkan melanjutkan studi di lingkungan UNPAR.
 
@@ -1606,8 +1606,7 @@ pada pasal 5 dari SK Rektor (lihat lampiran).
 
 Lampiran  
 ========
-# Lampiran 1 
-JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015  
+# Lampiran 1 Jadwal Akademik Tahun Akademik 2014/2015
 
 | Kegiatan               | Semester Ganjil              | Semester Genap                  | 
 |----------------------- |------------------------------|---------------------------------| 
@@ -1619,16 +1618,14 @@ JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015
 | UAS                    | Senin-Jumat, 8-20 Des. 2014  | Senin-Jumat, 25 Mei-6 Juni 2015 |  
 | Pengumuman Nilai Akhir | Jumat, 9 Jan. 2015           | Senin, 24 Juni 2015             |  
 
-# Lampiran 2  
-JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015  
+# Lampiran 2 Jadwal Pembayaran Biaya Studi Tahun Akademik 2014/2015 
 
 | Tahap                            | Semester Ganjil      | Semester Genap      |  
 |--------------------------------- |----------------------|---------------------|  
 | Tahap 1 (BRP dan 10 SKS)         | Kamis, 14 Juli 2014  | Jumat, 9 Jan 2015   |  
 | Tahap 2 (Pelunasan SKS dan SAPR) | Senin, 29 Sept. 2014 | Senin, 9 Maret 2015 |  
 
-# Lampiran 3 
-SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015  
+# Lampiran 3 Sidang Sarjana dan Wisuda Tahun Akademik 2014/2015
 
 |                                        | Periode(LIX)         | Periode(LX)         |Periode(LXI)         | 
 |----------------------------------------|----------------------|---------------------|---------------------| 
@@ -1637,7 +1634,7 @@ SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015
 | Batas akhir pendaftaran wisuda         | Senin, 6 Okt. 2014   | Senin, 2 Feb. 2015  | Kamis, 25 Jun. 2015 | 
 | Wisuda                                 | Sabtu, 1 Nov. 2014   | Sabtu, 28 Feb. 2015 | Sabtu, 8 Agt. 2015  | 
 
-# Lampiran 4 
+# Lampiran 4 Keputusan Rektor UNPAR Tentang Evaluasi Keberhasilan Belajar Dalam Mata Kuliah dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana dan Diploma III di Lingkungan Universitas Katolik Parahyangan
 ![Lampiran 4.1](images/lampiran 4a.png) 
 ![Lampiran 4.2](images/lampiran 4b.png) 
 ![Lampiran 4.3](images/lampiran 4c.png) 
@@ -1645,16 +1642,16 @@ SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015
 ![Lampiran 4.5](images/lampiran 4e.png) 
 ![Lampiran 4.6](images/lampiran 4f.png) 
 
-# Lampiran 5 
+# Lampiran 5 Keputusan Rektor UNPAR Tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan 
 ![Lampiran 5.1](images/lampiran 5a.png) 
 ![Lampiran 5.2](images/lampiran 5b.png) 
 ![Lampiran 5.3](images/lampiran 5c.png) 
 
-# Lampiran 6 
+# Lampiran 6 Keputusan Rektor UNPAR Tentang Aturan Bagi Mahasiswa Yang Cuti Studi dan Mahasiswa Yang Tidak Aktif Pada Program Sarjana dan Program Diploma III di Universitas Katolik Parahyangan
 ![Lampiran 6.1](images/lampiran 6a.png) 
 ![Lampiran 6.2](images/lampiran 6b.png) 
 
-# Lampiran 7 
+# Lampiran 7 Keputusan Rektor UNPAR Tentang Peraturan Tata Tertib Mahasiswa dan Prosedur Penjatuhan Sanksi
 ![Lampiran 7.1](images/lampiran 7a.png) 
 ![Lampiran 7.2](images/lampiran 7b.png) 
 ![Lampiran 7.3](images/lampiran 7c.png) 
