@@ -1606,8 +1606,7 @@ pada pasal 5 dari SK Rektor (lihat lampiran).
 
 Lampiran  
 ========
-# Lampiran 1 
-JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015  
+# Lampiran 1 Jadwal Akademik Tahun Akademik 2014/2015
 
 | Kegiatan               | Semester Ganjil              | Semester Genap                  | 
 |----------------------- |------------------------------|---------------------------------| 
@@ -1619,16 +1618,14 @@ JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015
 | UAS                    | Senin-Jumat, 8-20 Des. 2014  | Senin-Jumat, 25 Mei-6 Juni 2015 |  
 | Pengumuman Nilai Akhir | Jumat, 9 Jan. 2015           | Senin, 24 Juni 2015             |  
 
-# Lampiran 2  
-JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015  
+# Lampiran 2 Jadwal Pembayaran Biaya Studi Tahun Akademik 2014/2015 
 
 | Tahap                            | Semester Ganjil      | Semester Genap      |  
 |--------------------------------- |----------------------|---------------------|  
 | Tahap 1 (BRP dan 10 SKS)         | Kamis, 14 Juli 2014  | Jumat, 9 Jan 2015   |  
 | Tahap 2 (Pelunasan SKS dan SAPR) | Senin, 29 Sept. 2014 | Senin, 9 Maret 2015 |  
 
-# Lampiran 3 
-SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015  
+# Lampiran 3 Sidang Sarjana dan Wisuda Tahun Akademik 2014/2015
 
 |                                        | Periode(LIX)         | Periode(LX)         |Periode(LXI)         | 
 |----------------------------------------|----------------------|---------------------|---------------------| 
@@ -1637,7 +1634,7 @@ SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015
 | Batas akhir pendaftaran wisuda         | Senin, 6 Okt. 2014   | Senin, 2 Feb. 2015  | Kamis, 25 Jun. 2015 | 
 | Wisuda                                 | Sabtu, 1 Nov. 2014   | Sabtu, 28 Feb. 2015 | Sabtu, 8 Agt. 2015  | 
 
-# Lampiran 4 
+# Lampiran 4 Keputusan Rektor UNPAR Tentang Evaluasi Keberhasilan Belajar Dalam Mata Kuliah dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana dan Diploma III di Lingkungan Universitas Katolik Parahyangan
 ![Lampiran 4.1](images/lampiran 4a.png) 
 ![Lampiran 4.2](images/lampiran 4b.png) 
 ![Lampiran 4.3](images/lampiran 4c.png) 
@@ -1645,16 +1642,16 @@ SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015
 ![Lampiran 4.5](images/lampiran 4e.png) 
 ![Lampiran 4.6](images/lampiran 4f.png) 
 
-# Lampiran 5 
+# Lampiran 5 Keputusan Rektor UNPAR Tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan 
 ![Lampiran 5.1](images/lampiran 5a.png) 
 ![Lampiran 5.2](images/lampiran 5b.png) 
 ![Lampiran 5.3](images/lampiran 5c.png) 
 
-# Lampiran 6 
+# Lampiran 6 Keputusan Rektor UNPAR Tentang Aturan Bagi Mahasiswa Yang Cuti Studi dan Mahasiswa Yang Tidak Aktif Pada Progrm Sarjana dan Program Diploma III di Universitas Katolik Parahyangan
 ![Lampiran 6.1](images/lampiran 6a.png) 
 ![Lampiran 6.2](images/lampiran 6b.png) 
 
-# Lampiran 7 
+# Lampiran 7 Keputusan Rektor UNPAR Tentang Peraturan Tata Tertib Mahasiswa dan Prosedur Penjatuhan Sanksi
 ![Lampiran 7.1](images/lampiran 7a.png) 
 ![Lampiran 7.2](images/lampiran 7b.png) 
 ![Lampiran 7.3](images/lampiran 7c.png) 
