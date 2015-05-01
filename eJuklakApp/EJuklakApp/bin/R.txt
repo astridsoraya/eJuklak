@@ -4,9 +4,7 @@ int anim abc_slide_in_bottom 0x7f040002
 int anim abc_slide_in_top 0x7f040003
 int anim abc_slide_out_bottom 0x7f040004
 int anim abc_slide_out_top 0x7f040005
-int array header_array 0x7f0c0001
-int array navigation_array 0x7f0c0000
-int array picture_array 0x7f0c0002
+int array picture_array 0x7f0c0000
 int attr actionBarDivider 0x7f01000f
 int attr actionBarItemBackground 0x7f010010
 int attr actionBarSize 0x7f01000e
@@ -366,9 +364,10 @@ int string action_example 0x7f0a0011
 int string action_help 0x7f0a0012
 int string action_settings 0x7f0a0014
 int string app_name 0x7f0a000d
-int string banner 0x7f0a0019
+int string banner 0x7f0a001a
 int string help_html 0x7f0a0017
 int string home_html 0x7f0a0015
+int string home_url 0x7f0a0019
 int string nav_name 0x7f0a000e
 int string navigation_drawer_close 0x7f0a0010
 int string navigation_drawer_open 0x7f0a000f

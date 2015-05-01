@@ -1,5 +1,16 @@
 package ftis.unpar.ejuklakapp;
 
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.ArrayList;
+
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
 import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
@@ -44,14 +55,61 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	private String lastState;
 	private String lastHeader;
 	
+	private static ArrayList<String> id_anchors = new ArrayList<String>();
+	private static ArrayList<String> title_anchors = new ArrayList<String>();
+	
+	public static ArrayList<String> getIdAnchors(){
+		return id_anchors;
+	}
+	
+	public static ArrayList<String> getTitleAnchors(){
+		return title_anchors;
+	}
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
+		mTitle = getTitle();
+
+		
+		// Set up the tags
+		
+		  File input = new File(getCacheDir()+"/"+getResources().getString(R.string.home_url));
+		  try {
+		    InputStream is = getAssets().open(getResources().getString(R.string.home_url));
+		    int size = is.available();
+		    byte[] buffer = new byte[size];
+		    is.read(buffer);
+		    is.close();
+
+
+		    FileOutputStream fos = new FileOutputStream(input);
+		    fos.write(buffer);
+		    fos.close();
+		  } 
+		  catch (Exception e) { 
+			  throw new RuntimeException(e); 
+	      }
+		  
+		try {
+			Document doc = Jsoup.parse(input, "UTF-8");
+			Elements headers = doc.select("h1, h2, h3, h4, h5, h6");
+			
+			for(Element temp_anchor : headers){
+				id_anchors.add(temp_anchor.attr("id"));
+				title_anchors.add(temp_anchor.html());
+			}
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
 		
 		mNavigationDrawerFragment = (NavigationDrawerFragment) getSupportFragmentManager()
 				.findFragmentById(R.id.navigation_drawer);
-		mTitle = getTitle();
 		
 		// Set up the drawer.
 		mNavigationDrawerFragment.setUp(R.id.navigation_drawer,
@@ -76,10 +134,8 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	}
 	
 	public void onSectionAttached(int number) {
-		String[] header = getResources().getStringArray(R.array.header_array);
 		mTitle = "EJuklak";
-		openBab(header[number - 1]);
-	
+		openBab(id_anchors.get(number - 1));
 	}
 	
 	public void restoreActionBar() {
