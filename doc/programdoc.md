@@ -121,3 +121,8 @@ Methods:
  * (public)DrawerLayout getMDrawerLayout() : Method untuk mendapatkan drawerLayout
  * (public)static interface NavigationDrawerCallbacks : Memanggil interface "Navigation Drawer"
  
+Frameworks
+=====================
+Jsoup Framework : 
+-------------------
+Jsoup framework adalah framework berupa libary java untuk bekerja dalam html.Guna utama dari Jsoup framework ini adalah parsing dan API editor.Pada app kami,kami gunakan Jsoup ini untuk membangkitkan parsing-parsing bab secara otomatis dengan pemecahnya yakni header (h1,h2,h3,...,h6).Kelemahan pemakaian framework ini adalah lambat,namun,Jsoup ini merupakan open source sehingga support untuk di improve
