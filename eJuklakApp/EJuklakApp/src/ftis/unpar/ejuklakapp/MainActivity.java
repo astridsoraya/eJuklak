@@ -241,6 +241,9 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 				openBab(lastHeader);
 			}
 		}
+		else if(webView.getUrl().substring(0, 28).equals("file:///android_asset/images")){
+			openBab(lastHeader);
+		}
 		else{
 			super.onBackPressed();
 		}
