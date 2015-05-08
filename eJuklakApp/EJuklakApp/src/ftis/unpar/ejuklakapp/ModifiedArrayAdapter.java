@@ -25,8 +25,6 @@ public class ModifiedArrayAdapter extends ArrayAdapter{
 		View v = super.getView(position, convertView, parent);
 		
 		if(attributes.get(position).equals("h1")){
-			System.out.println("Tag: " + attributes.get(position));
-			System.out.println("Anchor: " + anchor.get(position));
 			v.setBackgroundColor(Color.RED);
 		}
 		else{

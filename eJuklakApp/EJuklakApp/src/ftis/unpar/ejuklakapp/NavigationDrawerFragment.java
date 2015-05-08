@@ -50,6 +50,8 @@ public class NavigationDrawerFragment extends Fragment {
 	 */
 	private ActionBarDrawerToggle mDrawerToggle;
 
+	private ModifiedArrayAdapter modifiedArrayAdapter;
+	
 	private DrawerLayout mDrawerLayout;
 	private ListView mDrawerListView;
 	private View mFragmentContainerView;
@@ -80,6 +82,10 @@ public class NavigationDrawerFragment extends Fragment {
 
 		// Select either the default item (0) or the last selected item.
 		selectItem(mCurrentSelectedPosition);
+		
+		modifiedArrayAdapter = new ModifiedArrayAdapter(getActionBar()
+				.getThemedContext(), R.layout.custom_list_item,
+				R.id.textListItem, MainActivity.getTitleAnchors(), MainActivity.getHeadingAnchors());
 	}
 
 	@Override
@@ -104,12 +110,6 @@ public class NavigationDrawerFragment extends Fragment {
 					}
 				});
 		
-		ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(getActionBar()
-				.getThemedContext(), android.R.layout.simple_list_item_1,
-				android.R.id.text1, MainActivity.getTitleAnchors());
-		ModifiedArrayAdapter modifiedArrayAdapter = new ModifiedArrayAdapter(getActionBar()
-				.getThemedContext(), android.R.layout.simple_list_item_1,
-				android.R.id.text1, MainActivity.getTitleAnchors(), MainActivity.getHeadingAnchors());
 		mDrawerListView.setAdapter(modifiedArrayAdapter);
 		mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
 		return mDrawerListView;
@@ -293,15 +293,5 @@ public class NavigationDrawerFragment extends Fragment {
 	public DrawerLayout getMDrawerLayout(){
 		return mDrawerLayout;
 	}
-	
-	/**
-	 * Callbacks interface that all activities using this fragment must
-	 * implement.
-	 */
-	public static interface NavigationDrawerCallbacks {
-		/**
-		 * Called when an item in the navigation drawer is selected.
-		 */
-		void onNavigationDrawerItemSelected(int position);
-	}
+
 }

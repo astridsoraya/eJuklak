@@ -28,8 +28,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 
-public class MainActivity extends ActionBarActivity implements
-NavigationDrawerFragment.NavigationDrawerCallbacks {
+public class MainActivity extends ActionBarActivity implements NavigationDrawerCallbacks {
 
 	/**
 	* Fragment managing the behaviors, interactions and presentation of the
@@ -45,6 +44,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	private CharSequence mTitle;
 	
 	private WebView webView;
+	private ModifiedWebViewClient webViewClient;
 	private ProgressBar spinningProgressBar;
 	private TextView loadingText;
 	
@@ -75,6 +75,9 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 
 		mTitle = getTitle();
 
+		id_anchors.clear();
+		title_anchors.clear();
+		heading_anchors.clear();
 		
 		// Set up the tags
 		
@@ -127,19 +130,8 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 		spinningProgressBar = (ProgressBar) findViewById(R.id.progressBar1);
 		loadingText = (TextView) findViewById(R.id.textView1);
 		
-		webView.setWebViewClient(new WebViewClient(){
-			
-			public void onPageStarted (WebView view, String url, Bitmap favicon){
-				spinningProgressBar.setVisibility(View.VISIBLE);
-				loadingText.setVisibility(View.VISIBLE);
-			}
-
-			
-			public void onPageFinished (WebView view, String url){
-				spinningProgressBar.setVisibility(View.GONE);
-				loadingText.setVisibility(View.GONE);
-			}
-		});
+		webViewClient = new ModifiedWebViewClient(spinningProgressBar, loadingText);
+		webView.setWebViewClient(webViewClient);
 	}
 	
 	@Override
