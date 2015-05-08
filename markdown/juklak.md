@@ -1653,7 +1653,7 @@ Lampiran
 ![Lampiran 5.3](images/lampiran_5c.png) 
 
 # Lampiran 6 
-**Keputusan Rektor UNPAR Tentang Aturan Bagi Mahasiswa Yang Cuti Studi dan Mahasiswa Yang Tidak Aktif Pada Program** Sarjana dan Program Diploma III di Universitas Katolik Parahyangan
+**Keputusan Rektor UNPAR Tentang Aturan Bagi Mahasiswa Yang Cuti Studi dan Mahasiswa Yang Tidak Aktif Pada Program Sarjana dan Program Diploma III di Universitas Katolik Parahyangan**
 ![Lampiran 6.1](images/lampiran_6a.png) 
 ![Lampiran 6.2](images/lampiran_6b.png) 
 
