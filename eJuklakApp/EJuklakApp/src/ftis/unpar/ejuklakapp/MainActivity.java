@@ -54,6 +54,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	
 	private static ArrayList<String> id_anchors = new ArrayList<String>();
 	private static ArrayList<String> title_anchors = new ArrayList<String>();
+	private static ArrayList<String> heading_anchors = new ArrayList<String>();
 	
 	public static ArrayList<String> getIdAnchors(){
 		return id_anchors;
@@ -61,6 +62,10 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 	
 	public static ArrayList<String> getTitleAnchors(){
 		return title_anchors;
+	}
+	
+	public static ArrayList<String> getHeadingAnchors(){
+		return heading_anchors;
 	}
 	
 	@Override
@@ -97,6 +102,7 @@ NavigationDrawerFragment.NavigationDrawerCallbacks {
 			for(Element temp_anchor : headers){
 				id_anchors.add(temp_anchor.attr("id"));
 				title_anchors.add(temp_anchor.html());
+				heading_anchors.add(temp_anchor.tagName());
 			}
 			
 		} catch (IOException e) {
