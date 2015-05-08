@@ -733,7 +733,7 @@ berlaku di Program Studi Matematika adalah memilih salah satu kelompok bidang ka
 bidang kajian minimal 15 sks.
 
 ### 2.5.3 Peta dan Prasyarat Mata Kuliah
-![Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika](images/gambar 1.jpg)
+![Gambar 1. Peta dan Prasyarat Mata Kuliah Program Studi Matematika](images/gambar_1.jpg)
 
 
 ### 2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
@@ -966,7 +966,7 @@ Selain itu, mahasiswa dapat mengambil, baik mata kuliah wajib maupun mata kuliah
 Pada dasarnya, semua perkuliahan di Jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
 ### 2.6.3 Peta dan Prasyarat Mata Kuliah
-![Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika](images/gambar 2.jpg)
+![Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika](images/gambar_2.jpg)
 
 ### 2.6.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika
 
@@ -1194,7 +1194,7 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF470 | Pemrograman Jaringan             |     |     |
 
 ### 2.7.3 Peta dan Prasyarat Mata Kuliah
-![Gambar 3. Peta dan Prasyarat Mata Kuliah Teknik Informatika](images/gambar 3.jpg)
+![Gambar 3. Peta dan Prasyarat Mata Kuliah Teknik Informatika](images/gambar_3.jpg)
 
 
 ### 2.7.4 Deskripsi Mata Kuliah
@@ -1639,29 +1639,29 @@ Lampiran
 
 # Lampiran 4 
 **Keputusan Rektor UNPAR Tentang Evaluasi Keberhasilan Belajar Dalam Mata Kuliah dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana dan Diploma III di Lingkungan Universitas Katolik Parahyangan**
-![Lampiran 4.1](images/lampiran 4a.png) 
-![Lampiran 4.2](images/lampiran 4b.png) 
-![Lampiran 4.3](images/lampiran 4c.png) 
-![Lampiran 4.4](images/lampiran 4d.png) 
-![Lampiran 4.5](images/lampiran 4e.png) 
-![Lampiran 4.6](images/lampiran 4f.png) 
+![Lampiran 4.1](images/lampiran_4a.png) 
+![Lampiran 4.2](images/lampiran_4b.png) 
+![Lampiran 4.3](images/lampiran_4c.png) 
+![Lampiran 4.4](images/lampiran_4d.png) 
+![Lampiran 4.5](images/lampiran_4e.png) 
+![Lampiran 4.6](images/lampiran_4f.png) 
 
 # Lampiran 5 
 **Keputusan Rektor UNPAR Tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan**
-![Lampiran 5.1](images/lampiran 5a.png) 
-![Lampiran 5.2](images/lampiran 5b.png) 
-![Lampiran 5.3](images/lampiran 5c.png) 
+![Lampiran 5.1](images/lampiran_5a.png) 
+![Lampiran 5.2](images/lampiran_5b.png) 
+![Lampiran 5.3](images/lampiran_5c.png) 
 
 # Lampiran 6 
-**Keputusan Rektor UNPAR Tentang Aturan Bagi Mahasiswa Yang Cuti Studi dan Mahasiswa Yang Tidak Aktif Pada Program** Sarjana dan Program Diploma III di Universitas Katolik Parahyangan
-![Lampiran 6.1](images/lampiran 6a.png) 
-![Lampiran 6.2](images/lampiran 6b.png) 
+**Keputusan Rektor UNPAR Tentang Aturan Bagi Mahasiswa Yang Cuti Studi dan Mahasiswa Yang Tidak Aktif Pada Program Sarjana dan Program Diploma III di Universitas Katolik Parahyangan**
+![Lampiran 6.1](images/lampiran_6a.png) 
+![Lampiran 6.2](images/lampiran_6b.png) 
 
 # Lampiran 7 
 **Keputusan Rektor UNPAR Tentang Peraturan Tata Tertib Mahasiswa dan Prosedur Penjatuhan Sanksi**
-![Lampiran 7.1](images/lampiran 7a.png) 
-![Lampiran 7.2](images/lampiran 7b.png) 
-![Lampiran 7.3](images/lampiran 7c.png) 
-![Lampiran 7.4](images/lampiran 7d.png) 
-![Lampiran 7.5](images/lampiran 7e.png) 
-![Lampiran 7.6](images/lampiran 7f.png) 
+![Lampiran 7.1](images/lampiran_7a.png) 
+![Lampiran 7.2](images/lampiran_7b.png) 
+![Lampiran 7.3](images/lampiran_7c.png) 
+![Lampiran 7.4](images/lampiran_7d.png) 
+![Lampiran 7.5](images/lampiran_7e.png) 
+![Lampiran 7.6](images/lampiran_7f.png) 
