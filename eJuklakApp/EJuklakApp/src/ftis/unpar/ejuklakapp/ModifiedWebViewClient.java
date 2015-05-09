@@ -20,8 +20,17 @@ public class ModifiedWebViewClient extends WebViewClient{
 	public void onPageStarted (WebView view, String url, Bitmap favicon){
 		spinningProgressBar.setVisibility(View.VISIBLE);
 		loadingText.setVisibility(View.VISIBLE);
+		
+		String temp = url.substring(url.length() - 3);
+		if(temp.equals("png") || temp.equals("jpg") || temp.equals("gif")){
+			view.getSettings().setBuiltInZoomControls(true);
+		}
+		else{
+			view.getSettings().setBuiltInZoomControls(false);
+		}
+		
 	}
-
+	
 	public void onPageFinished (WebView view, String url){
 		spinningProgressBar.setVisibility(View.GONE);
 		loadingText.setVisibility(View.GONE);

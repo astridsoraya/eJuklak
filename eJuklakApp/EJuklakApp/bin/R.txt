@@ -4,7 +4,6 @@ int anim abc_slide_in_bottom 0x7f040002
 int anim abc_slide_in_top 0x7f040003
 int anim abc_slide_out_bottom 0x7f040004
 int anim abc_slide_out_top 0x7f040005
-int array picture_array 0x7f0c0000
 int attr actionBarDivider 0x7f01000f
 int attr actionBarItemBackground 0x7f010010
 int attr actionBarSize 0x7f01000e
@@ -347,8 +346,8 @@ int layout custom_list_item 0x7f030019
 int layout fragment_main 0x7f03001a
 int layout fragment_navigation_drawer 0x7f03001b
 int layout support_simple_spinner_dropdown_item 0x7f03001c
-int menu global 0x7f0d0000
-int menu main 0x7f0d0001
+int menu global 0x7f0c0000
+int menu main 0x7f0c0001
 int string abc_action_bar_home_description 0x7f0a0001
 int string abc_action_bar_up_description 0x7f0a0002
 int string abc_action_menu_overflow_description 0x7f0a0003
@@ -368,14 +367,13 @@ int string action_example 0x7f0a0011
 int string action_help 0x7f0a0012
 int string action_settings 0x7f0a0014
 int string app_name 0x7f0a000d
-int string banner 0x7f0a001a
+int string banner 0x7f0a0019
 int string help_html 0x7f0a0017
 int string home_html 0x7f0a0015
-int string home_url 0x7f0a0019
+int string home_url 0x7f0a0018
 int string nav_name 0x7f0a000e
 int string navigation_drawer_close 0x7f0a0010
 int string navigation_drawer_open 0x7f0a000f
-int string picture_html 0x7f0a0018
 int style AppBaseTheme 0x7f0b008b
 int style AppTheme 0x7f0b008c
 int style CustomActionBarTheme 0x7f0b008d

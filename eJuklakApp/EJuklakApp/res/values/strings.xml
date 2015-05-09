@@ -13,37 +13,11 @@
     <string name="home_html">file:///android_asset/juklak.html</string>
     <string name="about_html">file:///android_asset/about.html</string>
     <string name="help_html">file:///android_asset/help.html</string>
-    <string name="picture_html">file:///android_asset/images/</string>
     
     <string name="home_url">juklak.html</string>
-    
-    <string-array name="picture_array">
-        <item>gambar 1.jpg</item>
-        <item>gambar 2.jpg</item>
-        <item>gambar 3.jpg</item>
-        <item>lampiran 4a.png</item>
-        <item>lampiran 4b.png</item>
-        <item>lampiran 4c.png</item>
-        <item>lampiran 4d.png</item>
-        <item>lampiran 4e.png</item>
-        <item>lampiran 4f.png</item>
-        <item>lampiran 5a.png</item>
-        <item>lampiran 5b.png</item>
-        <item>lampiran 5c.png</item>
-        <item>lampiran 6a.png</item>
-        <item>lampiran 6b.png</item>
-        <item>lampiran 7a.png</item>
-        <item>lampiran 7b.png</item>
-        <item>lampiran 7c.png</item>
-        <item>lampiran 7d.png</item>
-        <item>lampiran 7e.png</item>
-        <item>lampiran 7f.png</item>
-    </string-array>
     
     <color name="white">#FFFFFF</color>
     <color name="ferrari_red">#F70D1A</color>
     <color name="black">#000000</color>
     <color name="navy_blue">#000080</color>
-    <color name="platinum">#E5E4E2</color>
-    <string name="banner">Selamat datang di EJuklak IT Unpar!</string>
 </resources>

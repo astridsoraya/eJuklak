@@ -16,9 +16,6 @@ public final class R {
         public static final int abc_slide_out_bottom=0x7f040004;
         public static final int abc_slide_out_top=0x7f040005;
     }
-    public static final class array {
-        public static final int picture_array=0x7f0c0000;
-    }
     public static final class attr {
         /**  Custom divider drawable to use for elements in the action bar. 
          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -1227,8 +1224,8 @@ containing a value of this type.
         public static final int support_simple_spinner_dropdown_item=0x7f03001c;
     }
     public static final class menu {
-        public static final int global=0x7f0d0000;
-        public static final int main=0x7f0d0001;
+        public static final int global=0x7f0c0000;
+        public static final int main=0x7f0c0001;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
@@ -1277,14 +1274,13 @@ containing a value of this type.
         public static final int action_help=0x7f0a0012;
         public static final int action_settings=0x7f0a0014;
         public static final int app_name=0x7f0a000d;
-        public static final int banner=0x7f0a001a;
+        public static final int banner=0x7f0a0019;
         public static final int help_html=0x7f0a0017;
         public static final int home_html=0x7f0a0015;
-        public static final int home_url=0x7f0a0019;
+        public static final int home_url=0x7f0a0018;
         public static final int nav_name=0x7f0a000e;
         public static final int navigation_drawer_close=0x7f0a0010;
         public static final int navigation_drawer_open=0x7f0a000f;
-        public static final int picture_html=0x7f0a0018;
     }
     public static final class style {
         /** 
