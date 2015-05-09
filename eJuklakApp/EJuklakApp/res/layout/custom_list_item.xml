@@ -11,4 +11,6 @@
     	android:paddingLeft="15dp"
     	android:paddingRight="15dp"
         android:minHeight="60dp"
+        android:background="@drawable/custom_selector"
         android:textColor="@color/white" />
+

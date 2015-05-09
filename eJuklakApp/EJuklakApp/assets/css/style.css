@@ -5,8 +5,9 @@ table{
 }
 
 .large_table{
-	table-layout: fixed;
 	font-size: 11px;
+	table-layout:fixed;
+    max-width: 100%;
 }
 
 td, th{
@@ -23,7 +24,7 @@ td, th{
     width:auto;
     height:auto;
     max-width:100%;
-    max-height:90%;
+    max-height:100%;
     margin:0 auto;
 }
 

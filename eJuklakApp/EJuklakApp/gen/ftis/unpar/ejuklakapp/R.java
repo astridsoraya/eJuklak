@@ -864,8 +864,8 @@ containing a value of this type.
         public static final int abc_search_url_text_selected=0x7f060001;
         public static final int black=0x7f060005;
         public static final int ferrari_red=0x7f060004;
+        public static final int light_blue=0x7f060007;
         public static final int navy_blue=0x7f060006;
-        public static final int platinum=0x7f060007;
         public static final int white=0x7f060003;
     }
     public static final class dimen {
@@ -1089,10 +1089,11 @@ containing a value of this type.
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
         public static final int actionbar_background=0x7f020057;
-        public static final int drawer_shadow=0x7f020058;
-        public static final int ic_drawer=0x7f020059;
-        public static final int ic_launcher=0x7f02005a;
-        public static final int logo_unpar=0x7f02005b;
+        public static final int custom_selector=0x7f020058;
+        public static final int drawer_shadow=0x7f020059;
+        public static final int ic_drawer=0x7f02005a;
+        public static final int ic_launcher=0x7f02005b;
+        public static final int logo_unpar=0x7f02005c;
     }
     public static final class id {
         public static final int action_about=0x7f090046;
@@ -1274,7 +1275,6 @@ containing a value of this type.
         public static final int action_help=0x7f0a0012;
         public static final int action_settings=0x7f0a0014;
         public static final int app_name=0x7f0a000d;
-        public static final int banner=0x7f0a0019;
         public static final int help_html=0x7f0a0017;
         public static final int home_html=0x7f0a0015;
         public static final int home_url=0x7f0a0018;

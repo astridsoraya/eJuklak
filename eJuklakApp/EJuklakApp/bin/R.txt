@@ -126,8 +126,8 @@ int color abc_search_url_text_pressed 0x7f060002
 int color abc_search_url_text_selected 0x7f060001
 int color black 0x7f060005
 int color ferrari_red 0x7f060004
+int color light_blue 0x7f060007
 int color navy_blue 0x7f060006
-int color platinum 0x7f060007
 int color white 0x7f060003
 int dimen abc_action_bar_default_height 0x7f070002
 int dimen abc_action_bar_icon_vertical_padding 0x7f070003
@@ -241,10 +241,11 @@ int drawable abc_textfield_searchview_holo_light 0x7f020054
 int drawable abc_textfield_searchview_right_holo_dark 0x7f020055
 int drawable abc_textfield_searchview_right_holo_light 0x7f020056
 int drawable actionbar_background 0x7f020057
-int drawable drawer_shadow 0x7f020058
-int drawable ic_drawer 0x7f020059
-int drawable ic_launcher 0x7f02005a
-int drawable logo_unpar 0x7f02005b
+int drawable custom_selector 0x7f020058
+int drawable drawer_shadow 0x7f020059
+int drawable ic_drawer 0x7f02005a
+int drawable ic_launcher 0x7f02005b
+int drawable logo_unpar 0x7f02005c
 int id action_about 0x7f090046
 int id action_bar 0x7f09001c
 int id action_bar_activity_content 0x7f090001
@@ -367,7 +368,6 @@ int string action_example 0x7f0a0011
 int string action_help 0x7f0a0012
 int string action_settings 0x7f0a0014
 int string app_name 0x7f0a000d
-int string banner 0x7f0a0019
 int string help_html 0x7f0a0017
 int string home_html 0x7f0a0015
 int string home_url 0x7f0a0018

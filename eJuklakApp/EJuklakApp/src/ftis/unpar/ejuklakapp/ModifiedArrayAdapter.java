@@ -24,8 +24,11 @@ public class ModifiedArrayAdapter extends ArrayAdapter{
 	public View getView(int position, View convertView, ViewGroup parent){
 		View v = super.getView(position, convertView, parent);
 		
-		if(attributes.get(position).equals("h1")){
+		if(attributes.get(position).equals("h1") && !anchor.get(position).contains("Lampiran")){
 			v.setBackgroundColor(Color.RED);
+		}
+		else if(attributes.get(position).equals("h2")){
+			v.setBackgroundColor(Color.GRAY);
 		}
 		else{
 			v.setBackgroundColor(Color.BLACK);

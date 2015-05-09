@@ -6,8 +6,9 @@
     android:choiceMode="singleChoice"
     android:divider="@android:color/transparent"
     android:dividerHeight="3dp"
-    android:cacheColorHint="@android:color/transparent"
+    android:cacheColorHint="@android:color/white"
     tools:context="ftis.unpar.ejuklakapp.NavigationDrawerFragment" />
+
 
 
 
