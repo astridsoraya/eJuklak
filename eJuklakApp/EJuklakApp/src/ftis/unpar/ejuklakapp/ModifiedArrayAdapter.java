@@ -24,14 +24,26 @@ public class ModifiedArrayAdapter extends ArrayAdapter{
 	public View getView(int position, View convertView, ViewGroup parent){
 		View v = super.getView(position, convertView, parent);
 		
+		int left = 15;
+		int top = 5;
+		int right = 15;
+		int bottom = 5;
+		
 		if(attributes.get(position).equals("h1") && !anchor.get(position).contains("Lampiran")){
 			v.setBackgroundColor(Color.RED);
+			v.setPadding(left, top, right, bottom);
 		}
 		else if(attributes.get(position).equals("h2")){
 			v.setBackgroundColor(Color.GRAY);
+			v.setPadding(left + 15, top, right, bottom);
+		}
+		else if(attributes.get(position).equals("h3")){
+			v.setPadding(left + 15*2, top, right, bottom);
+			v.setBackgroundColor(Color.BLACK);
 		}
 		else{
 			v.setBackgroundColor(Color.BLACK);
+			v.setPadding(left, top, right, bottom);
 		}
 		return v;
 	}

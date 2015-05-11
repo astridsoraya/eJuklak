@@ -198,6 +198,7 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerC
 		else{
 			String temp = getResources().getString(R.string.home_html);
 			String file = temp + "#" + header;
+			System.out.println("url: " + file);
 			webView.loadUrl(file);
 		}
 		menuOpened = false;
@@ -208,17 +209,15 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerC
 	
 	public void openAbout(){
 		menuOpened = true;
+		
 		webView.loadUrl(getResources().getString(R.string.about_html));
 		
 	}
 	
 	public void openHelp(){
 		menuOpened = true;
+		
 		webView.loadUrl(getResources().getString(R.string.help_html));
-	}
-	
-	public void openPicture(){
-		menuOpened = true;
 	}
 	
 	public void refreshTitle(String title){
@@ -240,6 +239,8 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerC
 			}
 		}
 		else if(webView.getUrl().substring(0, 28).equals("file:///android_asset/images")){
+			lastHeader = webView.getUrl().substring(29, webView.getUrl().length() - 4);
+			System.out.println("lastHeader: " + lastHeader);
 			openBab(lastHeader);
 		}
 		else{
