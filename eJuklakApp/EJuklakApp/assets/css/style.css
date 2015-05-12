@@ -28,6 +28,18 @@ td, th{
     margin:0 auto;
 }
 
+.ipk{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.help{
+	max-width:100%;
+    max-height:100%;
+    margin:0 auto;
+}
+
 
 p.important{
 	color: #ff0000;

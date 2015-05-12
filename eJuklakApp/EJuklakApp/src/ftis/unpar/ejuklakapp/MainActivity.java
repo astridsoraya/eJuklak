@@ -44,13 +44,14 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerC
 	private CharSequence mTitle;
 	
 	private WebView webView;
+	private WebView hiddenWebView;
+	
 	private ModifiedWebViewClient webViewClient;
 	private ProgressBar spinningProgressBar;
 	private TextView loadingText;
 	
 	private boolean menuOpened = false;
 	private String lastState;
-	private String lastHeader;
 	
 	private static ArrayList<String> id_anchors = new ArrayList<String>();
 	private static ArrayList<String> title_anchors = new ArrayList<String>();
@@ -122,16 +123,16 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerC
 				(DrawerLayout) findViewById(R.id.drawer_layout));
 		
 		webView = (WebView) findViewById(R.id.webview);
-		webView.getSettings().setLoadWithOverviewMode(true);
-		webView.getSettings().setUseWideViewPort(true);
-		webView.getSettings().setLayoutAlgorithm(LayoutAlgorithm.NORMAL);
-		webView.getSettings().setBuiltInZoomControls(true);
+		hiddenWebView = (WebView) findViewById(R.id.hiddenWebview);
+		hiddenWebView.setVisibility(View.GONE);
 		
 		spinningProgressBar = (ProgressBar) findViewById(R.id.progressBar1);
 		loadingText = (TextView) findViewById(R.id.textView1);
 		
-		webViewClient = new ModifiedWebViewClient(spinningProgressBar, loadingText);
+		webViewClient = new ModifiedWebViewClient(spinningProgressBar, loadingText, this);
 		webView.setWebViewClient(webViewClient);
+		hiddenWebView.setWebViewClient(webViewClient);
+		
 	}
 	
 	@Override
@@ -191,6 +192,10 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerC
 
 	
 	public void openBab(String header){
+		if(webView.getVisibility() == View.GONE){
+			this.closeMenu();
+		}
+		
 		if(lastState == null){
 			webView.loadUrl(getResources().getString(R.string.home_html));
 		}
@@ -201,24 +206,43 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerC
 			System.out.println("url: " + file);
 			webView.loadUrl(file);
 		}
-		menuOpened = false;
+		
 		lastState = "home";
-		lastHeader = header;
 
 	}
 	
-	public void openAbout(){
+	private void openMenu(){
 		menuOpened = true;
-		
-		webView.loadUrl(getResources().getString(R.string.about_html));
-		
+		webView.setVisibility(View.GONE);
+		hiddenWebView.setVisibility(View.VISIBLE);
+	}
+	
+	private void closeMenu(){
+		menuOpened = false;
+		hiddenWebView.setVisibility(View.GONE);
+		webView.setVisibility(View.VISIBLE);
+	}
+	
+	public void openAbout(){
+		this.openMenu();
+		hiddenWebView.clearView();
+		hiddenWebView.loadUrl(getResources().getString(R.string.about_html));
 	}
 	
 	public void openHelp(){
-		menuOpened = true;
-		
-		webView.loadUrl(getResources().getString(R.string.help_html));
+		this.openMenu();
+		hiddenWebView.clearView();
+		hiddenWebView.loadUrl(getResources().getString(R.string.help_html));
 	}
+	
+	public void openPicture(String url){
+		this.openMenu();
+		hiddenWebView.clearView();
+		hiddenWebView.clearHistory();
+		hiddenWebView.loadUrl(url);
+		hiddenWebView.getSettings().setBuiltInZoomControls(true);
+	}
+	
 	
 	public void refreshTitle(String title){
 		setTitle(title);
@@ -233,18 +257,11 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerC
 			mNavigationDrawerFragment.getMDrawerLayout().closeDrawer(Gravity.LEFT);
 		}
 		else if(menuOpened){
-			if(lastState=="home"){
 				refreshTitle(getResources().getString(R.string.app_name));
-				openBab(lastHeader);
-			}
-		}
-		else if(webView.getUrl().substring(0, 28).equals("file:///android_asset/images")){
-			lastHeader = webView.getUrl().substring(29, webView.getUrl().length() - 4);
-			System.out.println("lastHeader: " + lastHeader);
-			openBab(lastHeader);
+				this.closeMenu();
 		}
 		else{
-			super.onBackPressed();
+			finish();
 		}
 		
 	}
