@@ -12,7 +12,7 @@ Berikut adalah langkah-langkahnya:
 ![library app](images/app_library.PNG)
 6. Jika reference menuju appcompat masih error atau bertanda silang/cross berwarna merah, remove reference tersebut dan add new reference dengan appcompat yang sudah di-import sebelumnya ke IDE. Jika reference sudah bertanda centang hijau, reference menuju appcompat sudah benar.
 
-** Cara menge-build aplikasi**
+**Cara menge-build aplikasi**
 
 1. Aturlah konfigurasi bagaimana aplikasi akan di-run. Konfigurasi tersebut bisa diatur di menu android yaitu Run. Klik menu drop down di sebelah icon Run dan klik Run configuration. Icon app run dilingkari merah pada gambar berikut ini:
 ![run app](images/app_run.PNG)
