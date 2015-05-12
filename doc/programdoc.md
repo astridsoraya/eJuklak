@@ -1,5 +1,6 @@
 Class : MainActivity.java
 ==========================
+--> kelas utama yang akan ditampilkan pada applikasi
 Attributes:
 ----------------------
  * NavigationDrawerFragment mNavigationDrawerFragment : attribut untuk menyimpan fitur-fitur navigasi dalam bentuk navigation drawer
@@ -38,6 +39,7 @@ Methods:
 
 Class : PlaceHolderFragment.java
 =================================
+--> kelas untuk menyimpan holder fragment.Kelas ini mengextend kelas Fragment dari programming android Eclipse.
 Attributes:
 ---------------------
  * final static String ARG_SECTION_NUMBER="section_numbers" : attribut yang menyimpan section number utama
@@ -58,6 +60,7 @@ Methods:
  
 Class : NavigationDrawerFragment.java
 =================================
+--> Kelas yang menghandle fragment pada navigation drawer.Kelas ini mengextend kelas Fragmetn yang telah disediakan Eclipse untuk android programming.
 Attributes:
 ---------------------
  * static final String STATE_SELECTED_POSITION = "selected_navigation_drawer_position" : menyimpan posisi dari opsi yang dipilih
@@ -174,6 +177,8 @@ Method(s):
   * **parameter(s)**:
   * view : menyimpan view yang akan ditutup saat page ditutup 
   * url : menyimpan link yang ditutup saat page ditutup.
+
+
 Frameworks
 =====================
 Jsoup Framework : 
