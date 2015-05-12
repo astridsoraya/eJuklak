@@ -18,7 +18,7 @@ Berikut adalah langkah-langkahnya:
 ![run app](images/app_run.PNG)
 2. Activity default pada EJuklakApp adalah MainActivity sehingga pengguna bisa memilih 'launch default project' atau 'launch MainActivity.java'.
 3. Pengguna juga bisa memilih apakah aplikasi akan dijalankan secara otomatis pada emulator device atau handphone device. Pengguna harus menge-klik 'Always prompt to pick device' di tab 'Target' agar bisa memilih. Untuk handphone device, pastikan pengguna sudah meng-install driver handphone dan Google USB Drive di Android SDK.
-![run configuration app](images/app_configuration_run.PNG)
+![run configuration app](images/app_run_configuration.PNG)
 4. Setelah project di-run, APK akan dibuat secara otomatis. APK adalah merupakan file installer untuk Android. APK ada di dalam folder bin yang ada di project.
 5. Selain itu, pengguna juga bisa menge-build APK dengan cara export. Klik menu 'File' dan klik menu 'Export'.
 ![export app](images/app_export.PNG)

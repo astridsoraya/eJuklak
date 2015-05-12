@@ -1,5 +1,6 @@
 Class : MainActivity.java
 ==========================
+--> kelas utama yang akan ditampilkan pada applikasi
 Attributes:
 ----------------------
  * NavigationDrawerFragment mNavigationDrawerFragment : attribut untuk menyimpan fitur-fitur navigasi dalam bentuk navigation drawer
@@ -38,6 +39,7 @@ Methods:
 
 Class : PlaceHolderFragment.java
 =================================
+--> kelas untuk menyimpan holder fragment.Kelas ini mengextend kelas Fragment dari programming android Eclipse.
 Attributes:
 ---------------------
  * final static String ARG_SECTION_NUMBER="section_numbers" : attribut yang menyimpan section number utama
@@ -58,6 +60,7 @@ Methods:
  
 Class : NavigationDrawerFragment.java
 =================================
+--> Kelas yang menghandle fragment pada navigation drawer.Kelas ini mengextend kelas Fragmetn yang telah disediakan Eclipse untuk android programming.
 Attributes:
 ---------------------
  * static final String STATE_SELECTED_POSITION = "selected_navigation_drawer_position" : menyimpan posisi dari opsi yang dipilih
@@ -120,7 +123,62 @@ Methods:
  * (private)ActionBar getActionBar() : Method untuk mendapatkan action bar
  * (public)DrawerLayout getMDrawerLayout() : Method untuk mendapatkan drawerLayout
  * (public)static interface NavigationDrawerCallbacks : Memanggil interface "Navigation Drawer"
+
+Class Interface: NavigationDrawerCallback.java
+=========================================
+Method
+------------
+ 	* (default)void onNavigationDrawerItemSelected(int position);
+ 	 * **parameter(s)** :
+ 	 * position : menyimpang posisi navigasi drawer
  
+Class : ModifiedArrayAdapter.java
+=====================================
+--> Kelas ini berguna untuk memodifikasi list view yang akan ditampilkan di navigation drawer.Kelas ini mengextend ArrayAdapter yang tersedia dari android programming.
+
+Attribute(s):
+--------------
+ * ArrayList <String> attributes;
+ * ArrayList <String> anchor;
+Method(s):
+---------------
+ * (public)ModifiedArrayAdapter(Context context, int resource,int textViewResourceId, ArrayList<String> anchor, ArrayList<String> attributes) : Constructor untuk kelas ModifiedArrayAdapter.
+  * **parameter(s)** :
+  * context : menyimpan isi dari ArrayAdapter
+  * resource : menyimpan jumlah resource yang disimpan
+  * textViewResourceId :menyimpan id dari resource pada text
+  * anchor : menyimpan element dalam header untuk jump
+  * attributes : menyimpan header untuk jump
+ * (public)View getView(int position, View convertView, ViewGroup parent) :method overriding  dari kelas ArrayAdapter untuk mendapatkan view.
+  * **parameter(s)** :
+  * position : menyimpan posisi dari list view
+  * convertView : menyimpan jenis view untuk list view pada navigation drawer
+  * parent : menyimpan parent-parent dari kelas turunan ini.
+ 
+Class:ModifiedWebView.java
+===========================
+--> kelas untuk modifikasi web view.Kelas ini mengextend WebViewClient yang tersedia pada android programming Eclipse
+Attribute(s):
+--------------
+ * ProgressBar spinningProgressBar : attribut yang menyimpan tampilan progress bar yang berputar.
+ * TextView loadingText : menyimpan text yang muncul saat program di load.
+Method(s):
+--------------
+ * (public)ModifiedWebViewClient(ProgressBar spinningProgressBar, TextView loadingText) : method constructor untuk kelas ModifiedWebViewClient.
+  * **parameter(s)**:
+  * spinningProgressBar : parameter untuk memasukan jenis spinningProgressBar
+  * loadingText : parameter untuk memasukan text apa yang akan muncul saat loading program.
+ * (public)void onPageStarted (WebView view, String url, Bitmap favicon): method yang dipanggil saat page diload.
+  *  **parameter(s)** :
+  *  view : memasukan view yang dipakai untuk menampilkan web view.
+  *  url : menyimpan link untuk menuju page di mana content disimpan.
+  *  favicon : parameter dari eclipse.
+ * (public)void onPageFinished (WebView view, String url) : method yang dipanggil saat page ditutup.
+  * **parameter(s)**:
+  * view : menyimpan view yang akan ditutup saat page ditutup 
+  * url : menyimpan link yang ditutup saat page ditutup.
+
+
 Frameworks
 =====================
 Jsoup Framework : 
