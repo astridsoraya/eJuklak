@@ -8,7 +8,7 @@ Help
 2. Untuk memilih konten eJuklak, tekan tombol dropdown di layar terletak pada kiri atas layar pada icon EJuklak, lalu pilih bab dan subbab yang Anda inginkan.  
 ![icon juklak](images/juklak_icon.png)  
 ![navigasi juklak](images/juklak_navigasi.png)
-3. Selain menekan tombol ikon dropdown di kiri atas, pengguna juga bisa dapat menu navigasi menge-slide layar dari ujung kiri ke kanan.  
+3. Selain menekan tombol ikon dropdown di kiri atas, pengguna juga bisa dapat menampilkan menu navigasi dengan menge-slide layar dari ujung kiri ke kanan.  
 ![geser juklak](images/juklak_geser.png)  
 4. Setelah memilih bab atau subbab tertentu, aplikasi akan langsung menampilkan bab dan subbab yang dipilih. 
 ![bab juklak](images/juklak_bab.png)
