@@ -192,9 +192,9 @@ Struktur program
 
 #### Method
 
- 	* (default)void onNavigationDrawerItemSelected(int position);
- 	 * **parameter(s)** :
- 	 * position : menyimpang posisi navigasi drawer
+* (default)void onNavigationDrawerItemSelected(int position);
+* **parameter(s)** :
+* position : menyimpang posisi navigasi drawer
  
 ### Class : ModifiedArrayAdapter.java
 
