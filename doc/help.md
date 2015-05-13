@@ -15,8 +15,5 @@ Help
 
 **Cara melihat dan menge-zoom gambar**
 
-1. Untuk menge-zoom gambar, klik salah satu gambar. Gambar yang bisa di-zoom hanya gambar peta mata kuliah dan lampiran.  
-![gambar juklak](images/juklak_gambar.png)
-2. Setelah menge-klik, pengguna bisa melakukan zoom-in dan zoom-out terhadap gambar.  
+1. Untuk menge-zoom gambar, lakukan pinch zoom dengan dua jari.  
 ![zoom juklak](images/juklak_zoom.png)
-3. Jika pengguna ingin kembali ke halaman utama EJuklak, tekan tombol 'back' pada handphone.  

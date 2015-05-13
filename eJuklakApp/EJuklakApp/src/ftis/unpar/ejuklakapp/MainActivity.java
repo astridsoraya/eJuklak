@@ -57,6 +57,10 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerC
 	private static ArrayList<String> title_anchors = new ArrayList<String>();
 	private static ArrayList<String> heading_anchors = new ArrayList<String>();
 	
+	public boolean getMenuOpened(){
+		return menuOpened;
+	}
+	
 	public static ArrayList<String> getIdAnchors(){
 		return id_anchors;
 	}
@@ -129,9 +133,11 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerC
 		spinningProgressBar = (ProgressBar) findViewById(R.id.progressBar1);
 		loadingText = (TextView) findViewById(R.id.textView1);
 		
-		webViewClient = new ModifiedWebViewClient(spinningProgressBar, loadingText, this);
+		webViewClient = new ModifiedWebViewClient(spinningProgressBar, loadingText);
 		webView.setWebViewClient(webViewClient);
 		hiddenWebView.setWebViewClient(webViewClient);
+		
+		webView.getSettings().setBuiltInZoomControls(true);
 		
 	}
 	
@@ -225,24 +231,13 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerC
 	
 	public void openAbout(){
 		this.openMenu();
-		hiddenWebView.clearView();
 		hiddenWebView.loadUrl(getResources().getString(R.string.about_html));
 	}
 	
 	public void openHelp(){
 		this.openMenu();
-		hiddenWebView.clearView();
 		hiddenWebView.loadUrl(getResources().getString(R.string.help_html));
 	}
-	
-	public void openPicture(String url){
-		this.openMenu();
-		hiddenWebView.clearView();
-		hiddenWebView.clearHistory();
-		hiddenWebView.loadUrl(url);
-		hiddenWebView.getSettings().setBuiltInZoomControls(true);
-	}
-	
 	
 	public void refreshTitle(String title){
 		setTitle(title);
