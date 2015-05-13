@@ -68,7 +68,11 @@ Struktur program
  * CharSequence mTitle : Menyimpan judul dari app,disimpan dalam bentuk kumpulan character
  * boolean menuOpened=false : attribut untuk menentukan apakah menu navigasi sedang terbuka atau tidak.Diinisialisasi default dengan menu tidak terbuka(false)
  * String lastState :attribut yang menyimpan dimana kalo menu di back akan kembali ke state ini
- * String lastHeader:attribut buat menyimpan state header terakhir
+ * WebView webView: atribut untuk menampilkan konten halaman HTML eJuklak
+ * WebView hiddenWebView: atribut untuk menampilkan konten halaman help dan panduan
+ * ArrayList <String> attributes;
+ * ArrayList <String> anchor;
+ * ArrayList <String> id;
 
 #### Methods:
 
