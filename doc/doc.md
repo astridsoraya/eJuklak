@@ -25,6 +25,7 @@ Markdown ini menjelaskan bagaimana untuk menge-build aplikasi dari source code y
 Berikut adalah langkah-langkahnya:
 
 **Cara mengkonversi markdown ke HTML menggunakan aplikasi pandoc**
+
 1. Pengguna dapat memilih dua cara yang berbeda, yaitu dengan menggunakan installer dan website pandoc.
 2. Kunjungi halaman download Pandoc di https://github.com/jgm/pandoc/releases dan pilih rilis terbaru dan download installer sesuai sistem operasi pengguna.
 3. Install downloader pandoc.
@@ -33,6 +34,7 @@ Berikut adalah langkah-langkahnya:
 6. HTML hasil konversi pandoc disimpan di folder assets yang ada di dalam EJuklakApp project.
 
 **Cara mengkonversi markdown ke HTML menggunakan web pandoc**
+
 1. Apabila pengguna tidak bisa menginstall installer pandoc karena kondisi tertentu (seperti komputer umum melarang pengguna biasa meng-install), pengguna bisa mengkonversi markdown secara online.
 2. Kunjungi halaman http://pandoc.org/try/ dan pilih menu markdown ke HTML.
 3. Salin paragraf markdown ke tabel yang terletak di sebelah kiri.
